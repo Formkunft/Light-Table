@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>25G76</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Light Table</string>
+	<key>CFBundleExecutable</key>
+	<string>Light Table</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.formkunft.LightTable</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Light Table</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.16.3</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>53</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>25F70</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>26.5</string>
+	<key>DTSDKBuild</key>
+	<string>25F70</string>
+	<key>DTSDKName</key>
+	<string>macosx26.5</string>
+	<key>DTXcode</key>
+	<string>2660</string>
+	<key>DTXcodeBuild</key>
+	<string>17F113</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2021–2026 Florian Pircher</string>
+	<key>NSPrincipalClass</key>
+	<string>LightTable.Plugin</string>
+	<key>Principal Classes</key>
+	<array>
+		<string>LightTable.Plugin</string>
+		<string>LightTable.Palette</string>
+		<string>LightTable.ComparisonTool</string>
+		<string>LightTable.Reporter</string>
+	</array>
+</dict>
+</plist>
