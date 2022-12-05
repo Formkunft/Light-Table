@@ -22,3 +22,6 @@ xcuserdata/
 timeline.xctimeline
 playground.xcworkspace
 .build/
+
+# Python
+__pycache__
