@@ -120,3 +120,51 @@
 
 /* Class = "NSButtonCell"; title = "Align layers"; ObjectID = "GcY-iy-OYX"; Note = "Checkbox: whether to align layers to each other"; */
 "GcY-iy-OYX.title" = "Ebenen ausrichten:";
+
+/* Class = "NSTextFieldCell"; title = "Profile Picture"; ObjectID = "grq-b0-6YA"; Note = "Heading for a section in the settings window about the display of profile pictures"; */
+"grq-b0-6YA.title" = "Profilbild";
+
+/* Class = "NSButtonCell"; title = "Show profile pictures"; ObjectID = "Tuv-ca-g5u"; Note = "Checkbox: Whether to show profile pictures"; */
+"Tuv-ca-g5u.title" = "Profilbilder anzeigen";
+
+/* Class = "NSButtonCell"; title = "Only for multiple collaborators"; ObjectID = "T3L-J9-rJX"; Note = "Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist"; */
+"T3L-J9-rJX.title" = "Nur bei mehreren Mitarbeitern";
+
+/* Class = "NSTextFieldCell"; title = "Image style:"; ObjectID = "WIT-VI-qDf"; Note = "Label for a menu containing different styles in which images can appear"; */
+"WIT-VI-qDf.title" = "Bildstil:";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "rQp-qd-L74"; Note = "Menu item option: Images should appear normally"; */
+"rQp-qd-L74.title" = "Normal";
+
+/* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "d1d-my-4Ge"; Note = "Menu item option: Images should appear monochrome (grayscale)"; */
+"d1d-my-4Ge.title" = "Monochrom";
+
+/* Class = "NSMenuItem"; title = "Color-coded"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+"7Qd-RJ-FqW.title" = "Farbcodiert";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Tints profile pictures with different colors for clearer differentiation of profiles"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+"7Qd-RJ-FqW.ibShadowedToolTip" = "Färbt Profilbilder mit verschiedenen Farben ein für eine karere Trennung von Profilen";
+
+/* Class = "NSTabViewItem"; label = "Profiles"; ObjectID = "ZR2-z2-vL4"; */
+"ZR2-z2-vL4.label" = "Profile";
+
+/* Class = "NSViewController"; title = "Profile Pictures"; ObjectID = "FNX-bS-XtX"; */
+"FNX-bS-XtX.title" = "Profilbilder";
+
+/* Class = "NSTextFieldCell"; title = "Profile Picture Sources"; ObjectID = "NqK-79-Zf1"; Note = "Heading for a section in the settings window for configuring from where profile pictures are loaded"; */
+"NqK-79-Zf1.title" = "Profilbild-Quellen";
+
+/* Class = "NSTextFieldCell"; title = "Contacts:"; ObjectID = "KVK-qZ-Xbi"; */
+"KVK-qZ-Xbi.title" = "Kontakte:";
+
+/* Class = "NSButtonCell"; title = "Allow Access to Contacts"; ObjectID = "wtK-UA-fuE"; */
+"wtK-UA-fuE.title" = "Zugriff auf Kontakte erlauben";
+
+/* Class = "NSTextFieldCell"; title = "Gravatar:"; ObjectID = "oB6-Z4-grd"; */
+"oB6-Z4-grd.title" = "Gravatar:";
+
+/* Class = "NSButtonCell"; title = "Allow loading profile pictures from Gravatar"; ObjectID = "bT6-H6-mcf"; */
+"bT6-H6-mcf.title" = "Erlaube, Profilbilder von Gravatar zu laden";
+
+/* Class = "NSButtonCell"; title = "Gravatar Data Privacy"; ObjectID = "Kj7-z7-fcA"; */
+"Kj7-z7-fcA.title" = "Gravatar Data Privacy";

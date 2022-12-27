@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Acknowledgements/Iosevka/LICENSE.md</key>
+		<data>
+		7BE0nQXjStowrygs9zSvLJ1kW2A=
+		</data>
+		<key>Resources/Acknowledgements/Iosevka/private-build-plans.toml</key>
+		<data>
+		lt2kAo+zYb2ATKJm9qRVUHi3l4s=
+		</data>
 		<key>Resources/AlignmentBottomTemplate.pdf</key>
 		<data>
 		rZnTHw6YLFNeXpSwhWBfwEhL+Rc=
@@ -30,35 +38,47 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		Z9bgLde+JZV0VTesTM5qMM0f/CI=
+		kJH8zuLssMcxuCXhvjXOPI/quQA=
+		</data>
+		<key>Resources/Base.lproj/PaletteView.nib</key>
+		<data>
+		KlBcnfZYj6aZu/s2FN8cyckHnnA=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		J3iSlVtFz49wIkfPyzeAYNaiMYE=
+		1RPl+/iM66LjMdRHbTJor3dyxQg=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		rDD4yN2lUjpzMQFr9hlMGz8U+sY=
+		6G0Jo0OpWN/5KDFHaWM3LNcHo5o=
+		</data>
+		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
+		<data>
+		+M6u9vt0yhQGXPUMbmYWOvm10dQ=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		DTcu69BzRv+dhTW3dq8b4+uNboA=
+		zTALdSblMwgI232ni4pgubCT02g=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		B0BLa22kXzbgxF+V7T60le4qz/k=
+		iz8Th4WNeW9kbiia0H5+xlgQOO8=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		jsBXWZ5joFt3fggbZPFPyXcbLLI=
+		6YV1aEmLYsvF9wZvadseK1h/0T0=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		1qD/GCQhkoCzfrg3HSraM/0KcN4=
+		O4vIST2qJT8U1Itrt83GWfMVlz4=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
 		dcwLIQgURpAxDkq7VP/MHVMjaZg=
+		</data>
+		<key>Resources/ComparisonInspector.nib</key>
+		<data>
+		VzcbHsZKu63RDZ/6poYbAH5nIS4=
 		</data>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<data>
@@ -72,13 +92,9 @@
 		<data>
 		1W9vzr6mcQLDUAD2mCzFuvSpi5E=
 		</data>
-		<key>Resources/InspectorViewComparison.nib</key>
-		<data>
-		tGbDoPmsYNjEMOB7KNtonWJc7uk=
-		</data>
 		<key>Resources/LayerRestoreOptions.nib</key>
 		<data>
-		VItE94b4xz7kTsiz1AY2GtVHJFc=
+		ug3uFccQoQRjPT0BI3wXkb/Bdww=
 		</data>
 		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
 		<data>
@@ -92,15 +108,20 @@
 		<data>
 		g+S+Z5lDL+obIZhvy/dRuyvTQEY=
 		</data>
-		<key>Resources/Palette.nib</key>
-		<data>
-		qaXuyhWYpbV5CXwDYIAl3YstI+A=
-		</data>
+		<key>Resources/de.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4JvvnLUjsYYiFuYLhz9+0y/DZoE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/ComparisonTool.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mTro6yloJEu8lm0u1KKNP3Y77e4=
+			K3jDOO4nxkHQzCq6iu8OSrZYFpo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -109,7 +130,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c1Z/oCIO+rGTT/p1Glv+1reI8ws=
+			ltY2WIc7xDAa8cZebGHWfALVIA8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -118,7 +139,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1QDNL4QbfxX/FYWI9KwceynRz0Y=
+			vyOwsKs7ndfqb6jPwT4Jfc88RDU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -127,7 +148,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eK56djyxER5cClVyaV8lIFyqFMU=
+			eULrIFeaC06NFVrwJAx/8N0zwQA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -136,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w6rQ1/KX8ciT7r7kW45MmCVJaPE=
+			M+H6hVnh3/i1s6TEU9CaE9iTKF8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -145,7 +166,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fdP8keGWySJwhYxC3xgTypFX52c=
+			pX15U3wkCm3aouGwIvy7JlafdSA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UAEOyh2e+H8O89lmTNO/jCXbHNs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -154,7 +184,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sZnOa2gthY0VMjSWLDJ4yIWIgdE=
+			E+m+j9z91zHJy6O3nDbgDddvuLA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -163,16 +193,52 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Rit+I2wU7nrEKpF02QFbXSBe4V8=
+			9LFXmHuIgQvwV4u5t2hH4R7TiKI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Versions.strings</key>
+		<key>Resources/de.lproj/ProfilePictureSourcesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tIVJ8akWwANdKwecUsVbCVZoJlI=
+			+QnIrRX+OiEgHqyV5JY7fvBllCQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eUCQguZ/OOWcXPg4kXfYjh7OwH4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2sMUHDvWUz+W5XtK53DiegK6EKs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ComparisonTool.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RHNeaDB+yLC80ldw2rQkj1vpyTM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Git.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			avQJvbyilV4DgPcyh9P9joICj8g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -181,7 +247,70 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o6ezLGkeYeMF/TwqfFPdR3neTqs=
+			H4BNw3oMfZLBazzI406buNrutFc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/LayoutAlignment.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tSLvcpcT0ed4cBiW1nqrllypq0Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Palette.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OaNuFZnSH9GnkuZPHcw3ARGoQh8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/PalettePreferenceViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cmv5KcoCRCsscYZzQIgywPRqYiE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Processes.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xuhg96tVn0sfrn/Q4YmBnnWsCK0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ProfilePictureSourcesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NX80ZVYnsLslyFz0SsnmntgcCrg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0Rb1NS3p88TCecAjW7n719YBNqY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eUF8/VA7dYRD4UlM8xyZhYYb3Lk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -190,7 +319,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y9ICN7RixRy45FBEwOBRqptBIDk=
+			DdSONDADFuwW71nlJYtpanxiLiI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -199,7 +328,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZojXbydpyVpLdtGK5S5aGF6LgfM=
+			lz/pFKYVoN5/IlyeNZo7bURmfVI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -208,7 +337,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RRYkjSFm0NDbMDFgtEHSrKz5/o0=
+			vwS6jjT/0BCZkrU8UbBo2nOE3zI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -217,7 +346,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lzrMCUZv9TngN85CNwBFX05gPbE=
+			GO5v5ztlgG7fqP/cA0zFcAzb/Wc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -226,7 +355,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s10Um7/afb4mg4s0jRmd6APFyyQ=
+			7rTmi7+hHCprevBuFOzX3eDl6oU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -235,7 +364,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			np+xzsDmXWO9Y10MMkeVmvOm/DI=
+			7acvAxQ6ABU9cBYIvMXEkZOxF5Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JSw+ln2QYZwuwLh1t9iQvwVXxSQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -244,7 +382,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X3bQbL4wf5XpLLHsE/RnmA3pmS4=
+			YHifbDqjIjd3LASJqGH7/Phu45o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -253,16 +391,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MYm/o6kcZnU2nL5JIp6l/bqcIkQ=
+			Xkye34UNIk1LYtPb7c6k0s/gk/I=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Versions.strings</key>
+		<key>Resources/it.lproj/ProfilePictureSourcesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eI91mUcWvQPjJ618PxSBvmbbvJk=
+			BHgXX8e4YlnmoBe53PgWQ2l023E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HryloOSmsoQKxHihJJr9eTTxdv0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -270,6 +417,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Acknowledgements/Iosevka/LICENSE.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ruyt2nOr85zadnMalP01e3Q/iC3BFWtEEKKWeoEcT/E=
+			</data>
+		</dict>
+		<key>Resources/Acknowledgements/Iosevka/private-build-plans.toml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ObFu21Xi8D7F9D9q3fXW3IeUuaZJIfpW+I0bJGrKsIU=
+			</data>
+		</dict>
 		<key>Resources/AlignmentBottomTemplate.pdf</key>
 		<dict>
 			<key>hash2</key>
@@ -316,49 +477,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x9d/H9WQ1bHzF4sXUeaxbMqwtZcdIOgKgPKrhu65kPw=
+			PDuPQ2r6Ts9x8PbWl3vb3ohD0HvJvlKFustg4V+xWQY=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/PaletteView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NLKTuad17OAg0GKkOlUTLFkoSRt/FLMsroMqm6j/Ico=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p2uUNNiBijNgUikrWah1Ti6h3MGaI1K/SDS3o9/MqRk=
+			nsIHmUhfhmlw9JGg9c90BKTTsKwVyti3t6o8j5L7jq0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVaQTkTxSOzoLp34winXdKz5ZFkiy6bBWH0Kf+Rzncs=
+			KtAVXfJVGhBYP7rY2XoAiFGSY/ZUr/PAhlsFTgWP/VA=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t3V4+cxH3LQN71W3L1lEO/vIGb0AVyI+aLErp3zxgzM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+jK5Mvrj4y5Eaiz1TPZjTlEwPeiRANzaHGPwRNWzzNs=
+			TXz7pJGJbowcdCz8tPEYpoVZnlftHtpbCZxkpAy58Bo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f24TtIqWUo6uccqsgA5IbT66RFxkFEEil6PP4g0KFSM=
+			eA7L+MS0nap/2o22qSaq6t7xlYTECVnZuJuouYynVss=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rFL+Ot25t8KMzy64B/Iz+eagSWByOGpVtafNZSbY4QM=
+			VM8t+N5mABEPaKKSK+Uhob3MuoZz4g/qixY4FFctKvQ=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pKRvoscVD4cPmkFVJ5DkxFBzrVDN/W2nTW8cwtB42rE=
+			eofTZ953n3EY3NY0XrimTStDRbpakZcDLFZCOfKujpM=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -366,6 +541,13 @@
 			<key>hash2</key>
 			<data>
 			E5TydeWynoe7ikUTfd2H87wFEu4leIDPGUwzqgAM40o=
+			</data>
+		</dict>
+		<key>Resources/ComparisonInspector.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S957fhGzNKGvIrWIUGLegH+v9yo9DPXYMNBVok20ojg=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
@@ -389,18 +571,11 @@
 			jCuIfO6gx0KxAxvestWTbK/H+RPec8jG8Ysf6A+z3iY=
 			</data>
 		</dict>
-		<key>Resources/InspectorViewComparison.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nVOh4fDpAquEd4dBKSwIrnN2tZnjFsvyvpBZXGKCUqQ=
-			</data>
-		</dict>
 		<key>Resources/LayerRestoreOptions.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8BHwsetlsMQcaVbmoJEPzoeKVIBCLCy2wK6bSLz9k1g=
+			Uhu9yBPxbEKgkXBbARX4Gl/3IWp6fVLgbRp8siaCOAw=
 			</data>
 		</dict>
 		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
@@ -424,18 +599,20 @@
 			YT942t2Guy2bunN3fyN3s/xj38h52evh136xHm/jwqQ=
 			</data>
 		</dict>
-		<key>Resources/Palette.nib</key>
+		<key>Resources/de.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EimGmth9Uyu85M6jLn4HO40uEmEWb8EcQMUlZgxHDPw=
+			yhbm/Q/paWrYMlbzizDGISfzBQW9eem5SrRO28jRadw=
 			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/de.lproj/ComparisonTool.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nqKGV/DQfF0VR6JFU5fP4MlprmGBSgrhl13AuL0MXNY=
+			VlyYGfcbWd0Yok56lsrR+Dqj7hw9TWygGdVUVD78Qcc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -444,7 +621,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			90Fm72jMDnZsV/QXCLkrGdVBjpdTtIj8JNSH3a4l0dE=
+			CfiBBsFcyOIKuA3BTivLDUp8cB9eZHzgWHC8eYMHrEk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -453,7 +630,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ns80t5q8i1MmcGtpgJDmhTNtXuhcgav9SrKkTMvUQLI=
+			gVS4zmaXDl6iMVrC+6XAB3kWCjVuEtIeyoTVzcygxeQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -462,7 +639,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hrXTtdEGTXouwNN47fEBv36qmI3YT7Fe5U6y1uD1Vpw=
+			mM7YsquJQOg+usXsvg9ii9VgozTdaqiomHBcGxI6W1U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -471,7 +648,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAhI2BVkcuxWZSkBXlczvch+IOB36xESApQXQwtOxqs=
+			vgJo5/Ocuxm5ZVzxQOwUiQOLkmABv7CBCf04/7AdIrQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -480,7 +657,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/i0Yup1rSt1/jb5KEsBggwnDMILB2sfNQ9Zu4yi8BkU=
+			/1D7ojbdvO/araFPmdEP5txEZynGLnjwf7n1waWlIVo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yMrrYOnrLRP1Xms6p19fmEDpEoDa25I/KJb0WaciWHs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -489,7 +675,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONnm5u0hMH45tFs+YgCrElCRFeG0CceGDhRtWZV90+c=
+			aPr0TEeI8GaV6ek7HFYilX1J4rfjbo6BfIgd7BjnpP4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -498,16 +684,52 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h9qTR58fa+vhnV3C4VZzwma4EKSD+2ExWEjp5GPJbS8=
+			0RyrGkyeTTOrAZo8jpARic16vhv7OSVF1vuM7mbCQvE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/Versions.strings</key>
+		<key>Resources/de.lproj/ProfilePictureSourcesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BJ55b/3mkE7cLESTC/LsskZ7ZSCQNxR12AC3CwIgOi0=
+			pb9g/BWKh8kdmza+TuEperSJ+HXsMaaxqVrrOIWRRQo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j7d6fuCFcyF/FLVHcuvHe341ZFykilQDP3YRyU+Tj30=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BTyreIxiwg3Bqn1g088zy+ZWTh6T70JpfpM3oCsjxp0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ComparisonTool.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JnkOMdc4kxHd3aeJ7uF92kIpIZcYLT/0qNu9oc17VeM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Git.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9n2ke2PKkeJVA4mj5oJt+OcJ9uObpsDS8SAo+d2bNNs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -516,7 +738,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cxkdvkGdI1m28jtxxVHeBna4zhhh0qBGdDF8PPW07rM=
+			vVM7iJdfhN8oN0P75wNe4Ogqq2NbirkS9oFU79JuQ/Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/LayoutAlignment.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e6g2lNJYTw8sSKgJraoHgV39CKYvFOYC6y7vIljFBlc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Palette.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uFyOKlSFgOdOGM5B4xyIqvDwW3lB7zDog2u1B+9ShTc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/PalettePreferenceViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Omie3UE3NJKfM53n9wftKJBtozJRVPF25JkpaIm6tWo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Processes.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xudoxVidxLSxJmYVo6Mzbobde5VBnjQ0wdCF+3gWE2g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/ProfilePictureSourcesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gLrOyb0ogpyhKcyrqCOqrhVyGO5nNRcX3qM/jDpjom0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MZywcTrfNfkWrHj7LHFJNAFDZf9aazK7kyYLFlnUtxY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KcyNl+yEmXlRB8caX4Q0goPQ/oEBW3HBltIIjyHYrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -525,7 +810,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zb5pfcEvTzcom5aHsS27AL2HmvA/z+f2JePq/ePKcCQ=
+			yj0Pee42lCPjFHk+ZQ2pJuFRrv7k/ivxxthWRIQcZak=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -534,7 +819,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RinlZWraQ09KY+FS34mC1u701InMctvKFdMxNKTH8EM=
+			XdYGaFmvKp1+mLz9adMyqKvffspdk8+xjcOBFXwydNU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -543,7 +828,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QaoO6SuY8zQg6C7uWRMhbpMKbwPKj2os+Hnhi/4f5gk=
+			VPOgrPsNv+J0WhpqXh2f50w0V75KH5qv+AOBOISLVUY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -552,7 +837,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rHUEIQ+giyrfqAylkOgt4UKNHjMyLh6deL9fZREfCgI=
+			zeED6kwZT1i6JeOOFeVoD9cnPMB8qDgai281Emifniw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -561,7 +846,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PJxIbhgS8YGdrx/XEElZtGQoE2+6Ns9mb6ce/c48edI=
+			QiRkAFXVQeLClMV/ARzFiv3oparsD9WcsOgDkOOMAVE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -570,7 +855,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MYGLkpTlMNS5Aqw9gOnWoq7X0qOoJsA1I08vCD8RgU=
+			4ejU7rTk0Z6zQ6K9uU9KKYnfC4HIF8qLaBJfWe0HRz4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DH10VMO6BVd3LVZdbtuzEx6dfsK5dQyqP/1PDlpHHU0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -579,7 +873,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v0byjGvVYXoWCLS62HL+dZ/sOFUBpS744GjJvbwePbk=
+			zh4ATTQH1RUc+HLAdDU38bxr76+a27oMz+vkECKQz2g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -588,16 +882,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MP9//uR2w7/B9ray4733TqmB/EveaHa953kyGblqxTg=
+			4iGV2bfqKOE51bW3L6UWCKJ0F6rUJKaVgzhBPilHu2E=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/Versions.strings</key>
+		<key>Resources/it.lproj/ProfilePictureSourcesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8AsODnIrs+9mVP2xH1gtoy/nc5fK6e1FTqeKPuXWoJE=
+			wK694FXo2pHl+nGg+hy3jvspzEaXOVb+b6otvn0Rs3g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			weSvhdhJKgLSu9/fUyAitFtzT74Wx00Psobs+DUYsJQ=
 			</data>
 			<key>optional</key>
 			<true/>

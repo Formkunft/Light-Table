@@ -74,49 +74,97 @@
 "Uue-IJ-GVC.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTabViewItem"; label = "Comparison"; ObjectID = "eL5-Rw-tWh"; */
-"eL5-Rw-tWh.label" = "";
+"eL5-Rw-tWh.label" = "Confronto";
 
 /* Class = "NSViewController"; title = "Comparison Tool"; ObjectID = "AOv-CU-z46"; */
-"AOv-CU-z46.title" = "";
+"AOv-CU-z46.title" = "Strumento di confronto";
 
 /* Class = "NSButtonCell"; title = "Compare only the current layer"; ObjectID = "mTG-IS-oZe"; Note = "Checkbox: whether the comparison mode should only be applied to the current layer as opposed to all layers"; */
-"mTG-IS-oZe.title" = "";
+"mTG-IS-oZe.title" = "Confronta solo il livello attuale";
 
 /* Class = "NSTextFieldCell"; title = "Theme"; ObjectID = "rPf-Jk-7me"; Note = "Heading for a section in the settings window about colors"; */
-"rPf-Jk-7me.title" = "";
+"rPf-Jk-7me.title" = "Tema";
 
 /* Class = "NSTextFieldCell"; title = "Added area:"; ObjectID = "ZQO-2c-g9S"; Note = "Label for the color that filles the area that was added to a shape"; */
-"ZQO-2c-g9S.title" = "";
+"ZQO-2c-g9S.title" = "Area aggiunta:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "wIh-ge-g8Y"; */
-"wIh-ge-g8Y.ibShadowedToolTip" = "";
+"wIh-ge-g8Y.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTextFieldCell"; title = "Common area:"; ObjectID = "i9j-os-pmE"; Note = "Label for the color that filles the area that is shared by multiple shapes"; */
-"i9j-os-pmE.title" = "";
+"i9j-os-pmE.title" = "Area comune:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "56n-71-g4n"; */
-"56n-71-g4n.ibShadowedToolTip" = "";
+"56n-71-g4n.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTextFieldCell"; title = "Deleted area:"; ObjectID = "IzI-1n-aMR"; Note = "Label for the color of the area that was deleted from a shape"; */
-"IzI-1n-aMR.title" = "";
+"IzI-1n-aMR.title" = "Area eliminata:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "IuP-r7-q7y"; */
-"IuP-r7-q7y.ibShadowedToolTip" = "";
+"IuP-r7-q7y.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTextFieldCell"; title = "Current outline:"; ObjectID = "CQG-3g-qPI"; Note = "Label for the color of the outline of the current shape"; */
-"CQG-3g-qPI.title" = "";
+"CQG-3g-qPI.title" = "Contorno attuale:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "v6r-E6-9PA"; */
-"v6r-E6-9PA.ibShadowedToolTip" = "";
+"v6r-E6-9PA.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTextFieldCell"; title = "Other outline:"; ObjectID = "ZSU-Uj-FnM"; Note = "Label for the color of the outline of another (not the current) shape"; */
-"ZSU-Uj-FnM.title" = "";
+"ZSU-Uj-FnM.title" = "Altro contorno:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "zRs-ed-NUX"; */
-"zRs-ed-NUX.ibShadowedToolTip" = "";
+"zRs-ed-NUX.ibShadowedToolTip" = "Ripristina";
 
 /* Class = "NSTextFieldCell"; title = "Default Alignment"; ObjectID = "7xh-cQ-tzi"; Note = "Heading for a section in the settings window about how layers should be aligned by default"; */
-"7xh-cQ-tzi.title" = "";
+"7xh-cQ-tzi.title" = "Allineamento predefinito";
 
 /* Class = "NSButtonCell"; title = "Align layers"; ObjectID = "GcY-iy-OYX"; Note = "Checkbox: whether to align layers to each other"; */
-"GcY-iy-OYX.title" = "";
+"GcY-iy-OYX.title" = "Allinea livelli";
+
+/* Class = "NSTextFieldCell"; title = "Profile Picture"; ObjectID = "grq-b0-6YA"; Note = "Heading for a section in the settings window about the display of profile pictures"; */
+"grq-b0-6YA.title" = "Immagine del profilo";
+
+/* Class = "NSButtonCell"; title = "Show profile pictures"; ObjectID = "Tuv-ca-g5u"; Note = "Checkbox: Whether to show profile pictures"; */
+"Tuv-ca-g5u.title" = "Mostra immagini del profilo";
+
+/* Class = "NSButtonCell"; title = "Only for multiple collaborators"; ObjectID = "T3L-J9-rJX"; Note = "Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist"; */
+"T3L-J9-rJX.title" = "Solo per collaboratori multipli";
+
+/* Class = "NSTextFieldCell"; title = "Image style:"; ObjectID = "WIT-VI-qDf"; Note = "Label for a menu containing different styles in which images can appear"; */
+"WIT-VI-qDf.title" = "Stile immagine:";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "rQp-qd-L74"; Note = "Menu item option: Images should appear normally"; */
+"rQp-qd-L74.title" = "Normale";
+
+/* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "d1d-my-4Ge"; Note = "Menu item option: Images should appear monochrome (grayscale)"; */
+"d1d-my-4Ge.title" = "Monocromo";
+
+/* Class = "NSMenuItem"; title = "Color-coded"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+"7Qd-RJ-FqW.title" = "Colorato";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Tints profile pictures with different colors for clearer differentiation of profiles"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+"7Qd-RJ-FqW.ibShadowedToolTip" = "Tinteggia le immagini del profilo con colori diversi per una maggiore distinzione dei profili";
+
+/* Class = "NSTabViewItem"; label = "Profiles"; ObjectID = "ZR2-z2-vL4"; */
+"ZR2-z2-vL4.label" = "Profili";
+
+/* Class = "NSViewController"; title = "Profile Pictures"; ObjectID = "FNX-bS-XtX"; */
+"FNX-bS-XtX.title" = "Immagini del profilo";
+
+/* Class = "NSTextFieldCell"; title = "Profile Picture Sources"; ObjectID = "NqK-79-Zf1"; Note = "Heading for a section in the settings window for configuring from where profile pictures are loaded"; */
+"NqK-79-Zf1.title" = "Fonti delle immagini del profilo";
+
+/* Class = "NSTextFieldCell"; title = "Contacts:"; ObjectID = "KVK-qZ-Xbi"; */
+"KVK-qZ-Xbi.title" = "Contatti:";
+
+/* Class = "NSButtonCell"; title = "Allow Access to Contacts"; ObjectID = "wtK-UA-fuE"; */
+"wtK-UA-fuE.title" = "Consenti l’accesso ai contatti";
+
+/* Class = "NSTextFieldCell"; title = "Gravatar:"; ObjectID = "oB6-Z4-grd"; */
+"oB6-Z4-grd.title" = "Gravatar:";
+
+/* Class = "NSButtonCell"; title = "Allow loading profile pictures from Gravatar"; ObjectID = "bT6-H6-mcf"; */
+"bT6-H6-mcf.title" = "Consenti il caricamento di immagini da Gravatar";
+
+/* Class = "NSButtonCell"; title = "Gravatar Data Privacy"; ObjectID = "Kj7-z7-fcA"; */
+"Kj7-z7-fcA.title" = "Gravatar Data Privacy";
