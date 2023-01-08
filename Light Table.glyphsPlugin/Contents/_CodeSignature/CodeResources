@@ -38,7 +38,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		kJH8zuLssMcxuCXhvjXOPI/quQA=
+		Q+EjRnhNK55v/q7SOVGClwHbTNs=
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
@@ -46,31 +46,31 @@
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		1RPl+/iM66LjMdRHbTJor3dyxQg=
+		ScNloXK3BKjuQ1TYHmu4VBEIH5U=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		6G0Jo0OpWN/5KDFHaWM3LNcHo5o=
+		rzpu/MdmdxQLXdHk+WmZmWfbM5o=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		+M6u9vt0yhQGXPUMbmYWOvm10dQ=
+		FWRnBF8/Hr72sLfkkK3H0bOd2Ro=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		zTALdSblMwgI232ni4pgubCT02g=
+		VaxWPvEr8ylLQXpIdIdwu9GvbM4=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		iz8Th4WNeW9kbiia0H5+xlgQOO8=
+		HoSnmSNOKWLgCeCfoJQRkUzfm/I=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		6YV1aEmLYsvF9wZvadseK1h/0T0=
+		7KfwFf3fIbqlegQM50j1UGzmkGo=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		O4vIST2qJT8U1Itrt83GWfMVlz4=
+		0U0bLjJPAVcN5Dla6VGdSVaoZfA=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
-		VzcbHsZKu63RDZ/6poYbAH5nIS4=
+		hx7y1PfzrWK60cswfkmGdBHbRd8=
 		</data>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<data>
@@ -92,10 +92,6 @@
 		<data>
 		1W9vzr6mcQLDUAD2mCzFuvSpi5E=
 		</data>
-		<key>Resources/LayerRestoreOptions.nib</key>
-		<data>
-		ug3uFccQoQRjPT0BI3wXkb/Bdww=
-		</data>
 		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
 		<data>
 		ftR+rCi0nS9mDP/nDNhbt8pprXE=
@@ -108,11 +104,15 @@
 		<data>
 		g+S+Z5lDL+obIZhvy/dRuyvTQEY=
 		</data>
+		<key>Resources/RestorationController.nib</key>
+		<data>
+		EwtvRl7uPtNHUkKI2w89gWTYzsc=
+		</data>
 		<key>Resources/de.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4JvvnLUjsYYiFuYLhz9+0y/DZoE=
+			i1MkP4p6muPivZ3TFDT3BnwxMcw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -131,15 +131,6 @@
 			<key>hash</key>
 			<data>
 			ltY2WIc7xDAa8cZebGHWfALVIA8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vyOwsKs7ndfqb6jPwT4Jfc88RDU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -202,7 +193,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+QnIrRX+OiEgHqyV5JY7fvBllCQ=
+			w9LAWriCOZFYMi25cW4Y/fTR4e4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O8PfIiFbmJION/Vu2ECWeWhLkEw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9EegBGSSCE9v2JgHQ5G11RdRnoQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -220,7 +229,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2sMUHDvWUz+W5XtK53DiegK6EKs=
+			JM6J06mHJdVgB+i9tROZmoZuuT8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -239,15 +248,6 @@
 			<key>hash</key>
 			<data>
 			avQJvbyilV4DgPcyh9P9joICj8g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H4BNw3oMfZLBazzI406buNrutFc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -292,7 +292,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NX80ZVYnsLslyFz0SsnmntgcCrg=
+			J/qRTeNlm+zDICeetQ9Ag3/RaW8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qM2WrtUIQpzSkqchCLLKC4pJbfk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yFJRdeXVLfU8Cm/Wb7Npcvq+xJE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -310,7 +328,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eUF8/VA7dYRD4UlM8xyZhYYb3Lk=
+			egxMK0uhdzYcu6myf2e6xfQBJ/0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -329,15 +347,6 @@
 			<key>hash</key>
 			<data>
 			lz/pFKYVoN5/IlyeNZo7bURmfVI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/it.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vwS6jjT/0BCZkrU8UbBo2nOE3zI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -400,7 +409,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BHgXX8e4YlnmoBe53PgWQ2l023E=
+			tVW3qCXtnGaS4/JCeKPCMw8Kv7Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bUFtVarGzxNUKh13mlO922OFozc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Plm9v0eDTtbVZFlBjR5KlTF6yBw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -477,7 +504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PDuPQ2r6Ts9x8PbWl3vb3ohD0HvJvlKFustg4V+xWQY=
+			NZz+1bJLTSYsUu8BMLsq6hSXNf7UxQ/RkHzLSEVCWS0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
@@ -491,49 +518,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nsIHmUhfhmlw9JGg9c90BKTTsKwVyti3t6o8j5L7jq0=
+			GeRczsG+hFjWKdAaUusIUQN+hzYnQZsQYKJrxEODje0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtAVXfJVGhBYP7rY2XoAiFGSY/ZUr/PAhlsFTgWP/VA=
+			Z/E7QyZpAor94tt5yMuRHQBuCBHFuBFcIjrWYJg94NE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3V4+cxH3LQN71W3L1lEO/vIGb0AVyI+aLErp3zxgzM=
+			NGNkzMWkir/+9zW7gPa30yrXxua+Mp2vpJDj+2JN3/M=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TXz7pJGJbowcdCz8tPEYpoVZnlftHtpbCZxkpAy58Bo=
+			1yTGbKglPHSmkAJZ7LMdwuw/lcRcBs3mU7bYz8HXQAE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eA7L+MS0nap/2o22qSaq6t7xlYTECVnZuJuouYynVss=
+			/zrlX5RDxjzfs97n+AurJiNmnrr4Nko+4Cmaeu2hljA=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VM8t+N5mABEPaKKSK+Uhob3MuoZz4g/qixY4FFctKvQ=
+			urcMrEYBEowLMg1f1LiedmaQIgLlR946wDkR3cArbjM=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eofTZ953n3EY3NY0XrimTStDRbpakZcDLFZCOfKujpM=
+			vyRINTls3Jc2XO1QuX1jnRJ2n/el1U3A6JsP0MJCv1k=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -547,7 +574,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S957fhGzNKGvIrWIUGLegH+v9yo9DPXYMNBVok20ojg=
+			QPHO7zmlgGVYJZOxZ3Bwwu9VVCfk6EZTkI9G9QcwyJY=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
@@ -571,13 +598,6 @@
 			jCuIfO6gx0KxAxvestWTbK/H+RPec8jG8Ysf6A+z3iY=
 			</data>
 		</dict>
-		<key>Resources/LayerRestoreOptions.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Uhu9yBPxbEKgkXBbARX4Gl/3IWp6fVLgbRp8siaCOAw=
-			</data>
-		</dict>
 		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
 		<dict>
 			<key>hash2</key>
@@ -599,11 +619,18 @@
 			YT942t2Guy2bunN3fyN3s/xj38h52evh136xHm/jwqQ=
 			</data>
 		</dict>
+		<key>Resources/RestorationController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ScVlNPKdfSmbHOt3f4Ju8zM3E4T60jO+uOzU0a75Z9Y=
+			</data>
+		</dict>
 		<key>Resources/de.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yhbm/Q/paWrYMlbzizDGISfzBQW9eem5SrRO28jRadw=
+			RwT2qbrdqKJ1sZBJoYC0ZZ46Ip2CY2In4rAr+tAc1/0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -622,15 +649,6 @@
 			<key>hash2</key>
 			<data>
 			CfiBBsFcyOIKuA3BTivLDUp8cB9eZHzgWHC8eYMHrEk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gVS4zmaXDl6iMVrC+6XAB3kWCjVuEtIeyoTVzcygxeQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -693,7 +711,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pb9g/BWKh8kdmza+TuEperSJ+HXsMaaxqVrrOIWRRQo=
+			fY18zsEtkJD4po09nZAuOaKDfIaCMGmrqRc+s6CSUYI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bbCbGKy/AqN4tcKQYtJaAncPjWW2BM5zenw+E+9k9hA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R+zioX1F37izH+pKp3maoNtMPjPbN4YnBT5ax5J0cKg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -711,7 +747,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BTyreIxiwg3Bqn1g088zy+ZWTh6T70JpfpM3oCsjxp0=
+			vCE1Yxv8CkzacKcyW/62DgBjlMbNtkNHzomA+SjWufo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -730,15 +766,6 @@
 			<key>hash2</key>
 			<data>
 			9n2ke2PKkeJVA4mj5oJt+OcJ9uObpsDS8SAo+d2bNNs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vVM7iJdfhN8oN0P75wNe4Ogqq2NbirkS9oFU79JuQ/Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -783,7 +810,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gLrOyb0ogpyhKcyrqCOqrhVyGO5nNRcX3qM/jDpjom0=
+			Ch5CzTYR2XzyJqk+6j22Un8QnudUOmI08TqNqUuMLS8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			65NyeXKC3ULoRygBx4U2gfqIAlwDjTGqkdxkMtRhNig=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UmePBHB0xa2X+PVM5/yhLAmxZFNIswdxbkfxigwY154=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -801,7 +846,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KcyNl+yEmXlRB8caX4Q0goPQ/oEBW3HBltIIjyHYrA=
+			zCeQ6jTBd2Gu0C8k/PmqA6C+ix9yxcUnshGAtlFOFhw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -820,15 +865,6 @@
 			<key>hash2</key>
 			<data>
 			XdYGaFmvKp1+mLz9adMyqKvffspdk8+xjcOBFXwydNU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/it.lproj/LayerRestoreOptions.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VPOgrPsNv+J0WhpqXh2f50w0V75KH5qv+AOBOISLVUY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -891,7 +927,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wK694FXo2pHl+nGg+hy3jvspzEaXOVb+b6otvn0Rs3g=
+			ClRsz04Nc6I6qsO5IXe2sFzJ8KDGfUIXgj0QXKf5ssw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			547aipOaKOc8zP8r3qYr4KnXk7eud8e43oa4qxoggek=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ArEeMqcpd7sVZ3ZKeLX+X5Qv3deLQ7bvmGWvnL61oZI=
 			</data>
 			<key>optional</key>
 			<true/>
