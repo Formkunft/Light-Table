@@ -1,170 +1,179 @@
-/* Class = "NSWindow"; title = "Light Table Settings"; ObjectID = "V5x-q2-ZCA"; */
+/* [en: "Light Table Settings"] */
 "V5x-q2-ZCA.title" = "Leuchttisch Einstellungen";
 
-/* Class = "NSViewController"; title = "Palette"; ObjectID = "EYo-AT-7Fd"; */
+/* [en: "Palette"] */
 "EYo-AT-7Fd.title" = "Palette";
 
-/* Class = "NSTextFieldCell"; title = "Font size:"; ObjectID = "jtG-gT-Uyq"; Note = "Label for a slider that controls the font size of the text in a table of entries"; */
+/* Label for a slider that controls the font size of the text in a table of entries [en: "Font size:"] */
 "jtG-gT-Uyq.title" = "Schriftgröße:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "ET7-qi-eyL"; */
+/* [Tooltip] [en: "Reset"] */
 "ET7-qi-eyL.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Row spacing:"; ObjectID = "ADe-fC-fSr"; Note = "Label for pop-up menu with different row spacing options"; */
+/* Label for pop-up menu with different row spacing options [en: "Row spacing:"] */
 "ADe-fC-fSr.title" = "Zeilenabstand:";
 
-/* Class = "NSMenuItem"; title = "Tight"; ObjectID = "2aG-Ty-Xqr"; Note = "less spacing between rows"; */
+/* less spacing between rows [en: "Tight"] */
 "2aG-Ty-Xqr.title" = "Eng";
 
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "V1x-wn-ZEZ"; Note = "normal amount of spacing between rows"; */
+/* normal amount of spacing between rows [en: "Normal"] */
 "V1x-wn-ZEZ.title" = "Normal";
 
-/* Class = "NSMenuItem"; title = "Relaxed"; ObjectID = "dmI-XL-iAF"; Note = "more spacing between rows"; */
+/* more spacing between rows [en: "Relaxed"] */
 "dmI-XL-iAF.title" = "Entspannt";
 
-/* Class = "NSTextFieldCell"; title = "Subject"; ObjectID = "Bef-tI-cfM"; Note = "Heading for a section in the settings window. Translate like the “subject” of an email"; */
+/* Heading for a section in the settings window. Translate like the “subject” of an email [en: "Subject"] */
 "Bef-tI-cfM.title" = "Betreff";
 
-/* Class = "NSButtonCell"; title = "Use fixed-width font"; ObjectID = "Zo0-Om-yZU"; Note = "Checkbox: when selected, uses a fixed-width font (also known as: monospaced font, typewriter font, non-proportinal font)"; */
+/* Checkbox: when selected, uses a fixed-width font (also known as: monospaced font, typewriter font, non-proportinal font) [en: "Use fixed-width font"] */
 "Zo0-Om-yZU.title" = "Schreibmaschinenschrift";
 
-/* Class = "NSTextFieldCell"; title = "Font width:"; ObjectID = "3BD-xa-Pq3"; Note = "Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters)"; */
+/* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
 "3BD-xa-Pq3.title" = "Schriftbreite:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "CVS-3T-mkv"; */
+/* [Tooltip] [en: "Reset"] */
 "CVS-3T-mkv.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Date & Time"; ObjectID = "5z4-aQ-DGM"; Note = "Heading for a section in the settings window about the display of the date and time of table entries"; */
+/* Heading for a section in the settings window about the display of the date and time of table entries [en: "Date & Time"] */
 "5z4-aQ-DGM.title" = "Datum und Uhrzeit";
 
-/* Class = "NSButtonCell"; title = "Group entries"; ObjectID = "o6V-Vl-jRC"; Note = "Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, …" */
+/* Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, … [en: "Group entries"] */
 "o6V-Vl-jRC.title" = "Einträge gruppieren";
 
-/* Class = "NSButtonCell"; title = "by year"; ObjectID = "pQ7-Zi-XFg"; Note = "Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence"; */
+/* Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence [en: "by year"] */
 "pQ7-Zi-XFg.title" = "nach Jahren";
 
-/* Class = "NSButtonCell"; title = "by month"; ObjectID = "km3-7E-xs1"; Note = "Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence"; */
+/* Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence [en: "by month"] */
 "km3-7E-xs1.title" = "nach Monaten";
 
-/* Class = "NSButtonCell"; title = "by week"; ObjectID = "kam-vo-5rl"; Note = "Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence"; */
+/* Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence [en: "by week"] */
 "kam-vo-5rl.title" = "nach Wochen";
 
-/* Class = "NSButtonCell"; title = "by day"; ObjectID = "wPY-vK-TKF"; Note = "Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence"; */
+/* Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence [en: "by day"] */
 "wPY-vK-TKF.title" = "nach Tagen";
 
-/* Class = "NSTextFieldCell"; title = "Entry format:"; ObjectID = "7Xe-Nr-gF1"; Note = "Label introducing a set of formatting options for displaying an entry in a table"; */
+/* Label introducing a set of formatting options for displaying an entry in a table [en: "Entry format:"] */
 "7Xe-Nr-gF1.title" = "Format für Einträge:";
 
-/* Class = "NSButtonCell"; title = "Show date"; ObjectID = "2Fi-1X-iEv"; Note = "Checkbox: whether to show the date column in a table"; */
+/* Checkbox: whether to show the date column in a table [en: "Show date"] */
 "2Fi-1X-iEv.title" = "Datum anzeigen";
 
-/* Class = "NSButtonCell"; title = "Show time"; ObjectID = "C4O-da-6kI"; Note = "Checkbox: whether to show the time column in a table"; */
+/* Checkbox: whether to show the time column in a table [en: "Show time"] */
 "C4O-da-6kI.title" = "Uhrzeit anzeigen";
 
-/* Class = "NSButtonCell"; title = "Enforce 24-hour time"; ObjectID = "LvE-2z-myj"; Note = "Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format"; */
+/* Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "Enforce 24-hour time"] */
 "LvE-2z-myj.title" = "Stets 24-Stunden-Zählung nutzen";
 
-/* Class = "NSButton"; ibShadowedToolTip = "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."; ObjectID = "6lB-e6-LRj"; Note = "Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format"; */
+/* [Tooltip] Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."] */
 "6lB-e6-LRj.ibShadowedToolTip" = "Falls ausgewählt, wird die Uhrzeit stets mit der 24-Stunden-Zählung (00:00–23:59) angezeigt, selbst wenn der Mac mit der 12-Stunden-Zählung (00:00 AM–11:59 PM) konfiguriert ist. Dabei entfallen die „AM“ und „PM“ Bezeichnungen, was das Zeitformat kürzt.";
 
-/* Class = "NSTextFieldCell"; title = "Font width:"; ObjectID = "Lb4-aq-dJP"; Note = "Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters)"; */
+/* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
 "Lb4-aq-dJP.title" = "Schriftbreite:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "Uue-IJ-GVC"; */
+/* [Tooltip] [en: "Reset"] */
 "Uue-IJ-GVC.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTabViewItem"; label = "Comparison"; ObjectID = "eL5-Rw-tWh"; */
+/* [en: "Comparison"] */
 "eL5-Rw-tWh.label" = "Vergleich";
 
-/* Class = "NSViewController"; title = "Comparison Tool"; ObjectID = "AOv-CU-z46"; */
+/* [en: "Comparison Tool"] */
 "AOv-CU-z46.title" = "Vergleich-Werkzeug";
 
-/* Class = "NSButtonCell"; title = "Compare only the current layer"; ObjectID = "mTG-IS-oZe"; Note = "Checkbox: whether the comparison mode should only be applied to the current layer as opposed to all layers"; */
+/* Checkbox: whether the comparison mode should only be applied to the current layer as opposed to all layers [en: "Compare only the current layer"] */
 "mTG-IS-oZe.title" = "Nur aktuelle Ebene vergleichen";
 
-/* Class = "NSTextFieldCell"; title = "Theme"; ObjectID = "rPf-Jk-7me"; Note = "Heading for a section in the settings window about colors"; */
+/* Heading for a section in the settings window about colors [en: "Theme"] */
 "rPf-Jk-7me.title" = "Erscheinungsbild";
 
-/* Class = "NSTextFieldCell"; title = "Added area:"; ObjectID = "ZQO-2c-g9S"; Note = "Label for the color that filles the area that was added to a shape"; */
+/* Label for the color that filles the area that was added to a shape [en: "Added area:"] */
 "ZQO-2c-g9S.title" = "Hinzugefügte Fläche:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "wIh-ge-g8Y"; */
+/* [Tooltip] [en: "Reset"] */
 "wIh-ge-g8Y.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Common area:"; ObjectID = "i9j-os-pmE"; Note = "Label for the color that filles the area that is shared by multiple shapes"; */
+/* Label for the color that filles the area that is shared by multiple shapes [en: "Common area:"] */
 "i9j-os-pmE.title" = "Gemeinsame Fläche:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "56n-71-g4n"; */
+/* [Tooltip] [en: "Reset"] */
 "56n-71-g4n.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Deleted area:"; ObjectID = "IzI-1n-aMR"; Note = "Label for the color of the area that was deleted from a shape"; */
+/* Label for the color of the area that was deleted from a shape [en: "Deleted area:"] */
 "IzI-1n-aMR.title" = "Gelöschte Fläche:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "IuP-r7-q7y"; */
+/* [Tooltip] [en: "Reset"] */
 "IuP-r7-q7y.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Current outline:"; ObjectID = "CQG-3g-qPI"; Note = "Label for the color of the outline of the current shape"; */
+/* Label for the color of the outline of the current shape [en: "Current outline:"] */
 "CQG-3g-qPI.title" = "Aktuelle Kontur:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "v6r-E6-9PA"; */
+/* [Tooltip] [en: "Reset"] */
 "v6r-E6-9PA.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Other outline:"; ObjectID = "ZSU-Uj-FnM"; Note = "Label for the color of the outline of another (not the current) shape"; */
+/* Label for the color of the outline of another (not the current) shape [en: "Other outline:"] */
 "ZSU-Uj-FnM.title" = "Andere Kontur:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "zRs-ed-NUX"; */
+/* [Tooltip] [en: "Reset"] */
 "zRs-ed-NUX.ibShadowedToolTip" = "Zurücksetzen";
 
-/* Class = "NSTextFieldCell"; title = "Default Alignment"; ObjectID = "7xh-cQ-tzi"; Note = "Heading for a section in the settings window about how layers should be aligned by default"; */
+/* Heading for a section in the settings window about how layers should be aligned by default [en: "Default Alignment"] */
 "7xh-cQ-tzi.title" = "Standardmäßige Ausrichtung";
 
-/* Class = "NSButtonCell"; title = "Align layers"; ObjectID = "GcY-iy-OYX"; Note = "Checkbox: whether to align layers to each other"; */
+/* Checkbox: whether to align layers to each other [en: "Align layers"] */
 "GcY-iy-OYX.title" = "Ebenen ausrichten:";
 
-/* Class = "NSTextFieldCell"; title = "Profile Picture"; ObjectID = "grq-b0-6YA"; Note = "Heading for a section in the settings window about the display of profile pictures"; */
+/* Heading for a section in the settings window about the display of profile pictures [en: "Profile Picture"] */
 "grq-b0-6YA.title" = "Profilbild";
 
-/* Class = "NSButtonCell"; title = "Show profile pictures"; ObjectID = "Tuv-ca-g5u"; Note = "Checkbox: Whether to show profile pictures"; */
+/* Checkbox: Whether to show profile pictures [en: "Show profile pictures"] */
 "Tuv-ca-g5u.title" = "Profilbilder anzeigen";
 
-/* Class = "NSButtonCell"; title = "Only for multiple collaborators"; ObjectID = "T3L-J9-rJX"; Note = "Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist"; */
+/* Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist [en: "Only for multiple collaborators"] */
 "T3L-J9-rJX.title" = "Nur bei mehreren Mitarbeitern";
 
-/* Class = "NSTextFieldCell"; title = "Image style:"; ObjectID = "WIT-VI-qDf"; Note = "Label for a menu containing different styles in which images can appear"; */
+/* Label for a menu containing different styles in which images can appear [en: "Image style:"] */
 "WIT-VI-qDf.title" = "Bildstil:";
 
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "rQp-qd-L74"; Note = "Menu item option: Images should appear normally"; */
+/* Menu item option: Images should appear normally [en: "Normal"] */
 "rQp-qd-L74.title" = "Normal";
 
-/* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "d1d-my-4Ge"; Note = "Menu item option: Images should appear monochrome (grayscale)"; */
+/* Menu item option: Images should appear monochrome (grayscale) [en: "Monochrome"] */
 "d1d-my-4Ge.title" = "Monochrom";
 
-/* Class = "NSMenuItem"; title = "Color-coded"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+/* Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Color-coded"] */
 "7Qd-RJ-FqW.title" = "Farbcodiert";
 
-/* Class = "NSMenuItem"; ibShadowedToolTip = "Tints profile pictures with different colors for clearer differentiation of profiles"; ObjectID = "7Qd-RJ-FqW"; Note = "Menu item option: Images should appear tinted by a specific color (color coded, color tinted)"; */
+/* [Tooltip] Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Tints profile pictures with different colors for clearer differentiation of profiles"] */
 "7Qd-RJ-FqW.ibShadowedToolTip" = "Färbt Profilbilder mit verschiedenen Farben ein für eine karere Trennung von Profilen";
 
-/* Class = "NSTabViewItem"; label = "Profiles"; ObjectID = "ZR2-z2-vL4"; */
+/* [en: "Profiles"] */
 "ZR2-z2-vL4.label" = "Profile";
 
-/* Class = "NSViewController"; title = "Profile Pictures"; ObjectID = "FNX-bS-XtX"; */
+/* [en: "Profile Pictures"] */
 "FNX-bS-XtX.title" = "Profilbilder";
 
-/* Class = "NSTextFieldCell"; title = "Profile Picture Sources"; ObjectID = "NqK-79-Zf1"; Note = "Heading for a section in the settings window for configuring from where profile pictures are loaded"; */
+/* Heading for a section in the settings window for configuring from where profile pictures are loaded [en: "Profile Picture Sources"] */
 "NqK-79-Zf1.title" = "Profilbild-Quellen";
 
-/* Class = "NSTextFieldCell"; title = "Contacts:"; ObjectID = "KVK-qZ-Xbi"; */
+/* [en: "Contacts:"] */
 "KVK-qZ-Xbi.title" = "Kontakte:";
 
-/* Class = "NSButtonCell"; title = "Allow Access to Contacts"; ObjectID = "wtK-UA-fuE"; */
+/* [en: "Allow Access to Contacts"] */
 "wtK-UA-fuE.title" = "Zugriff auf Kontakte erlauben";
 
-/* Class = "NSTextFieldCell"; title = "Gravatar:"; ObjectID = "oB6-Z4-grd"; */
+/* [en: "Gravatar:"] */
 "oB6-Z4-grd.title" = "Gravatar:";
 
-/* Class = "NSButtonCell"; title = "Allow loading profile pictures from Gravatar"; ObjectID = "bT6-H6-mcf"; */
+/* [en: "Allow loading profile pictures from Gravatar"] */
 "bT6-H6-mcf.title" = "Erlaube, Profilbilder von Gravatar zu laden";
 
-/* Class = "NSButtonCell"; title = "Gravatar Data Privacy"; ObjectID = "Kj7-z7-fcA"; */
+/* Explanation of the Gravatar service [en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."] */
+"HLe-Kq-znB.title" = "Falls ausgewählt, sendet Leuchttisch E-Mail-Adressen in einer gehashten Form an den Dienst Gravatar.com. Falls ein Gravatar-Konto mit einer übereinstimmenden E-Mail-Adresse existiert, kann Leuchttisch das entsprechende Profilbild laden und darstellen. Gravatar ist ein Dienst von Automattic Inc.";
+
+/* [en: "Gravatar Data Privacy"] */
 "Kj7-z7-fcA.title" = "Gravatar Data Privacy";
+
+/* [en: "Git"] */
+"iTS-pp-OE5.title" = "Git";
+
+/* [en: "Git executable:"] */
+"lDG-7n-Pvr.title" = "Git-Programmdatei:";

@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
+		<data>
+		F+xW6rC3j4uhztEegCM5QiZLmbw=
+		</data>
+		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
+		<data>
+		T5PmBqC8QR1PXJ+bixysIR+Agv0=
+		</data>
+		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
+		<data>
+		dcwLIQgURpAxDkq7VP/MHVMjaZg=
+		</data>
+		<key>Resources/Acknowledgements/Git/LICENSE.txt</key>
+		<data>
+		+kLaxj7MYqVQPHmjfgKRV4iSRbg=
+		</data>
 		<key>Resources/Acknowledgements/Iosevka/LICENSE.md</key>
 		<data>
 		7BE0nQXjStowrygs9zSvLJ1kW2A=
@@ -12,65 +28,49 @@
 		<data>
 		lt2kAo+zYb2ATKJm9qRVUHi3l4s=
 		</data>
-		<key>Resources/AlignmentBottomTemplate.pdf</key>
+		<key>Resources/Acknowledgements/Swift Collections/LICENSE.txt</key>
 		<data>
-		rZnTHw6YLFNeXpSwhWBfwEhL+Rc=
-		</data>
-		<key>Resources/AlignmentCenterTemplate.pdf</key>
-		<data>
-		i+xB4orxgLNKxVnRKYy4kCfXomY=
-		</data>
-		<key>Resources/AlignmentLeftTemplate.pdf</key>
-		<data>
-		wDSxyI01ddotDqCf/y5KnbcHnJI=
-		</data>
-		<key>Resources/AlignmentNoneTemplate.pdf</key>
-		<data>
-		SDv3ejaFHP/Al4B3qOteFsWswRE=
-		</data>
-		<key>Resources/AlignmentRightTemplate.pdf</key>
-		<data>
-		Q/kZBYZrEjCMIsqt62U41cE2y4s=
-		</data>
-		<key>Resources/AlignmentTopTemplate.pdf</key>
-		<data>
-		JAuP3s50GGsCzFRfNIbg/3GHpu0=
+		p+ivOfmsFt7KsP/hBqXZidaBR68=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		Q+EjRnhNK55v/q7SOVGClwHbTNs=
+		4O9mYY8pn/NCs+l9boKARyRoxwY=
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
-		KlBcnfZYj6aZu/s2FN8cyckHnnA=
+		tRK70vbZrVLBKx7QxhTsmQCmEzw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		ScNloXK3BKjuQ1TYHmu4VBEIH5U=
+		Y3wLTc5Kh1r7mv7vMIrKtIWN6nA=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		rzpu/MdmdxQLXdHk+WmZmWfbM5o=
+		VbGTnw/VRI2Z45t1PzEHl+T5AQM=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		FWRnBF8/Hr72sLfkkK3H0bOd2Ro=
+		PKMa8nqL2ulIpP7mVxmAJfuVvrg=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		VaxWPvEr8ylLQXpIdIdwu9GvbM4=
+		uOPGdxOR6J27RO5vA0fvw4GyWJ0=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		HoSnmSNOKWLgCeCfoJQRkUzfm/I=
+		0siFYKm013pQDu7rCT3Mw6yG4Ww=
+		</data>
+		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
+		<data>
+		pIeK2isbjlzO6LQLReMOfN9t5aM=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		7KfwFf3fIbqlegQM50j1UGzmkGo=
+		UPHfvHW2TdG0QrOPVM7Jt3wpBFg=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		0U0bLjJPAVcN5Dla6VGdSVaoZfA=
+		9YXr+Tzat6n+WNFzWwmsVQ04tKs=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
-		hx7y1PfzrWK60cswfkmGdBHbRd8=
+		gM0tH6/eCTY8iWXBw/5FjD3Ci7A=
 		</data>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<data>
@@ -88,31 +88,276 @@
 		<data>
 		5xP2zgDyGQuBhWUIEFzzdUW6qNA=
 		</data>
+		<key>Resources/Executables/git/COPYING</key>
+		<data>
+		PuABnU9OoKnT9QgAgz8w3BTilo4=
+		</data>
+		<key>Resources/Executables/git/README.md</key>
+		<data>
+		WluktVW+guZuFtFNaIAkRDHuofc=
+		</data>
+		<key>Resources/Executables/git/bin/git</key>
+		<data>
+		wMiOQaR+HWtked9HOrH3v0SKVCQ=
+		</data>
+		<key>Resources/Executables/git/bin/git-credential-osxkeychain</key>
+		<data>
+		p3/rjb+2Yi4Cfj8oiXICHQzim3w=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-bisect</key>
+		<data>
+		UdGZDiwmS4CbAPa2oiCLcwsRwaA=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-difftool--helper</key>
+		<data>
+		I3K+GjX/dxN40/Tm5Rx7GERHRz8=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-filter-branch</key>
+		<data>
+		qoYtNUwLrAKEr1oIBksZco9ii4g=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-http-backend</key>
+		<data>
+		54f4PriylglG5h/BOUuumlFInoE=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-http-fetch</key>
+		<data>
+		+tt8oQGf94VDzt1Q+MkoE5Tigfw=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-http-push</key>
+		<data>
+		FIQ8w0dcyMnbFeKi4jg8K6y82E4=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-imap-send</key>
+		<data>
+		VUHK8ma3FIHx6WTpOWgvn5AaLog=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-octopus</key>
+		<data>
+		D7/bjLf08RRck/mSVIBckjmztZY=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-one-file</key>
+		<data>
+		22u2LgGsqtiPEzBR/FtOZ4F5JIY=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-resolve</key>
+		<data>
+		J+dVf9OjJhm+zzJvaWwgKkOkKds=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-mergetool</key>
+		<data>
+		oh/FmxIEQE+sZNsy9CViIDvrAwM=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-mergetool--lib</key>
+		<data>
+		Z5dKeksB/pGnDhupnjvKiIedPsc=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-p4</key>
+		<data>
+		Jn+NH2zRVx3SqzxqQsXcZLYcsEY=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-quiltimport</key>
+		<data>
+		vgM0gyoMYVwLq7g3Han09Hjcs8Y=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-ftp</key>
+		<data>
+		Q77Ln27VICfAWkx9AyLQiBlVXQk=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-request-pull</key>
+		<data>
+		3yT0PTnk1vNfwmtL8fuua6u36KU=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-i18n</key>
+		<data>
+		ZtfsDofXk8GDXd5qZ7hTXpPoKAI=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-i18n--envsubst</key>
+		<data>
+		twn0iM0CQmo2e/BdXYXkqlodhg4=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-setup</key>
+		<data>
+		R9pvD96aw2nXDN3avd/wUqqqpXk=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/git-submodule</key>
+		<data>
+		sEAezK88Bw1bKsn3UAYHBXlt2hw=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/araxis</key>
+		<data>
+		IaIyIwQB64O4m5CX2/Lc7UTb57A=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/bc</key>
+		<data>
+		WZfgcQCPz4B9FJ0N0zy9zjaf86M=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/codecompare</key>
+		<data>
+		Ssn2/uHixrRRHDOM+deaC3ifhD4=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/deltawalker</key>
+		<data>
+		riyNpqQDk4TztauGU6WCSEHArjE=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/diffmerge</key>
+		<data>
+		AqfzMBNvdWh87euKQyWM1SMDBqs=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/diffuse</key>
+		<data>
+		p9QgoB0fHx7Q0Ka7g6nPjghjDdA=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/ecmerge</key>
+		<data>
+		XYLxR6felQFFTj2JyzKMp1+XONw=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/emerge</key>
+		<data>
+		Us9gbKZwxE3SZXLHxVmdMEn8S58=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/examdiff</key>
+		<data>
+		oys3yElrRXlTw35DRsjrT9KgzwU=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/guiffy</key>
+		<data>
+		3xDtTh6eN1QJIrbhETfs9nzst28=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/gvimdiff</key>
+		<data>
+		jZuJYs9GrZlMHK8vb91YyJMJbYs=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/kdiff3</key>
+		<data>
+		c20YArpWDKBSmTdXj+5YrpB1pP4=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/kompare</key>
+		<data>
+		m7Ixr9YcRnPLFrm5yoHEQozOVCs=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/meld</key>
+		<data>
+		xq3TWz/Ky8KdxEi0OxSsbtAMafI=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/opendiff</key>
+		<data>
+		OJFSinUUtFfRTX4bflmrrJKZSRg=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/p4merge</key>
+		<data>
+		a7vwg1E7NvSi0N+yM5tr5K92FtM=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/smerge</key>
+		<data>
+		yKhUBXULp7sWsGJTIyW2IBcBYvE=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/tkdiff</key>
+		<data>
+		P7H0jJK65N44UyefrC5c7ED8MSs=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/tortoisemerge</key>
+		<data>
+		iwl7Vi1Z8ahBEb1Mti/iykrJ+I8=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/vimdiff</key>
+		<data>
+		NOsysL0xXVymjrLXuvuZEBT8vZc=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/winmerge</key>
+		<data>
+		I2yh3CnvJMg9k5ONgqbi5H7SUVU=
+		</data>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/xxdiff</key>
+		<data>
+		PILlJyyeW/ah4XBHHq1E0Km7TbQ=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/description</key>
+		<data>
+		ljXxt+EsBFISgZ3ZNNgJ7wfvovQ=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/applypatch-msg.sample</key>
+		<data>
+		TeiOuVpek/0n54tfs7UjGo2JF90=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/commit-msg.sample</key>
+		<data>
+		7h7VqtmKQ18gILbeNcFzt12a/6w=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/fsmonitor-watchman.sample</key>
+		<data>
+		DsDsmsEREUM9F+p54K6M7GUNz6Q=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/post-update.sample</key>
+		<data>
+		thTC9j2n3Knx2y563mHvMESPyWw=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-applypatch.sample</key>
+		<data>
+		8ggofBqSUl3p9UYukFqdMd4eLXU=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-commit.sample</key>
+		<data>
+		p50Fc4juLC/mVh12l/H178/5byM=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-merge-commit.sample</key>
+		<data>
+		BMZOWLwlwUlILtRdvXnkDv+4nrc=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-push.sample</key>
+		<data>
+		pZm3c7kwyoPbw6XHwTBZrEpurtw=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-rebase.sample</key>
+		<data>
+		KI79wAJ9tM/Yt8R8Su3boJtt7RI=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-receive.sample</key>
+		<data>
+		cFoX0lnniW8Agv4unywMOxJ75aw=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/prepare-commit-msg.sample</key>
+		<data>
+		JYSAa6FHFSrgBctnWqTwHV0GhFY=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/push-to-checkout.sample</key>
+		<data>
+		UIJAMoyLVfgVfJPEO/XikeXS+8s=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/update.sample</key>
+		<data>
+		cw5r1SJUeLq2FHt6YqbiriHUBQc=
+		</data>
+		<key>Resources/Executables/git/share/git-core/templates/info/exclude</key>
+		<data>
+		yHnfAV2XYVBQr6e5ZB4zUqHnAaw=
+		</data>
+		<key>Resources/Executables/git/version</key>
+		<data>
+		udaGUTmevXLxBGEqvo3nL43d0ac=
+		</data>
 		<key>Resources/Fonts/Iosevka SF.ttc</key>
 		<data>
 		1W9vzr6mcQLDUAD2mCzFuvSpi5E=
 		</data>
-		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
-		<data>
-		ftR+rCi0nS9mDP/nDNhbt8pprXE=
-		</data>
-		<key>Resources/OutlineStyleDottedTemplate.pdf</key>
-		<data>
-		Hbtf8L8EqNx0wsOJ9ZLCqX2QXLM=
-		</data>
-		<key>Resources/OutlineStyleSolidTemplate.pdf</key>
-		<data>
-		g+S+Z5lDL+obIZhvy/dRuyvTQEY=
-		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		EwtvRl7uPtNHUkKI2w89gWTYzsc=
+		LRmFK4RxP3omFgygsP5O7qq6n0E=
 		</data>
+		<key>Resources/de.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2TXXKJX6U3fH7BfFNJafZ1I7Wdk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i1MkP4p6muPivZ3TFDT3BnwxMcw=
+			16Zc0UV9vK6UNb2IyzcOVXupTTU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -126,11 +371,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/de.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0Kjwc+uEq49U/dojD28jHyEL2Vc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ltY2WIc7xDAa8cZebGHWfALVIA8=
+			Bfl/mi8//cH7JPZhPf5HWU+FiF8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OZLVOnYdPQkICbrOIKt+LbtH3zY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -139,7 +402,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eULrIFeaC06NFVrwJAx/8N0zwQA=
+			adVNnz3RHPr39Ct7jfEt25SL5z0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6mzm2hMJygwCuYrGXN9B3OcjUac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -148,12 +420,21 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M+H6hVnh3/i1s6TEU9CaE9iTKF8=
+			eHPM7b1h+xmCIWkpZuoYfngfbu8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/de.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4Uiu+ON3hp5CDy81djPmhG04tP8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -166,7 +447,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UAEOyh2e+H8O89lmTNO/jCXbHNs=
+			AoXk/5ltpgYV55ujbK7rnmtQqjI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -175,7 +456,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E+m+j9z91zHJy6O3nDbgDddvuLA=
+			DLGIxJUJ5i5jqpaenZuu1kQyCGk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -184,16 +465,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9LFXmHuIgQvwV4u5t2hH4R7TiKI=
+			rBn4K7ZirGcR69vH8SNCcgLEyTc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/de.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w9LAWriCOZFYMi25cW4Y/fTR4e4=
+			jRi/l31EnsOVfQkxxrTQcw7coK8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -225,11 +506,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HmJndEIAEow1Lb0gRw0bt70fDus=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JM6J06mHJdVgB+i9tROZmoZuuT8=
+			ISQL4Lt6AOHazicq9NPztnAJceI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -243,11 +533,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZIGGouFt6YmKlcsy0ZBnuWnkpIU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			avQJvbyilV4DgPcyh9P9joICj8g=
+			1rA/yRBUaWWNV2ZPVmBFMUFamKo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ly1XmABM6++ZhGAqy5OQET0aD1M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -256,7 +564,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tSLvcpcT0ed4cBiW1nqrllypq0Q=
+			sP6q0ez1GAndwHnh2PWrakqmo38=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r0fr9T4Zl1ivYiHNZcPrKuYueZI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -265,12 +582,21 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OaNuFZnSH9GnkuZPHcw3ARGoQh8=
+			U8buJdsMEuRk4G7hmajMnBnGBKE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/en.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kPyJMzi4zmX08D6jqAvasuRUbN0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -283,16 +609,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xuhg96tVn0sfrn/Q4YmBnnWsCK0=
+			Wbct+o4rjLvltz45IEWofGQillw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/en.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J/qRTeNlm+zDICeetQ9Ag3/RaW8=
+			kWxuUgMNDJUyvX9zJCGS/uXm6Io=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -324,11 +650,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m2z4iZHbZS0PPP5dQg3ZgM50YXQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			egxMK0uhdzYcu6myf2e6xfQBJ/0=
+			pB/ugtTO/L6fOa5QfXdF9MuRHcc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -342,11 +677,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iANTRJ+lsiBZsWFsBwx43yzwJgA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lz/pFKYVoN5/IlyeNZo7bURmfVI=
+			ydq6YpWJ1qRBefdkW7QmSVtsg2Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9XVPP1pTPqw0GPXp58Z9TfTVLlI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -355,7 +708,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GO5v5ztlgG7fqP/cA0zFcAzb/Wc=
+			R7jXXmPBVR8PZEVjh2EhEAPYVGc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NYbUOjF/Dtr7mKGSanI94OqiCiA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -364,12 +726,21 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7rTmi7+hHCprevBuFOzX3eDl6oU=
+			eykKrruTczBMF8vgxMWGtyPp3zI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/it.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KvXAuD2kynFzV1u50QV+Ve/h/Zg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -382,7 +753,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JSw+ln2QYZwuwLh1t9iQvwVXxSQ=
+			xoPLfljm/RPpoXvRYEvEpqmvCJk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -391,7 +762,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YHifbDqjIjd3LASJqGH7/Phu45o=
+			IHscBsAB+xrS2Y8kjOO9xD3xpx4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -400,16 +771,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xkye34UNIk1LYtPb7c6k0s/gk/I=
+			mD1lmIBWPrirAUJtDyi84tIAGkI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/it.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tVW3qCXtnGaS4/JCeKPCMw8Kv7Y=
+			JgkblBX0momrdBxBAN4uUfMKlYc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -441,9 +812,163 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3kOwTafSlExY5jCCRiEv3nKJGNY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/ComparisonTool.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kyVz6/CjhFVS89cJiw8CPw68P0E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yV1C8t9srbWpOUUdwwMyAtvO+7s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Git.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zz9Ezt64FvDg03NfgZCkqTQfYhE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kN0d1GZy6Qh5mR0PGyW1JdAKpdo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gt2ndkU0YDkR1e+m1f6Qtq/JMss=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Palette.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+lGfJtgrbTV9zXCzIF8uHpkSLTU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PalettePreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ay1IhJEVx2hqKZRIr/3+9/m2HdY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PreferencesWindowController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zeAhbtlmnfJy28msH/xPFNaqf1o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Processes.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q/VCgwTNWJg0aSIOgoL5L8KTsao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/ProfilePreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1pLHl/cuX9SxZL5N43H1Z1OCwvw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bBt05Lp2ZorPVQvHkS2tH6XK2KE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			536skFs+ySyPTUUXvaUefxiOYWg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XYVjc54UHl4MABc5BSxySC+VjD8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oilX1XxYg9ksAb/EgrqdhtP5foJtwODNZO4TBjP/mLQ=
+			</data>
+		</dict>
+		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FyKst0/Y5pGWZs0O4srjJRw0ilBGdneq+O4IKE5DV1M=
+			</data>
+		</dict>
+		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E5TydeWynoe7ikUTfd2H87wFEu4leIDPGUwzqgAM40o=
+			</data>
+		</dict>
+		<key>Resources/Acknowledgements/Git/LICENSE.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yn1ZguUyVrdf8u0a4F+rX7auvm/ereWqvEYq5wRIxbs=
+			</data>
+		</dict>
 		<key>Resources/Acknowledgements/Iosevka/LICENSE.md</key>
 		<dict>
 			<key>hash2</key>
@@ -458,109 +983,81 @@
 			ObFu21Xi8D7F9D9q3fXW3IeUuaZJIfpW+I0bJGrKsIU=
 			</data>
 		</dict>
-		<key>Resources/AlignmentBottomTemplate.pdf</key>
+		<key>Resources/Acknowledgements/Swift Collections/LICENSE.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WiwQ9qaLFwYuBkXl573LZvUgRSThXnW9KA7RLSo4faE=
-			</data>
-		</dict>
-		<key>Resources/AlignmentCenterTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wHfOglPe0NTtNASr/eZfDqZ0fU8KMkHoOexwA2fq4lw=
-			</data>
-		</dict>
-		<key>Resources/AlignmentLeftTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x9jmvs+WA82HSPaYgmrUXlHuE4Y4ZwlBNldrjRBXoYU=
-			</data>
-		</dict>
-		<key>Resources/AlignmentNoneTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+SKFDcM57ZaYciC+r5W7CkBwtxNnUnGFE6I+hN2SBDw=
-			</data>
-		</dict>
-		<key>Resources/AlignmentRightTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xqGEtuiOy9yvG2+87SUPDkEwXV86L90ZWtnDCa1V5oY=
-			</data>
-		</dict>
-		<key>Resources/AlignmentTopTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4bRrWfWgHGGMRyecMxOAulvyBY3BiEDb2CRtsb4LoVM=
+			dwr4KR9whTjY/4haC7xOBFzXAFMXQcT5lSjUNcFNf1U=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NZz+1bJLTSYsUu8BMLsq6hSXNf7UxQ/RkHzLSEVCWS0=
+			+4ml9WyobkUYqAr3Ib1n9Ew0XZz7rfuUpV/UyzA6Usg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NLKTuad17OAg0GKkOlUTLFkoSRt/FLMsroMqm6j/Ico=
+			sn131tNEpKyS6PVCjDLoNLVZck6ThzZONGyrxmsIFJo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GeRczsG+hFjWKdAaUusIUQN+hzYnQZsQYKJrxEODje0=
+			EXNOUIo/6Ac8Wv7jyrfDN52VHa2xh4FZYrOqUO57lgA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z/E7QyZpAor94tt5yMuRHQBuCBHFuBFcIjrWYJg94NE=
+			ispS3h9Ab0gxQdDZjCsVmDjfO+2wCfWddGbNsauDaJg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NGNkzMWkir/+9zW7gPa30yrXxua+Mp2vpJDj+2JN3/M=
+			M8K4+j04fWBuX7Y5eV16vgP9sivAm45uk7hTZ89GNwE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1yTGbKglPHSmkAJZ7LMdwuw/lcRcBs3mU7bYz8HXQAE=
+			bWhi2TVoyg3ung5wKeeuewHK/rQ3wZdsTpnQahX5WOo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/zrlX5RDxjzfs97n+AurJiNmnrr4Nko+4Cmaeu2hljA=
+			UHuBviPEN+MVh59rx8vYCVj3Sz6vZwZVN+aJoiVmHIE=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V8mlIzsZFzaE/99QUL7vE8cR2vc6O+oOZfl212QiUgU=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			urcMrEYBEowLMg1f1LiedmaQIgLlR946wDkR3cArbjM=
+			X2gw6yyMOX4gmllxhC5yfT32Fq4tYA6PmyFHk1Fywng=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyRINTls3Jc2XO1QuX1jnRJ2n/el1U3A6JsP0MJCv1k=
+			qRO+D/a5SliLTjmLflezJ//TeVvVbKskXA5f3/EFgkQ=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -574,7 +1071,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPHO7zmlgGVYJZOxZ3Bwwu9VVCfk6EZTkI9G9QcwyJY=
+			lDbRc+OD8hBvFPvstRvqn+PTSieEWS8QRiGXDrGov0I=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
@@ -591,6 +1088,1155 @@
 			Mo8fjAbDx7U+vuu+2XCmykWS9UaOs0EWCEQqfvLl/5g=
 			</data>
 		</dict>
+		<key>Resources/Executables/git/COPYING</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WyGY0WRfdnWF6KiKwEmbBEchZMDS2iLnXs+X70Q6sy4=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GvYbTvibCykJRrtkNqCMp0Mt3whF6psCNuaYHaRaIuo=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/bin/git</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y9I913NmCp+R8so7Qf+Xy5DN1VWNrU43/0UxW98om94=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/bin/git-credential-osxkeychain</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UcrREeBeWVBE5ETS2btIs9aqt0godgIRE7SOMDpxwKQ=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/bin/git-receive-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>git</string>
+		</dict>
+		<key>Resources/Executables/git/bin/git-upload-archive</key>
+		<dict>
+			<key>symlink</key>
+			<string>git</string>
+		</dict>
+		<key>Resources/Executables/git/bin/git-upload-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-add</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-am</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-annotate</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-apply</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-archive</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-bisect</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			px5XrGP5b0GG4cMx/870VQhvMGGs2rsqv0RISGn5N/E=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-bisect--helper</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-blame</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-branch</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-bugreport</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-bundle</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-cat-file</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-check-attr</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-check-ignore</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-check-mailmap</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-check-ref-format</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-checkout</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-checkout--worker</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-checkout-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-cherry</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-cherry-pick</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-clean</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-clone</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-column</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-commit</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-commit-graph</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-commit-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-config</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-count-objects</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-credential</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-credential-cache</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-credential-cache--daemon</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-credential-store</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-describe</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-diff</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-diff-files</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-diff-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-diff-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-difftool</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-difftool--helper</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hb53MouTVY9V9ADBG44yeJ2w6B7LwcwPv/vQu6Gtgho=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-env--helper</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fast-export</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fast-import</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fetch</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fetch-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-filter-branch</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BkIQy/EbRdCX28wkxGXAMjIlHaQwvxgqWNx4N41XRUM=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fmt-merge-msg</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-for-each-ref</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-for-each-repo</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-format-patch</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fsck</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fsck-objects</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-fsmonitor--daemon</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-gc</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-get-tar-commit-id</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-grep</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-hash-object</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-help</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-hook</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-http-backend</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Khl5t9+Ya3XUJ8iimd4HhgNUrhuUG2DdaRnONY58/6I=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-http-fetch</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3WNZXSeDLUJsyT3srvm4qdKK1amnPJGv/vYz0UCOgLE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-http-push</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			38Y0YhacVsnzRZAcwl+A5rQm3gXh7ivP7g81XsDcJtU=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-imap-send</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tsaEcKiVo/us+uQ8V1Z5/eW/PO4gtGHD579UiBXRgpk=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-index-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-init</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-init-db</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-interpret-trailers</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-log</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-ls-files</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-ls-remote</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-ls-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mailinfo</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mailsplit</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-maintenance</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-base</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-file</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-octopus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xdCKjE5a/ItI2WXDCdO5iTBZLaMEzwSsJlyLJOo9aJE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-one-file</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SWvT2qypiHJrIyUugDL448w4kT2+Kg2fG6/Xtydq5xc=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-ours</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-recursive</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-resolve</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VjjhGuD/omYHVFr8BgzGAwg4Y6yx98cjVH1twdP/Kck=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-subtree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-merge-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mergetool</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zbHP8q93Wb04eRsgFzBp2YYPqzDWZ9MtO+k/uqQ1/8U=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mergetool--lib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			frL2gkQYfNyJWdMp7Wze9XXMza/E9laRo1wvxz6zEUw=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mktag</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mktree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-multi-pack-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-mv</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-name-rev</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-notes</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-p4</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v698u79h4cY/8xrIVV33So5lxgU8B3JHAwi3Dvc+SdQ=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-pack-objects</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-pack-redundant</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-pack-refs</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-patch-id</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-prune</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-prune-packed</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-pull</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-push</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-quiltimport</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CviDn22Jy5t8KXO2+Vz7ODngXYL6Tsvx8K9JWg5xWmQ=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-range-diff</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-read-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-rebase</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-receive-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-reflog</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-ext</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-fd</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-ftp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zE//Eb5CzVVv2Zb65hwY41gzrGD0WUJM66jeMGfO9Po=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-ftps</key>
+		<dict>
+			<key>symlink</key>
+			<string>git-remote-ftp</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-http</key>
+		<dict>
+			<key>symlink</key>
+			<string>git-remote-ftp</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-remote-https</key>
+		<dict>
+			<key>symlink</key>
+			<string>git-remote-ftp</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-repack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-replace</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-request-pull</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B/P1ya3qAaMSbw7jh4QCtPsP0vvNqb7KE6CQsCggeM0=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-rerere</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-reset</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-restore</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-rev-list</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-rev-parse</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-revert</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-rm</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-send-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-i18n</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WqqK9MbSn0yqcLLi9OB5Lph7gNlWYRSKuqXXVg8xw7w=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-i18n--envsubst</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0PEGi03BGLyRJE2oQc/P+5+eV+zbWerSGl2tUycazpE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-sh-setup</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WURcVGV+1fvGZ27Azi6yPes9H9OIrXGBnSTBj9koLlo=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-shortlog</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-show</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-show-branch</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-show-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-show-ref</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-sparse-checkout</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-stage</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-stash</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-status</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-stripspace</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-submodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FnrxbOOy4J33sHxQXN21H4phz1bK/whyWczCJU9EApc=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-submodule--helper</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-switch</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-symbolic-ref</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-tag</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-unpack-file</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-unpack-objects</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-update-index</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-update-ref</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-update-server-info</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-upload-archive</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-upload-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-var</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-verify-commit</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-verify-pack</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-verify-tag</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-whatchanged</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-worktree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/git-write-tree</key>
+		<dict>
+			<key>symlink</key>
+			<string>../../bin/git</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/araxis</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SaoihubsLXwPtAd6L5xadXU3R2wH9RdpT8x53KAhqjE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/bc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5U5uGzi7zX7e3K19bgVjhFPdTBBjHjkuzr+ujTlrAbY=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/codecompare</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fuiMYU7fEGU9bGb5Sm8ZpGlVHNIaqyJK2XEBZhzaDcI=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/deltawalker</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TGTDbAm6U2/FvYIr4nUPb23XS1wv7/xVZLXVHVXxIME=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/diffmerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0bcq00DZBebqZSBpuHD8rCy/pSluE7NXAdmdPKvHv78=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/diffuse</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ulyXxQHK5CGaf02zbqOTTb3gdooGgYsdSazGMHCsva8=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/ecmerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LSOGmppcUqRdHXb/+bRGp3/SIFodtjCQ+gcuo+EtX6Y=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/emerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AUwZ5KnEInzAi1NwOto1KDiC7KutqWGYypjHI4z8kTU=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/examdiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FioQ2xLCV01CQXL98AwbCX4MG+kARY2ifUYZqQBdKB0=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/guiffy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KU/ViBblEFI0Yo2ZrzxkvMEFgmFx2jLqgTRknZWSYTs=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/gvimdiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vB2WBjFUoOWn9V9fNXnSdcEk6EujPrUNsvWALiWbR58=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/kdiff3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tcadNG24mFOiEoezsrnw+SMSO2kenw6+sEIhJf3Ypaw=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/kompare</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HleEH/L4jG1my5ebQ/OCo+R2p0eCXBq9MqlfDCbmS28=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/meld</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iRO9VbKrav1Ll3axjMe0CeE0vus91jqgXSG1P+AnMSs=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/nvimdiff</key>
+		<dict>
+			<key>symlink</key>
+			<string>gvimdiff</string>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/opendiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tDu2Aq/5lLyS8AfXI5jLFDm/qo1etd88yZ+eaq7HOQE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/p4merge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TR9uPN0aBtYAxnLuTKiNg7ULjPQsT3vg+sMjtcSzKZM=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/smerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pA1srm+gl0ZFlclP/MoSdnK3g40hxbR++tiA/Wr+BPU=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/tkdiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ceIQjx6d5IxkWjOXFyHGRi39vQoxzBOURaScCvyYNk=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/tortoisemerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bQp+H2brEIMngWlJtsuu8Mcn0F/HfGCHCiVVtAGpPFs=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/vimdiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ObPVCptb7cfxCxp8aW7LyUz93gFL0qj1cmuyRSS3tf8=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/winmerge</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GOWE76Vz/vWgTVcB+iN/g9+l+wWLeQxqr/J+ujODXwc=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/libexec/git-core/mergetools/xxdiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kYTk6ra7QPCYNPJ9yjEkTo+QKAR6l9B0Z9nDQKu4Koc=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/description</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hatsFj1DoX6pz3eIMIvKFGbxsKjRzJLibpv2PaQGKu4=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/applypatch-msg.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AiNJeguLAzqlijpSG4YphpOGz3qw4vEBlj0yiqYhk/c=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/commit-msg.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H3TV6SkpebVz69WXQdRsuT/zkazdCD00C5Q3B1PZJDc=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/fsmonitor-watchman.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4FSZZOk4l7UZvY4zPAN+Uf/w+IuhPghqMxWSv4AfodA=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/post-update.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gXZa8trvMjBh3LxeYfwWSBy3SzusmtihdLGGUjWG9sU=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-applypatch.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4VxbRp6j4KaVvqbyyCvPjmKCEHSTnd2Ft34AB/8WVHU=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-commit.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+a99lesSMezy66l3D+36jUeXoSsC1yQOmNVoIBJRJEo=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-merge-commit.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			04JacDN5QOu9ClwHKYThMkWSDN+ImL0iXI0npt/Jy1M=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-push.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7M6cfgTT9d2ditqBdT3R1UmpY0smdwBCtY3aACF9CGo=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-rebase.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T+vOhneQBSM4B29OZsxH77FIedGAl9HWHIJhhZ6qp7M=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/pre-receive.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pMPSuce7P9jRRBwxvU7nGlldZrRPz0ndsxAlIyAWmYk=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/prepare-commit-msg.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6d3KpBif3dJe2X/Ix4nsp7bKFjkLI5KuMnbwyOGqRhk=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/push-to-checkout.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pT0HQXmLKHxt16+mSu5HPzBeZdP0lGO7nXQI7DsSv18=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/hooks/update.sample</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jV8vqD4QPPCLV+qmdSHfkZT0XL28s32lKtWGCXoU0QY=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/share/git-core/templates/info/exclude</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZnH+g7egfIky7okWTR8nk7IxgFjri5jcXAbuClo7DsE=
+			</data>
+		</dict>
+		<key>Resources/Executables/git/version</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pigMl0NAo03m9Caqe1UjoxfCNibvveJPNj8+MehNIvU=
+			</data>
+		</dict>
 		<key>Resources/Fonts/Iosevka SF.ttc</key>
 		<dict>
 			<key>hash2</key>
@@ -598,39 +2244,27 @@
 			jCuIfO6gx0KxAxvestWTbK/H+RPec8jG8Ysf6A+z3iY=
 			</data>
 		</dict>
-		<key>Resources/OutlineStyleDashedTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zsR/gmZHfTS2keInVUxMm5KbKTKRX6d5xNpOeBw6Isc=
-			</data>
-		</dict>
-		<key>Resources/OutlineStyleDottedTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6ACO2YOKVXvfO4Q3KX+1gxefbB1K0G32WL1t7yt7x+g=
-			</data>
-		</dict>
-		<key>Resources/OutlineStyleSolidTemplate.pdf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YT942t2Guy2bunN3fyN3s/xj38h52evh136xHm/jwqQ=
-			</data>
-		</dict>
 		<key>Resources/RestorationController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ScVlNPKdfSmbHOt3f4Ju8zM3E4T60jO+uOzU0a75Z9Y=
+			9lptcZ8mWq3EkEqB9+9DUhSEImJipLMUfXWxGmc++Gk=
 			</data>
+		</dict>
+		<key>Resources/de.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XbhrLGJobrrSNCOa4YtA6Mpik9ulFmsZ0QFOY1a0MjY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/de.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RwT2qbrdqKJ1sZBJoYC0ZZ46Ip2CY2In4rAr+tAc1/0=
+			qS79S8DO2qdH+NTgPO9tDVffk8ZvSHBOhgKF+iNp1Ew=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -644,11 +2278,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/de.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hbIPx1JbRKqKqgmGwFcxmzq3secQ9+zO2iJuclg20ao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CfiBBsFcyOIKuA3BTivLDUp8cB9eZHzgWHC8eYMHrEk=
+			qGU2P2LYC/xq5w1ZsRoxtGpYyQwwi+GkEEw3NR/E3sk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oestzwE/OIzmeo3sxbEtqOVwYxOUcOMyugyvIda0Ozc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -657,7 +2309,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mM7YsquJQOg+usXsvg9ii9VgozTdaqiomHBcGxI6W1U=
+			CulF8xmOrP880wQB4z+jdtakyyPi8OO/j5VjAKR6M8o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sd4udo9sPRgdaa5c8qwUeRMUcn21CeJKTgzmvYK4uDU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -666,12 +2327,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vgJo5/Ocuxm5ZVzxQOwUiQOLkmABv7CBCf04/7AdIrQ=
+			rF8eWSsuScDFH86jeD28jygXskcaOROyjHuKqbYovRA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/de.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TbWSpEdo8rCM1FgCGTbnCDPSYcpYyT7RCiC6zp+5ovg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -684,7 +2354,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yMrrYOnrLRP1Xms6p19fmEDpEoDa25I/KJb0WaciWHs=
+			5+REgDyx9xGyyHlm7niCr74gVN7kksJPuJAMcKoPT90=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -693,7 +2363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aPr0TEeI8GaV6ek7HFYilX1J4rfjbo6BfIgd7BjnpP4=
+			tEA/EdHZuIRDYJ5WW+y1P/9cHDOcVFDrdxYS8fsG8cQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -702,16 +2372,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0RyrGkyeTTOrAZo8jpARic16vhv7OSVF1vuM7mbCQvE=
+			lk4GKl4TP2LpTO/NQ6gwaMyDG4E0VfDhhvjzUrZQE3E=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/de.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fY18zsEtkJD4po09nZAuOaKDfIaCMGmrqRc+s6CSUYI=
+			IxmrTdAWnW9xlpUNHBGDFt+HBvtmU8FSMqJWEAzRUtI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -743,11 +2413,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E/X++CiDCXpXfndiDPiPJKZ1dJ4dya1X7ZHarFahE6o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vCE1Yxv8CkzacKcyW/62DgBjlMbNtkNHzomA+SjWufo=
+			INiEb5CeryckKw2+TkpzlSzPEr4zgp9PfJ7RaZRVnbk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -761,11 +2440,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TFvVQLIMtzpvZaX9cVT+Efl0cNUx6slQOVTjEUTwqg4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9n2ke2PKkeJVA4mj5oJt+OcJ9uObpsDS8SAo+d2bNNs=
+			fa86Oib+t1+9qr1QwkOFcEMQDDzPbQJoPTKl6DoJhgE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EvYur/XYIi6PoSTLUaDBWdJ/V8cysQnmgO8Hp1OaeRs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -774,7 +2471,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e6g2lNJYTw8sSKgJraoHgV39CKYvFOYC6y7vIljFBlc=
+			YyffAHwuPN5RhacKUdRA17H73GDaoQ8t9/k0UgZCVuY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QalQ3DPQTOzYQvZTf/wQ4amnjG6+tTsSRBCEAODNEDo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -783,12 +2489,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFyOKlSFgOdOGM5B4xyIqvDwW3lB7zDog2u1B+9ShTc=
+			QCvDe5T3R5nwnjX5iNvPrArFFfmzQF9sQH8h3nyvsao=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/en.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m2/0klPvAOvdFw0GnPNJQYBAAeS+pyN+rP8ZSeOOdpA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -801,16 +2516,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xudoxVidxLSxJmYVo6Mzbobde5VBnjQ0wdCF+3gWE2g=
+			qfAZlXsD6dI8EE6m4834ep5omXlZZ0tuFkKOtURkOtE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/en.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ch5CzTYR2XzyJqk+6j22Un8QnudUOmI08TqNqUuMLS8=
+			CaO63QELJkriJ/A3Nb085djjPEMFaYtkYRz94WaA90s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -842,11 +2557,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EmnzVjljXSPVg6Vu1xm1X/7VN7GAJ7hwKvl9U14FRWM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zCeQ6jTBd2Gu0C8k/PmqA6C+ix9yxcUnshGAtlFOFhw=
+			qyRHGls5jh0GTChZ/2RjsL91A2AcGgjHfM1/kMFCLsY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -860,11 +2584,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QgRH4X0eZramANezJOANzczYKiLgF3cfrjV5nZ6wzcw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdYGaFmvKp1+mLz9adMyqKvffspdk8+xjcOBFXwydNU=
+			2LGHl0R/6iUbP48zl/VlC9zwAvBw1tIfCpd6BzzyT0E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RxduWSMJkhkAe8mhHzaZ08R2E6ZeQ6NlikSM2XsAZ7E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -873,7 +2615,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zeED6kwZT1i6JeOOFeVoD9cnPMB8qDgai281Emifniw=
+			JeXGlGVu8MguumvkIlc7m0/Y8q/7CCD++to1Xf0oaKc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nP4hoX6LrxrfTIIOG6mn0hnpxDOzeA4gmML21sKOxbI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -882,12 +2633,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiRkAFXVQeLClMV/ARzFiv3oparsD9WcsOgDkOOMAVE=
+			NLgCPVoUAm5RZexgvBNUsNy1Lk3JVKUabelfw1lodlA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/PalettePreferenceViewController.strings</key>
+		<key>Resources/it.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tAvjpsJohmfILighAabVy2HXBKyZU6zLTqeXcRg6OtA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/PalettePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -900,7 +2660,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DH10VMO6BVd3LVZdbtuzEx6dfsK5dQyqP/1PDlpHHU0=
+			6eoCx3kWkY4Klp/R6rX9gDsKyHlohww/vns7A3A0EOE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -909,7 +2669,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zh4ATTQH1RUc+HLAdDU38bxr76+a27oMz+vkECKQz2g=
+			/lqJybWz882B/VTkvmVqsLnbMA2pIaHgvwQjcHihBGw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -918,16 +2678,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4iGV2bfqKOE51bW3L6UWCKJ0F6rUJKaVgzhBPilHu2E=
+			leU6b+Iyx/YlL1hn8BWHFl32Pi7D8ySZI14eNpUR148=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/ProfilePictureSourcesViewController.strings</key>
+		<key>Resources/it.lproj/ProfilePreferencesViewController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ClRsz04Nc6I6qsO5IXe2sFzJ8KDGfUIXgj0QXKf5ssw=
+			h+RIaDOgN7HrN7RViM3QSKWH4Atu9ssKhlcc5r9Z4EU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -955,6 +2715,132 @@
 			<key>hash2</key>
 			<data>
 			weSvhdhJKgLSu9/fUyAitFtzT74Wx00Psobs+DUYsJQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/ComparisonInspector.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XjLlDQ3AwSfu2uD4JHzvEYfn1Kmdj/pb+7l6LEydDYo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/ComparisonTool.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qxcpNIOVx9We2dugLNrLJiN5q8ie1yCkZbpl1C0Gg4A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/DateFormat.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g4h3j1HSE1ppi4NKdKu13DwNjvbwWA2fr09HkH2/9tA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Git.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T6dpjM4kSApZRWwAsHG0/yiTqiE/N9CwvgdbKHfqVP0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iHfFQ1Ak/08ztTZG4jqKIoF6nqpRO3F/PoJETEcPpFw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iAhHhOTWdAuvDOpmGyoU6S9D3KD4HHJhDQ521owN0Wk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Palette.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GBA+rdoWW3W4iu5wQvpn71acF5fO5uI8+q8vVdnaZ+k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PalettePreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GNlaRRxFNpzLuP5wVczjiS8gNS5UfR+Myy/1GQsL360=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PreferencesWindowController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X1Rq6iabgmRTvzDv/lrnxK4q4JQ5QgrORRzQfaENrlA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Processes.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m5/lptavkHskka6AyMrD72NaSXGUOuFFuqhXWCD0WrU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/ProfilePreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nDOo7BpYkWWdUTGum/O3UDpugMuJfghYnjZdAxD1kJI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationController.Undo.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YYubPpIEz5TDh6dK4kPQhRGZrTd+VZfhLoWtTwqpwhc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4MaaXUBM4Cig/2QYC63QwY4qAWPRh1dkBwJU2Ikpi2s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/UserNotificationsCoordinator.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tc0OvW46nBkB8BQMcgVrlkMnHvdXdqylrkKCGuDOwUo=
 			</data>
 			<key>optional</key>
 			<true/>

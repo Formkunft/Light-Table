@@ -1,0 +1,179 @@
+/* [en: "Light Table Settings"] */
+//"V5x-q2-ZCA.title" = "";
+
+/* [en: "Palette"] */
+//"EYo-AT-7Fd.title" = "";
+
+/* Label for a slider that controls the font size of the text in a table of entries [en: "Font size:"] */
+//"jtG-gT-Uyq.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"ET7-qi-eyL.ibShadowedToolTip" = "";
+
+/* Label for pop-up menu with different row spacing options [en: "Row spacing:"] */
+//"ADe-fC-fSr.title" = "";
+
+/* less spacing between rows [en: "Tight"] */
+//"2aG-Ty-Xqr.title" = "";
+
+/* normal amount of spacing between rows [en: "Normal"] */
+//"V1x-wn-ZEZ.title" = "";
+
+/* more spacing between rows [en: "Relaxed"] */
+//"dmI-XL-iAF.title" = "";
+
+/* Heading for a section in the settings window. Translate like the “subject” of an email [en: "Subject"] */
+//"Bef-tI-cfM.title" = "";
+
+/* Checkbox: when selected, uses a fixed-width font (also known as: monospaced font, typewriter font, non-proportinal font) [en: "Use fixed-width font"] */
+//"Zo0-Om-yZU.title" = "";
+
+/* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
+//"3BD-xa-Pq3.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"CVS-3T-mkv.ibShadowedToolTip" = "";
+
+/* Heading for a section in the settings window about the display of the date and time of table entries [en: "Date & Time"] */
+//"5z4-aQ-DGM.title" = "";
+
+/* Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, … [en: "Group entries"] */
+//"o6V-Vl-jRC.title" = "";
+
+/* Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence [en: "by year"] */
+//"pQ7-Zi-XFg.title" = "";
+
+/* Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence [en: "by month"] */
+//"km3-7E-xs1.title" = "";
+
+/* Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence [en: "by week"] */
+//"kam-vo-5rl.title" = "";
+
+/* Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence [en: "by day"] */
+//"wPY-vK-TKF.title" = "";
+
+/* Label introducing a set of formatting options for displaying an entry in a table [en: "Entry format:"] */
+//"7Xe-Nr-gF1.title" = "";
+
+/* Checkbox: whether to show the date column in a table [en: "Show date"] */
+//"2Fi-1X-iEv.title" = "";
+
+/* Checkbox: whether to show the time column in a table [en: "Show time"] */
+//"C4O-da-6kI.title" = "";
+
+/* Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "Enforce 24-hour time"] */
+//"LvE-2z-myj.title" = "";
+
+/* [Tooltip] Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."] */
+//"6lB-e6-LRj.ibShadowedToolTip" = "";
+
+/* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
+//"Lb4-aq-dJP.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"Uue-IJ-GVC.ibShadowedToolTip" = "";
+
+/* [en: "Comparison"] */
+//"eL5-Rw-tWh.label" = "";
+
+/* [en: "Comparison Tool"] */
+//"AOv-CU-z46.title" = "";
+
+/* Checkbox: whether the comparison mode should only be applied to the current layer as opposed to all layers [en: "Compare only the current layer"] */
+//"mTG-IS-oZe.title" = "";
+
+/* Heading for a section in the settings window about colors [en: "Theme"] */
+//"rPf-Jk-7me.title" = "";
+
+/* Label for the color that filles the area that was added to a shape [en: "Added area:"] */
+//"ZQO-2c-g9S.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"wIh-ge-g8Y.ibShadowedToolTip" = "";
+
+/* Label for the color that filles the area that is shared by multiple shapes [en: "Common area:"] */
+//"i9j-os-pmE.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"56n-71-g4n.ibShadowedToolTip" = "";
+
+/* Label for the color of the area that was deleted from a shape [en: "Deleted area:"] */
+//"IzI-1n-aMR.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"IuP-r7-q7y.ibShadowedToolTip" = "";
+
+/* Label for the color of the outline of the current shape [en: "Current outline:"] */
+//"CQG-3g-qPI.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"v6r-E6-9PA.ibShadowedToolTip" = "";
+
+/* Label for the color of the outline of another (not the current) shape [en: "Other outline:"] */
+//"ZSU-Uj-FnM.title" = "";
+
+/* [Tooltip] [en: "Reset"] */
+//"zRs-ed-NUX.ibShadowedToolTip" = "";
+
+/* Heading for a section in the settings window about how layers should be aligned by default [en: "Default Alignment"] */
+//"7xh-cQ-tzi.title" = "";
+
+/* Checkbox: whether to align layers to each other [en: "Align layers"] */
+//"GcY-iy-OYX.title" = "";
+
+/* Heading for a section in the settings window about the display of profile pictures [en: "Profile Picture"] */
+//"grq-b0-6YA.title" = "";
+
+/* Checkbox: Whether to show profile pictures [en: "Show profile pictures"] */
+//"Tuv-ca-g5u.title" = "";
+
+/* Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist [en: "Only for multiple collaborators"] */
+//"T3L-J9-rJX.title" = "";
+
+/* Label for a menu containing different styles in which images can appear [en: "Image style:"] */
+//"WIT-VI-qDf.title" = "";
+
+/* Menu item option: Images should appear normally [en: "Normal"] */
+//"rQp-qd-L74.title" = "";
+
+/* Menu item option: Images should appear monochrome (grayscale) [en: "Monochrome"] */
+//"d1d-my-4Ge.title" = "";
+
+/* Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Color-coded"] */
+//"7Qd-RJ-FqW.title" = "";
+
+/* [Tooltip] Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Tints profile pictures with different colors for clearer differentiation of profiles"] */
+//"7Qd-RJ-FqW.ibShadowedToolTip" = "";
+
+/* [en: "Profiles"] */
+//"ZR2-z2-vL4.label" = "";
+
+/* [en: "Profile Pictures"] */
+//"FNX-bS-XtX.title" = "";
+
+/* Heading for a section in the settings window for configuring from where profile pictures are loaded [en: "Profile Picture Sources"] */
+//"NqK-79-Zf1.title" = "";
+
+/* [en: "Contacts:"] */
+//"KVK-qZ-Xbi.title" = "";
+
+/* [en: "Allow Access to Contacts"] */
+//"wtK-UA-fuE.title" = "";
+
+/* [en: "Gravatar:"] */
+//"oB6-Z4-grd.title" = "";
+
+/* [en: "Allow loading profile pictures from Gravatar"] */
+//"bT6-H6-mcf.title" = "";
+
+/* Explanation of the Gravatar service [en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."] */
+"HLe-Kq-znB.title" = "勾选后，透写台插件会将电子邮件地址以 Hash 值形式发送到 Gravatar.com 服务。若用户曾在 Gravatar 注册匹配的电子邮件地址，透写台便可加载并显示他们的 Gravatar 头像图片。Gravatar 是 Automattic Inc. 的下属企业。";
+
+/* [en: "Gravatar Data Privacy"] */
+//"Kj7-z7-fcA.title" = "";
+
+/* [en: "Git"] */
+//"iTS-pp-OE5.title" = "";
+
+/* [en: "Git executable:"] */
+//"lDG-7n-Pvr.title" = "";

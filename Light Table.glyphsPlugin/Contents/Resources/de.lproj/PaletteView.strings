@@ -1,14 +1,14 @@
-/* Class = "NSButton"; ibShadowedToolTip = "New commit"; ObjectID = "8YD-ae-kp2"; Note = "Button for creating a new Git commit"; */
+/* [Tooltip] Button for creating a new Git commit [en: "New commit"] */
 "8YD-ae-kp2.ibShadowedToolTip" = "Neuer Commit";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Actions"; ObjectID = "9OB-7K-Klr"; Note = "Button for a menu with multiple actions"; */
+/* [Tooltip] Button for a menu with multiple actions [en: "Actions"] */
 "9OB-7K-Klr.ibShadowedToolTip" = "Aktionen";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Filter versions"; ObjectID = "BEP-Vk-cIz"; Note = "Button to show controls for filtering a list"; */
+/* [Tooltip] Button to show controls for filtering a list [en: "Filter versions"] */
 "BEP-Vk-cIz.ibShadowedToolTip" = "Versionen filtern";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Search commit messages"; ObjectID = "VOo-Bl-cug"; Note = "Button for starting a text search"; */
+/* [Tooltip] Button for starting a text search [en: "Search commit messages"] */
 "VOo-Bl-cug.ibShadowedToolTip" = "Commitnachrichten durchsuchen";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Scroll to selected version"; ObjectID = "yqa-k3-YOY"; Note = "Button for scrolling a list to the selected list item"; */
+/* [Tooltip] Button for scrolling a list to the selected list item [en: "Scroll to selected version"] */
 "yqa-k3-YOY.ibShadowedToolTip" = "Zur ausgewählten Version scrollen";
