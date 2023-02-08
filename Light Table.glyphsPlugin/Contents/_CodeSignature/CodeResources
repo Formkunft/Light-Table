@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
 		<data>
-		F+xW6rC3j4uhztEegCM5QiZLmbw=
+		yso3U5voQJXYweIyRnksPs3kMRc=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<data>
-		T5PmBqC8QR1PXJ+bixysIR+Agv0=
+		8uQsfUKTraE8wXzcdmCooD9WDro=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
@@ -42,35 +42,35 @@
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		Y3wLTc5Kh1r7mv7vMIrKtIWN6nA=
+		qV4oFbjgjUzCeIFQ4R17PQnCHJA=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		VbGTnw/VRI2Z45t1PzEHl+T5AQM=
+		K2ba2eCeKMr27mUChB8sJ1iUePA=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		PKMa8nqL2ulIpP7mVxmAJfuVvrg=
+		Ze0Qiay7z4FxZLnWKhvoX5wcmog=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		uOPGdxOR6J27RO5vA0fvw4GyWJ0=
+		Z+4KHtm1HBTesTNSIMMlMYklj/E=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		0siFYKm013pQDu7rCT3Mw6yG4Ww=
+		MElYadfbPVt2FOoDVvro1o7ZSxg=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<data>
-		pIeK2isbjlzO6LQLReMOfN9t5aM=
+		vQg8b3oLnAKDqsjgkgAY76v7Zes=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		UPHfvHW2TdG0QrOPVM7Jt3wpBFg=
+		u8f0Am1WlCc4Vl1bae9tYKBNqsE=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		9YXr+Tzat6n+WNFzWwmsVQ04tKs=
+		FY3+oAo3uvyK/fIj4k/LRp9CF4A=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -342,7 +342,7 @@
 		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		LRmFK4RxP3omFgygsP5O7qq6n0E=
+		hPR2vXWoB1spppLpVzFqSYsPGLo=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -812,6 +812,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MieSq5hUDcz4jkhJQnAQGYBgfK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash</key>
@@ -834,7 +843,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yV1C8t9srbWpOUUdwwMyAtvO+7s=
+			vD/tyHWKsqLgskFJ/HEw5x+NrgE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -848,11 +857,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fz43QSrnQdsNcR2TFprMpXKc+Q0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kN0d1GZy6Qh5mR0PGyW1JdAKpdo=
+			Ur2vAvFccCMMe0WscX7roII34bM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -870,7 +888,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+lGfJtgrbTV9zXCzIF8uHpkSLTU=
+			sacHLMQYMUImEOKTop3094q6gj4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lCKCMQXz3nR0h9+g5D1B3945VYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -884,11 +911,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LbyRzvi1/jXa0EpKfOdbZjqt1Kw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/PreferencesWindowController.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zeAhbtlmnfJy28msH/xPFNaqf1o=
+			mC+BfY7FxhOl2egPeZM5Lk8++LQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -897,7 +933,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q/VCgwTNWJg0aSIOgoL5L8KTsao=
+			lg2nAphWgnXrh67mWNc5TZwu3s4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -945,14 +981,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oilX1XxYg9ksAb/EgrqdhtP5foJtwODNZO4TBjP/mLQ=
+			cnduWjKf1PsDdWZH7s+PlsVqFIn9yo0QkVpueCs2TBw=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyKst0/Y5pGWZs0O4srjJRw0ilBGdneq+O4IKE5DV1M=
+			oac1c3B2N9flUS9QU2295oXkXD5V+Y5yzejqFr7NAjM=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
@@ -1008,56 +1044,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EXNOUIo/6Ac8Wv7jyrfDN52VHa2xh4FZYrOqUO57lgA=
+			hevV/hpDSu+ktY03NvO0V9OoCB1npEiMn2/U9xXcsyM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ispS3h9Ab0gxQdDZjCsVmDjfO+2wCfWddGbNsauDaJg=
+			d7abAJvNUvucEO9EM4zRjFeyQMZsbM8c/1RTITkVQXU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M8K4+j04fWBuX7Y5eV16vgP9sivAm45uk7hTZ89GNwE=
+			kVm/vbr0y71Zs0dGiNj6ipZcbvDADYY6y3X3o5Ims+E=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bWhi2TVoyg3ung5wKeeuewHK/rQ3wZdsTpnQahX5WOo=
+			SdR9LJnNdztSY7Zj6lZSq6fDeN3Ym40y+nEE/sqxY3E=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHuBviPEN+MVh59rx8vYCVj3Sz6vZwZVN+aJoiVmHIE=
+			bfiIqXYnMYRE8trzUIBqTQQ+69P3oTxCRYD2N0Mv4QU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V8mlIzsZFzaE/99QUL7vE8cR2vc6O+oOZfl212QiUgU=
+			1efNqQ2yIMSbvuTkZGzvUWVCNV5CeF9zIYljScVaIz8=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X2gw6yyMOX4gmllxhC5yfT32Fq4tYA6PmyFHk1Fywng=
+			NYSGXEkFB95x9PP7Ttd4p77MD97ZGJRJxnZjFxWuVVY=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qRO+D/a5SliLTjmLflezJ//TeVvVbKskXA5f3/EFgkQ=
+			Ng+c+pInC7/NdbXuYQHTFqZNlmejPP+2QMHFQrbFR78=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -2248,7 +2284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9lptcZ8mWq3EkEqB9+9DUhSEImJipLMUfXWxGmc++Gk=
+			fiSaB8dRNojqyMrS69u9Jr+9iY/y6x5wWPwtWlM+ilo=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
@@ -2719,6 +2755,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/AboutView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QwRA0OtiO9wIjDSKIxeChh6S6vbp6hUwDs6Ge98ADWE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/ComparisonInspector.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -2741,7 +2786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g4h3j1HSE1ppi4NKdKu13DwNjvbwWA2fr09HkH2/9tA=
+			hd6g+6w8WZKgIS8bm5/uDw7T0dIOWb08b9EA61dQYxw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2755,11 +2800,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/GitPreferencesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JJKNhMwneRKTZYhuSX08Q5FobFxl3zhwae+inraeNL4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iHfFQ1Ak/08ztTZG4jqKIoF6nqpRO3F/PoJETEcPpFw=
+			dnTxtMm398MD9q0NMF8geWpKBuQULatSQjEMy5o1Ijc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2777,7 +2831,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GBA+rdoWW3W4iu5wQvpn71acF5fO5uI8+q8vVdnaZ+k=
+			5r+UH/+QSI4SN4RYa4ZNTHrn/HBIefspqn5Oj3Y+OZg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/PalettePlaceholder.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			knCiBthFcftnmwRfBSA2s5DBXuCMUIO+80R5iEKqnQk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2791,11 +2854,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/PaletteView.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l5fo69fF3mKOIBHKzkohYPMKlYvLhyISLsLFRr8qbqY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/PreferencesWindowController.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X1Rq6iabgmRTvzDv/lrnxK4q4JQ5QgrORRzQfaENrlA=
+			4L6fuQdniEWWg5TRGqveBWw5BQaeWkDm8pStyjj1F1U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2804,7 +2876,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m5/lptavkHskka6AyMrD72NaSXGUOuFFuqhXWCD0WrU=
+			Fre+4+6wb0CRdD9abEw+t3QK9ehJor+O0RvfHXlJx0w=
 			</data>
 			<key>optional</key>
 			<true/>

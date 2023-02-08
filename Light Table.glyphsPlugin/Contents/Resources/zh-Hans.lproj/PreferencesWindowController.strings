@@ -1,179 +1,179 @@
 /* [en: "Light Table Settings"] */
-//"V5x-q2-ZCA.title" = "";
+"V5x-q2-ZCA.title" = "透写台设置";
 
 /* [en: "Palette"] */
-//"EYo-AT-7Fd.title" = "";
+"EYo-AT-7Fd.title" = "面板";
 
 /* Label for a slider that controls the font size of the text in a table of entries [en: "Font size:"] */
-//"jtG-gT-Uyq.title" = "";
+"jtG-gT-Uyq.title" = "字体大小";
 
 /* [Tooltip] [en: "Reset"] */
-//"ET7-qi-eyL.ibShadowedToolTip" = "";
+"ET7-qi-eyL.ibShadowedToolTip" = "重置";
 
 /* Label for pop-up menu with different row spacing options [en: "Row spacing:"] */
-//"ADe-fC-fSr.title" = "";
+"ADe-fC-fSr.title" = "行间距";
 
 /* less spacing between rows [en: "Tight"] */
-//"2aG-Ty-Xqr.title" = "";
+"2aG-Ty-Xqr.title" = "紧凑";
 
 /* normal amount of spacing between rows [en: "Normal"] */
-//"V1x-wn-ZEZ.title" = "";
+"V1x-wn-ZEZ.title" = "标准";
 
 /* more spacing between rows [en: "Relaxed"] */
-//"dmI-XL-iAF.title" = "";
+"dmI-XL-iAF.title" = "宽松";
 
 /* Heading for a section in the settings window. Translate like the “subject” of an email [en: "Subject"] */
-//"Bef-tI-cfM.title" = "";
+"Bef-tI-cfM.title" = "标题";
 
 /* Checkbox: when selected, uses a fixed-width font (also known as: monospaced font, typewriter font, non-proportinal font) [en: "Use fixed-width font"] */
-//"Zo0-Om-yZU.title" = "";
+"Zo0-Om-yZU.title" = "使用等宽字体";
 
 /* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
-//"3BD-xa-Pq3.title" = "";
+"3BD-xa-Pq3.title" = "字宽";
 
 /* [Tooltip] [en: "Reset"] */
-//"CVS-3T-mkv.ibShadowedToolTip" = "";
+"CVS-3T-mkv.ibShadowedToolTip" = "重置";
 
 /* Heading for a section in the settings window about the display of the date and time of table entries [en: "Date & Time"] */
-//"5z4-aQ-DGM.title" = "";
+"5z4-aQ-DGM.title" = "时间日期";
 
 /* Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, … [en: "Group entries"] */
-//"o6V-Vl-jRC.title" = "";
+"o6V-Vl-jRC.title" = "分组显示";
 
 /* Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence [en: "by year"] */
-//"pQ7-Zi-XFg.title" = "";
+"pQ7-Zi-XFg.title" = "年度";
 
 /* Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence [en: "by month"] */
-//"km3-7E-xs1.title" = "";
+"km3-7E-xs1.title" = "月度";
 
 /* Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence [en: "by week"] */
-//"kam-vo-5rl.title" = "";
+"kam-vo-5rl.title" = "每周";
 
 /* Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence [en: "by day"] */
-//"wPY-vK-TKF.title" = "";
+"wPY-vK-TKF.title" = "每日";
 
 /* Label introducing a set of formatting options for displaying an entry in a table [en: "Entry format:"] */
-//"7Xe-Nr-gF1.title" = "";
+"7Xe-Nr-gF1.title" = "条目格式";
 
 /* Checkbox: whether to show the date column in a table [en: "Show date"] */
-//"2Fi-1X-iEv.title" = "";
+"2Fi-1X-iEv.title" = "显示日期";
 
 /* Checkbox: whether to show the time column in a table [en: "Show time"] */
-//"C4O-da-6kI.title" = "";
+"C4O-da-6kI.title" = "显示时间";
 
 /* Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "Enforce 24-hour time"] */
-//"LvE-2z-myj.title" = "";
+"LvE-2z-myj.title" = "24小时制";
 
 /* [Tooltip] Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format [en: "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."] */
-//"6lB-e6-LRj.ibShadowedToolTip" = "";
+"6lB-e6-LRj.ibShadowedToolTip" = "勾选后，将忽略Mac系统配置，强制以24小时制显示时间（00:00-23:59）。可避免 “AM”/“FM”前缀的使用，缩短文字长度。";
 
 /* Label for a slider that controls the width of a font from compressed (narrow charachters) to expanded (wide charachters) [en: "Font width:"] */
-//"Lb4-aq-dJP.title" = "";
+"Lb4-aq-dJP.title" = "字宽";
 
 /* [Tooltip] [en: "Reset"] */
-//"Uue-IJ-GVC.ibShadowedToolTip" = "";
+"Uue-IJ-GVC.ibShadowedToolTip" = "重置";
 
 /* [en: "Comparison"] */
-//"eL5-Rw-tWh.label" = "";
+"eL5-Rw-tWh.label" = "对比";
 
 /* [en: "Comparison Tool"] */
-//"AOv-CU-z46.title" = "";
+"AOv-CU-z46.title" = "对比工具";
 
 /* Checkbox: whether the comparison mode should only be applied to the current layer as opposed to all layers [en: "Compare only the current layer"] */
-//"mTG-IS-oZe.title" = "";
+"mTG-IS-oZe.title" = "仅对比当前图层";
 
 /* Heading for a section in the settings window about colors [en: "Theme"] */
-//"rPf-Jk-7me.title" = "";
+"rPf-Jk-7me.title" = "配色方案";
 
 /* Label for the color that filles the area that was added to a shape [en: "Added area:"] */
-//"ZQO-2c-g9S.title" = "";
+"ZQO-2c-g9S.title" = "增加区域";
 
 /* [Tooltip] [en: "Reset"] */
-//"wIh-ge-g8Y.ibShadowedToolTip" = "";
+"wIh-ge-g8Y.ibShadowedToolTip" = "重置";
 
 /* Label for the color that filles the area that is shared by multiple shapes [en: "Common area:"] */
-//"i9j-os-pmE.title" = "";
+"i9j-os-pmE.title" = "重叠区域";
 
 /* [Tooltip] [en: "Reset"] */
-//"56n-71-g4n.ibShadowedToolTip" = "";
+"56n-71-g4n.ibShadowedToolTip" = "重置";
 
 /* Label for the color of the area that was deleted from a shape [en: "Deleted area:"] */
-//"IzI-1n-aMR.title" = "";
+"IzI-1n-aMR.title" = "减少区域";
 
 /* [Tooltip] [en: "Reset"] */
-//"IuP-r7-q7y.ibShadowedToolTip" = "";
+"IuP-r7-q7y.ibShadowedToolTip" = "重置";
 
 /* Label for the color of the outline of the current shape [en: "Current outline:"] */
-//"CQG-3g-qPI.title" = "";
+"CQG-3g-qPI.title" = "当前轮廓";
 
 /* [Tooltip] [en: "Reset"] */
-//"v6r-E6-9PA.ibShadowedToolTip" = "";
+"v6r-E6-9PA.ibShadowedToolTip" = "重置";
 
 /* Label for the color of the outline of another (not the current) shape [en: "Other outline:"] */
-//"ZSU-Uj-FnM.title" = "";
+"ZSU-Uj-FnM.title" = "其他轮廓";
 
 /* [Tooltip] [en: "Reset"] */
-//"zRs-ed-NUX.ibShadowedToolTip" = "";
+"zRs-ed-NUX.ibShadowedToolTip" = "重置";
 
 /* Heading for a section in the settings window about how layers should be aligned by default [en: "Default Alignment"] */
-//"7xh-cQ-tzi.title" = "";
+"7xh-cQ-tzi.title" = "默认对齐模式";
 
 /* Checkbox: whether to align layers to each other [en: "Align layers"] */
-//"GcY-iy-OYX.title" = "";
+"GcY-iy-OYX.title" = "图层对齐";
 
 /* Heading for a section in the settings window about the display of profile pictures [en: "Profile Picture"] */
-//"grq-b0-6YA.title" = "";
+"grq-b0-6YA.title" = "账户头像";
 
 /* Checkbox: Whether to show profile pictures [en: "Show profile pictures"] */
-//"Tuv-ca-g5u.title" = "";
+"Tuv-ca-g5u.title" = "显示头像";
 
 /* Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist [en: "Only for multiple collaborators"] */
-//"T3L-J9-rJX.title" = "";
+"T3L-J9-rJX.title" = "仅于多人合作工程中激活";
 
 /* Label for a menu containing different styles in which images can appear [en: "Image style:"] */
-//"WIT-VI-qDf.title" = "";
+"WIT-VI-qDf.title" = "图像风格";
 
 /* Menu item option: Images should appear normally [en: "Normal"] */
-//"rQp-qd-L74.title" = "";
+"rQp-qd-L74.title" = "标准";
 
 /* Menu item option: Images should appear monochrome (grayscale) [en: "Monochrome"] */
-//"d1d-my-4Ge.title" = "";
+"d1d-my-4Ge.title" = "灰度";
 
 /* Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Color-coded"] */
-//"7Qd-RJ-FqW.title" = "";
+"7Qd-RJ-FqW.title" = "着色";
 
 /* [Tooltip] Menu item option: Images should appear tinted by a specific color (color coded, color tinted) [en: "Tints profile pictures with different colors for clearer differentiation of profiles"] */
-//"7Qd-RJ-FqW.ibShadowedToolTip" = "";
+"7Qd-RJ-FqW.ibShadowedToolTip" = "将图片渲染为不同的偏色风格，以便区分账户";
 
 /* [en: "Profiles"] */
-//"ZR2-z2-vL4.label" = "";
+"ZR2-z2-vL4.label" = "账户";
 
 /* [en: "Profile Pictures"] */
-//"FNX-bS-XtX.title" = "";
+"FNX-bS-XtX.title" = "账户图片";
 
 /* Heading for a section in the settings window for configuring from where profile pictures are loaded [en: "Profile Picture Sources"] */
-//"NqK-79-Zf1.title" = "";
+"NqK-79-Zf1.title" = "账户头像来源";
 
 /* [en: "Contacts:"] */
-//"KVK-qZ-Xbi.title" = "";
+"KVK-qZ-Xbi.title" = "联系人";
 
 /* [en: "Allow Access to Contacts"] */
-//"wtK-UA-fuE.title" = "";
+"wtK-UA-fuE.title" = "允许读取联系人头像";
 
 /* [en: "Gravatar:"] */
-//"oB6-Z4-grd.title" = "";
+"oB6-Z4-grd.title" = "Gravatar:";
 
 /* [en: "Allow loading profile pictures from Gravatar"] */
-//"bT6-H6-mcf.title" = "";
+"bT6-H6-mcf.title" = "允许从Gravatar读取账户图片";
 
 /* Explanation of the Gravatar service [en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."] */
 "HLe-Kq-znB.title" = "勾选后，透写台插件会将电子邮件地址以 Hash 值形式发送到 Gravatar.com 服务。若用户曾在 Gravatar 注册匹配的电子邮件地址，透写台便可加载并显示他们的 Gravatar 头像图片。Gravatar 是 Automattic Inc. 的下属企业。";
 
 /* [en: "Gravatar Data Privacy"] */
-//"Kj7-z7-fcA.title" = "";
+"Kj7-z7-fcA.title" = "Gravatar数据政策";
 
 /* [en: "Git"] */
-//"iTS-pp-OE5.title" = "";
+"iTS-pp-OE5.title" = "Git";
 
 /* [en: "Git executable:"] */
-//"lDG-7n-Pvr.title" = "";
+"lDG-7n-Pvr.title" = "Git运行环境";
