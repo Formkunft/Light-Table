@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
 		<data>
-		yso3U5voQJXYweIyRnksPs3kMRc=
+		7gDLGOP28fXEybAebwPP81CtUQs=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<data>
-		8uQsfUKTraE8wXzcdmCooD9WDro=
+		feoGTwkSXzF2RL/OJ8xNhwuATlI=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
@@ -34,43 +34,47 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		4O9mYY8pn/NCs+l9boKARyRoxwY=
+		uDQaVdXkdtvrnAti7UvSZYcUjG0=
+		</data>
+		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
+		<data>
+		CpZKmHDvfuQNeLEShkBVE5dJVd8=
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
-		tRK70vbZrVLBKx7QxhTsmQCmEzw=
+		Qh+FrbFdfJxQM2K6rM4HStkv3SQ=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		qV4oFbjgjUzCeIFQ4R17PQnCHJA=
+		lGKLK8sBeLXo0HVzfEbSnyI5sBs=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		K2ba2eCeKMr27mUChB8sJ1iUePA=
+		e+PQALGW21AfoVPeHxPJ3YA50y0=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		Ze0Qiay7z4FxZLnWKhvoX5wcmog=
+		8XpqHgdHIdGJTXEFXmwND8SNoqM=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		Z+4KHtm1HBTesTNSIMMlMYklj/E=
+		Lwg4ykNWSsdl+LGxlmXm8eG/mHM=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		MElYadfbPVt2FOoDVvro1o7ZSxg=
+		GHaAvS2ci95VmHa0rX/+GTpmvk0=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<data>
-		vQg8b3oLnAKDqsjgkgAY76v7Zes=
+		pIeK2isbjlzO6LQLReMOfN9t5aM=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		u8f0Am1WlCc4Vl1bae9tYKBNqsE=
+		YX3oNabQFZ/CX7W8Y4F3m4qdf7g=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		FY3+oAo3uvyK/fIj4k/LRp9CF4A=
+		W/D00vJraZ8EcFFxC0OBY+1bkxk=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -78,15 +82,31 @@
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
-		gM0tH6/eCTY8iWXBw/5FjD3Ci7A=
+		qO8A0+LSph73Tn2s8b94xPJRy7E=
 		</data>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<data>
-		hKYQfnzuGq2/7W76rc7Y34F9Ens=
+		R6QJ94E0Gee8yfhWcmNtr3LEkDw=
 		</data>
 		<key>Resources/ComparisonToolTemplate.pdf</key>
 		<data>
-		5xP2zgDyGQuBhWUIEFzzdUW6qNA=
+		GsoyrdClggAAHeN0vKyBYNRSeh8=
+		</data>
+		<key>Resources/DashboardWindow.storyboardc/DashboardWindow.nib</key>
+		<data>
+		Mq1FUA6hhsqyF56z7i6Hv9HgnjA=
+		</data>
+		<key>Resources/DashboardWindow.storyboardc/Info.plist</key>
+		<data>
+		uijbtzH6epRP1j+E3Bc03N8ukAw=
+		</data>
+		<key>Resources/DashboardWindow.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
+		<data>
+		L8VTaUMhpxuRB8IithptUN6Z0mw=
+		</data>
+		<key>Resources/DashboardWindow.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
+		<data>
+		KBQLnqDWQTKpFKzEHf6TfUuRV3g=
 		</data>
 		<key>Resources/Executables/git/COPYING</key>
 		<data>
@@ -342,7 +362,7 @@
 		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		hPR2vXWoB1spppLpVzFqSYsPGLo=
+		prbSctYS8o7KmHyZN/SOUpM8U8A=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -357,7 +377,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			16Zc0UV9vK6UNb2IyzcOVXupTTU=
+			IvHrekVOC1yHAj67HYhKqKBv4V8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -366,7 +386,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K3jDOO4nxkHQzCq6iu8OSrZYFpo=
+			Rpl16igz40MKCk8jRSYuqTw1+6Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -380,11 +400,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/de.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eUCQguZ/OOWcXPg4kXfYjh7OwH4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W4+JEz730S3M+05dUGfpYcFDwtY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rc0ZgP5HakTsw39wWJGPtM3lsGc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bfl/mi8//cH7JPZhPf5HWU+FiF8=
+			S/AZD54PvXc3o1GSeCHpsnW5DWU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -398,7 +445,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/LayoutAlignment.strings</key>
+		<key>Resources/de.lproj/Layout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -411,7 +458,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6mzm2hMJygwCuYrGXN9B3OcjUac=
+			/5OsECABOlJYHxm5yymeIgqp7CE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -420,7 +467,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eHPM7b1h+xmCIWkpZuoYfngfbu8=
+			2AYiCVaYpqt9Yg4dPd5uujulXm0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -447,7 +494,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AoXk/5ltpgYV55ujbK7rnmtQqjI=
+			ldvpkSPmXSX24WgPlGy6+qZQMSY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -456,7 +503,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DLGIxJUJ5i5jqpaenZuu1kQyCGk=
+			Es0HxoKxOpzs1SfjjY/Z1duqsAc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -465,7 +512,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rBn4K7ZirGcR69vH8SNCcgLEyTc=
+			RKO7IbxnYB2+C2has0HiXrvjW1Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -479,29 +526,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/de.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dHkEtXbnK4Is3EwN2yOHHBgnoOQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rSL3k73UX3w0sJPHNGqZHT7nbrs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			O8PfIiFbmJION/Vu2ECWeWhLkEw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9EegBGSSCE9v2JgHQ5G11RdRnoQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eUCQguZ/OOWcXPg4kXfYjh7OwH4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -519,7 +566,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ISQL4Lt6AOHazicq9NPztnAJceI=
+			YCoTe+rlnAow1vjCWV++nSxm978=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -528,7 +575,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RHNeaDB+yLC80ldw2rQkj1vpyTM=
+			eI2hxPWPWMEUsNXEJR+fML6iJvU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -542,11 +589,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0Rb1NS3p88TCecAjW7n719YBNqY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JSXawcs4IdGrPvxK97gNFuxQxp4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1rA/yRBUaWWNV2ZPVmBFMUFamKo=
+			Mdnix4pqNV5uDKC/+43ymR9Sowk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -560,7 +625,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/LayoutAlignment.strings</key>
+		<key>Resources/en.lproj/Layout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -573,7 +638,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r0fr9T4Zl1ivYiHNZcPrKuYueZI=
+			bdqOOTbRBiT8Cys7uk7vPsGzvwc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -582,7 +647,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U8buJdsMEuRk4G7hmajMnBnGBKE=
+			19ixuCOOJJwY7wOaD6hfCVXuGuc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -609,7 +674,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wbct+o4rjLvltz45IEWofGQillw=
+			MAoote0f6oChPTTqbf3IRVHr19g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -623,29 +688,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/en.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VftP/t5PQM/Ig/X8MxCbnt6mTsQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CbyIQ7FxfP93nKKUXS9fnrjjHwo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			qM2WrtUIQpzSkqchCLLKC4pJbfk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yFJRdeXVLfU8Cm/Wb7Npcvq+xJE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0Rb1NS3p88TCecAjW7n719YBNqY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -663,7 +728,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pB/ugtTO/L6fOa5QfXdF9MuRHcc=
+			POEMqbVzSRVgm3UaoSxJjvdaV/M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -672,7 +737,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DdSONDADFuwW71nlJYtpanxiLiI=
+			yhlnGTgzrqH6+6eFVwB22qHYN5k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -686,11 +751,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HryloOSmsoQKxHihJJr9eTTxdv0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			31yONnUNos213m7dV3IB4NoYedE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jpe06FoPwfTTlIguuQywMcbRDGA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ydq6YpWJ1qRBefdkW7QmSVtsg2Y=
+			XB16pDuC9Q6ALZFyefa+Yxs/Tfs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -704,7 +796,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/LayoutAlignment.strings</key>
+		<key>Resources/it.lproj/Layout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -717,7 +809,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NYbUOjF/Dtr7mKGSanI94OqiCiA=
+			RUZiXpk1l8Nw441SVu/wPK5k6Fc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -726,7 +818,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eykKrruTczBMF8vgxMWGtyPp3zI=
+			Z2ow7JZFTxeMACH4e+gO4FM9Nh8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -753,7 +845,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xoPLfljm/RPpoXvRYEvEpqmvCJk=
+			KgBRj4rEKMUHQnDvbkXx8Eojr2I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -762,7 +854,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IHscBsAB+xrS2Y8kjOO9xD3xpx4=
+			kBzBEq6V+3/La5WG4mgXTgun7Ng=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -771,7 +863,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mD1lmIBWPrirAUJtDyi84tIAGkI=
+			1R4I8OyZGwoCOnKGH6op7cWXQUA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -785,7 +877,25 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/it.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n5v7Gm2Q/tXda9i/s2TBSGvW0yQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HxzRn3uW5HUMgefiNknHsP4KUuI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -794,29 +904,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Plm9v0eDTtbVZFlBjR5KlTF6yBw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/it.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HryloOSmsoQKxHihJJr9eTTxdv0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/zh-Hans.lproj/AboutView.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MieSq5hUDcz4jkhJQnAQGYBgfK8=
+			C2bEcqqEm35px81JaX9zMn2O4i8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -825,7 +917,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3kOwTafSlExY5jCCRiEv3nKJGNY=
+			abGOjDk6GULcTBfvbVqnOgF5+Ec=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -834,7 +926,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kyVz6/CjhFVS89cJiw8CPw68P0E=
+			7MykCbortIe4LOv4xsXcVZ6V/oI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -848,11 +940,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XYVjc54UHl4MABc5BSxySC+VjD8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uXBvCeUVeuEhdIm0REk8vxOR98E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5KFk+hDt12v5F8so5p32urL2+84=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/Git.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zz9Ezt64FvDg03NfgZCkqTQfYhE=
+			QJNCapxwPeuZWC9lQjnDvbKK5xE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -861,12 +980,12 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fz43QSrnQdsNcR2TFprMpXKc+Q0=
+			34yKqFM4z4ujtDxuRLrguahORek=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
+		<key>Resources/zh-Hans.lproj/Layout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -879,7 +998,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gt2ndkU0YDkR1e+m1f6Qtq/JMss=
+			/4EI+9UAaRmwuqLCvhUcR0oQaco=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -888,7 +1007,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sacHLMQYMUImEOKTop3094q6gj4=
+			EcvB4YWLUqXmTchNWtZdVlNLFU8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -897,7 +1016,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lCKCMQXz3nR0h9+g5D1B3945VYM=
+			U9I5XvaGBivv3VL4GIcF2IfjsLM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -915,7 +1034,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LbyRzvi1/jXa0EpKfOdbZjqt1Kw=
+			sV3NbZS2f885wPV8IEm8w0DsRR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -924,7 +1043,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mC+BfY7FxhOl2egPeZM5Lk8++LQ=
+			Z3ZzeKMUP/qYf/RZWoDpEqTXaJk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -933,7 +1052,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lg2nAphWgnXrh67mWNc5TZwu3s4=
+			ya9amLdEjMQ64r1vY8XzFX/K/eo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -947,29 +1066,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hans.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/zh-Hans.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gBn6eaex1K5v0BlUH6/frBUC3CI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i9Tf5efsBXSHL+ekeYqZIzodmV8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			bBt05Lp2ZorPVQvHkS2tH6XK2KE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh-Hans.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			536skFs+ySyPTUUXvaUefxiOYWg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh-Hans.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XYVjc54UHl4MABc5BSxySC+VjD8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -981,14 +1100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cnduWjKf1PsDdWZH7s+PlsVqFIn9yo0QkVpueCs2TBw=
+			ubX0SgreQeVLLdLiMYCBPKk/OZbmZyRlgQvU1PrmXj0=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oac1c3B2N9flUS9QU2295oXkXD5V+Y5yzejqFr7NAjM=
+			FLgyyx6vjcLHWCVnyi8fPNmXRtpaDiTghhtRl+qKmM0=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
@@ -1030,70 +1149,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+4ml9WyobkUYqAr3Ib1n9Ew0XZz7rfuUpV/UyzA6Usg=
+			aoDXeyDMzYGwzEPCZhvXceFeEJQbgXrBR1TLQxM/87w=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ySauRXtyeGTs37S6cD8E9Gdho3tpb4AHXQkepZm8AZk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sn131tNEpKyS6PVCjDLoNLVZck6ThzZONGyrxmsIFJo=
+			FZLQgvOFgHoM1Wq+f658/JNxArZj8VgLZ8p09atHOOw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hevV/hpDSu+ktY03NvO0V9OoCB1npEiMn2/U9xXcsyM=
+			oe8AxFgLDlf8p1HWRZr1ycYR8IBUkuNZCJiJ7rOoD7E=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7abAJvNUvucEO9EM4zRjFeyQMZsbM8c/1RTITkVQXU=
+			EkwkYuZrxz9a21Q1Tlce43DEr24iFoYN3v3290YgJ9Q=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kVm/vbr0y71Zs0dGiNj6ipZcbvDADYY6y3X3o5Ims+E=
+			iP5BQhI9GFWYvyAVZe+em3y6CYaQihrOK9QGF9jDrrM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SdR9LJnNdztSY7Zj6lZSq6fDeN3Ym40y+nEE/sqxY3E=
+			H4grhUVpwFQxXnNUDw2tm6+EmQp3Vd3dIZW8NLKsJao=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bfiIqXYnMYRE8trzUIBqTQQ+69P3oTxCRYD2N0Mv4QU=
+			AODCIYzCQjdOJMq6FVmEQ1AUsH15gDPLxYig9wd5n9Y=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1efNqQ2yIMSbvuTkZGzvUWVCNV5CeF9zIYljScVaIz8=
+			V8mlIzsZFzaE/99QUL7vE8cR2vc6O+oOZfl212QiUgU=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NYSGXEkFB95x9PP7Ttd4p77MD97ZGJRJxnZjFxWuVVY=
+			ICe9Sa77gyKHe9hWtS2UBFZ+Qym19/MEYAJk80AL56Q=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ng+c+pInC7/NdbXuYQHTFqZNlmejPP+2QMHFQrbFR78=
+			gVcxrPWoU5Jlti62BTI59C42kDoqK8d1TJAL+Bvx0TA=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -1107,21 +1233,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lDbRc+OD8hBvFPvstRvqn+PTSieEWS8QRiGXDrGov0I=
+			FPfYyXvRjVFgzeC/U2JbBCCRKyI87z0FEy+9y9XGo0s=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rjxvkRH0fFqH0lQuTkAQQNAVTI68KUaw3+xzqNXotfc=
+			8U/70H+SScFIqrF1vEY6f3SRRxfbJFKF9MV4DuVMtLA=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolTemplate.pdf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mo8fjAbDx7U+vuu+2XCmykWS9UaOs0EWCEQqfvLl/5g=
+			KUKthjuQ0NbG/yE7VZtLPPvaN0cxgvZ16v7dyoDVjR8=
+			</data>
+		</dict>
+		<key>Resources/DashboardWindow.storyboardc/DashboardWindow.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZICj3gnLVrlLZLdmM0S1fgN/j834DRx5ipEnlm2yRhY=
+			</data>
+		</dict>
+		<key>Resources/DashboardWindow.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rp7glaoJTQHgMkJ2QTboSdzGJ9/zYIyCm3E9FvxGPVk=
+			</data>
+		</dict>
+		<key>Resources/DashboardWindow.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZzuyrI52ZIFcBN6WUGpvyhK95yGcUwDCcbPHGC83g7I=
+			</data>
+		</dict>
+		<key>Resources/DashboardWindow.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mlEX6dSZnhf+OVA89u4FulbQ9C3BVIkYugGc6TWffOg=
 			</data>
 		</dict>
 		<key>Resources/Executables/git/COPYING</key>
@@ -2284,7 +2438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fiSaB8dRNojqyMrS69u9Jr+9iY/y6x5wWPwtWlM+ilo=
+			eMkE8NY0abBvfxIRA4kIaxVIU/CKcBV4Dno9oqcsTB4=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
@@ -2300,7 +2454,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qS79S8DO2qdH+NTgPO9tDVffk8ZvSHBOhgKF+iNp1Ew=
+			LevTIAJrm2GNQkI38yH1bf7beKhzyXJUwhi0c4E5Y54=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2309,7 +2463,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlyYGfcbWd0Yok56lsrR+Dqj7hw9TWygGdVUVD78Qcc=
+			WGT7sS6o0WLqUUjjSmiB3pArQPtvDi+pXQTmGzpTZHI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2323,11 +2477,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/de.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j7d6fuCFcyF/FLVHcuvHe341ZFykilQDP3YRyU+Tj30=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U8PNRITFyXrZW5hp2wF3O3YQTzKxEdOf8syk8xSRsbA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lm+LBfYyzprxSzaUVqI7hDkpsxOTYrdckWWnlJTu4a0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/de.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qGU2P2LYC/xq5w1ZsRoxtGpYyQwwi+GkEEw3NR/E3sk=
+			g5aqaLhcQQvXgLls/dySNUgY7inh6tBlk9/oNf2Rmvo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2341,7 +2522,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/LayoutAlignment.strings</key>
+		<key>Resources/de.lproj/Layout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2354,7 +2535,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sd4udo9sPRgdaa5c8qwUeRMUcn21CeJKTgzmvYK4uDU=
+			6bma2nwdo7R72G8V/8IG4Zr2FjtYLcpb66EZUVQ2reQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2363,7 +2544,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rF8eWSsuScDFH86jeD28jygXskcaOROyjHuKqbYovRA=
+			5d9CTiv49ETm2wl0EfTl6NPv3XqWEJ4U11MEaMZeBwk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2390,7 +2571,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5+REgDyx9xGyyHlm7niCr74gVN7kksJPuJAMcKoPT90=
+			BwGAxGSDX/og6y6bdCbgE0/S2lLPJgCiEmRGiQ9cnxo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2399,7 +2580,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tEA/EdHZuIRDYJ5WW+y1P/9cHDOcVFDrdxYS8fsG8cQ=
+			ciFSaMyudJS4aCJxIIEcV+ZOprLR96wWVcx1zANi1V8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2408,7 +2589,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lk4GKl4TP2LpTO/NQ6gwaMyDG4E0VfDhhvjzUrZQE3E=
+			4VmxQFKS4LF9O/4UYVO5da5+XxqYaPlwyM7jnacgWAQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2422,29 +2603,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/de.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e1EjqS1LoVgB+s00ziNGC0llzM48RF1wZn0esnDc+LI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CfCGsG8lQm2rmA7zd+BO7KIV81iZ6YHXbglkrxZykMg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			bbCbGKy/AqN4tcKQYtJaAncPjWW2BM5zenw+E+9k9hA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R+zioX1F37izH+pKp3maoNtMPjPbN4YnBT5ax5J0cKg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/de.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			j7d6fuCFcyF/FLVHcuvHe341ZFykilQDP3YRyU+Tj30=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2462,7 +2643,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			INiEb5CeryckKw2+TkpzlSzPEr4zgp9PfJ7RaZRVnbk=
+			QxAOpnJkVnwd0KXB7VMm/ivLVSAIWluSbKidHIEhVG8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2471,7 +2652,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JnkOMdc4kxHd3aeJ7uF92kIpIZcYLT/0qNu9oc17VeM=
+			2WSNj/04QXK54GbO72ZiDBCk5JWfP2gOKYWuWt9xeyk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2485,11 +2666,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MZywcTrfNfkWrHj7LHFJNAFDZf9aazK7kyYLFlnUtxY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sGLumGWCDBpKuEvM+5E6AXIFJ/rEnS+CETn3Xv6tOvs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fa86Oib+t1+9qr1QwkOFcEMQDDzPbQJoPTKl6DoJhgE=
+			3Vv+Vr3gzflsxyVgYytHZ4ow0b3Z0uEW+g42VtvXmHU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2503,7 +2702,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/LayoutAlignment.strings</key>
+		<key>Resources/en.lproj/Layout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2516,7 +2715,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QalQ3DPQTOzYQvZTf/wQ4amnjG6+tTsSRBCEAODNEDo=
+			B2s/VdZ1Pa44OH4XizNRfx+kj1L+/0j6YiIJqbs7/s8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2525,7 +2724,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QCvDe5T3R5nwnjX5iNvPrArFFfmzQF9sQH8h3nyvsao=
+			0a18OceVQZrMyIgV/QDXg33mYhOxykcEWO5VNiVM28I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2552,7 +2751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfAZlXsD6dI8EE6m4834ep5omXlZZ0tuFkKOtURkOtE=
+			EBeSs4USd9tWfWdV0nbaZWkOD5ORNIfNftENsgvra1A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2566,29 +2765,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/en.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMafq/oQgmwr8Hk1Y8Z3XfIRCyVuNZLu7cS0WY/rFKI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CYfeu5RZInyLyrtMw6k5cv4+Dj/z+lCvR4SONgcs7zI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			65NyeXKC3ULoRygBx4U2gfqIAlwDjTGqkdxkMtRhNig=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UmePBHB0xa2X+PVM5/yhLAmxZFNIswdxbkfxigwY154=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/en.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MZywcTrfNfkWrHj7LHFJNAFDZf9aazK7kyYLFlnUtxY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2606,7 +2805,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qyRHGls5jh0GTChZ/2RjsL91A2AcGgjHfM1/kMFCLsY=
+			gHhrzPsTpNh/bGLJMMcu8OialwQHhu2wfFpyaAyPPkE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2615,7 +2814,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yj0Pee42lCPjFHk+ZQ2pJuFRrv7k/ivxxthWRIQcZak=
+			XSJDTYpIYwNch0VRNlQnXghIFJ9qhCoWhmwXQMDTPHQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2629,11 +2828,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/it.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			weSvhdhJKgLSu9/fUyAitFtzT74Wx00Psobs+DUYsJQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpMcNHnqVRGl/c9CCP+m2qgK0QBjLFmEEYmpBb99du4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BmoqNMO5/RbywyLv18Wcxs1L8TCciQExrF+/MmRqh3o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/it.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2LGHl0R/6iUbP48zl/VlC9zwAvBw1tIfCpd6BzzyT0E=
+			mSf+NQ36Bc7jCDnLdib01U51iILzmm3yDoIug1y0svo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2647,7 +2873,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/LayoutAlignment.strings</key>
+		<key>Resources/it.lproj/Layout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2660,7 +2886,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nP4hoX6LrxrfTIIOG6mn0hnpxDOzeA4gmML21sKOxbI=
+			STXKSMLnqyuwSNox9Uj8a0apBfLhCyEaql3ij2ilw10=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2669,7 +2895,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NLgCPVoUAm5RZexgvBNUsNy1Lk3JVKUabelfw1lodlA=
+			rdKLzsFAj+Rr7FmWtjZfPuLSa5Kxp6UC65o3LdZxQjg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2696,7 +2922,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6eoCx3kWkY4Klp/R6rX9gDsKyHlohww/vns7A3A0EOE=
+			9ajPGNatX6UKOxohe98r4xp2FJHJudK0SWhPtf1VgUk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2705,7 +2931,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/lqJybWz882B/VTkvmVqsLnbMA2pIaHgvwQjcHihBGw=
+			T+a/o34rc4VkE8SjIhANVEo51zXauHuKJ30f4X5rJj8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2714,7 +2940,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			leU6b+Iyx/YlL1hn8BWHFl32Pi7D8ySZI14eNpUR148=
+			MAsFLPHLpECQ8DcWbAeL5bxVcWZ8/JuafgZRkkQ6z6o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2728,7 +2954,25 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/it.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uLslFE5sUuWQSu+bW2S4ZV2y8wcbJ6YvsIT+KYvAlZI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qjf22ogzZ6Dm4rZPEeau0031z+kkFtZ0TbUkQxh8LRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/it.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2737,29 +2981,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/it.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ArEeMqcpd7sVZ3ZKeLX+X5Qv3deLQ7bvmGWvnL61oZI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/it.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			weSvhdhJKgLSu9/fUyAitFtzT74Wx00Psobs+DUYsJQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/zh-Hans.lproj/AboutView.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwRA0OtiO9wIjDSKIxeChh6S6vbp6hUwDs6Ge98ADWE=
+			Kq1V3sz8F/fKo6yB4E6oujEWR/WrR6euY82YSvDg7YY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2768,7 +2994,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XjLlDQ3AwSfu2uD4JHzvEYfn1Kmdj/pb+7l6LEydDYo=
+			hRiW5UGAv+IFQAqhMVSvmb3lVH3OwSXLIhbM3UB5EwA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2777,7 +3003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qxcpNIOVx9We2dugLNrLJiN5q8ie1yCkZbpl1C0Gg4A=
+			kEGEl967LU+GYbqz3wkaQDpI+Plhs3b56cVNlFfPHl8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2791,11 +3017,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/FileActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tc0OvW46nBkB8BQMcgVrlkMnHvdXdqylrkKCGuDOwUo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/FontProofer.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ETykpgo8FsXBMbpj2BTr6JjhPaUJxhk1Utx7yKWwRno=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/FontProoferOptions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5SISG77aCmsadjhFxjHUaKMw2CfIigR9GwiV++8oOfY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/Git.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T6dpjM4kSApZRWwAsHG0/yiTqiE/N9CwvgdbKHfqVP0=
+			rYlqGtKpz2njH6HCANFIx8KZja/4Uq0jf9nDm0uqao8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2804,12 +3057,12 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JJKNhMwneRKTZYhuSX08Q5FobFxl3zhwae+inraeNL4=
+			s+Rn7RAua+LN+fbekTPDPCjXIZABxlidB9PJ/hoRCHI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hans.lproj/LayoutAlignment.strings</key>
+		<key>Resources/zh-Hans.lproj/Layout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2822,7 +3075,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iAhHhOTWdAuvDOpmGyoU6S9D3KD4HHJhDQ521owN0Wk=
+			Ni8NgTxbZOIO1y6Tc/pD4/+7MkjB7NH/l8iCSMXeEhY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2831,7 +3084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5r+UH/+QSI4SN4RYa4ZNTHrn/HBIefspqn5Oj3Y+OZg=
+			gAVuI8cRPlXVMGBGpDl91WOeSdtyy76RM7Eoj95Oimg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2840,7 +3093,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			knCiBthFcftnmwRfBSA2s5DBXuCMUIO+80R5iEKqnQk=
+			TkbrLOFMqqJNBL30ThknpMgpvpXR62C/zmDineg/d3o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2858,7 +3111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5fo69fF3mKOIBHKzkohYPMKlYvLhyISLsLFRr8qbqY=
+			IzlfU694RjMnc0LtSc7BLIjndscpdmjLSnRJFEx9cUE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2867,7 +3120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4L6fuQdniEWWg5TRGqveBWw5BQaeWkDm8pStyjj1F1U=
+			8Am1Y5Avu78rEfI08ck21kDxSUMG+bCNfvWvzvCI6AU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2876,7 +3129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fre+4+6wb0CRdD9abEw+t3QK9ehJor+O0RvfHXlJx0w=
+			cByv2/81bXl5sVsBNxxEo2AmzIpuN4e5WtfbxbZIp4Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2890,29 +3143,29 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/zh-Hans.lproj/RestorationController.Undo.strings</key>
+		<key>Resources/zh-Hans.lproj/RecordActions.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZxkWjQqDWh0mmjLJQqhQ9snVWfrgARXBwfR1TISsW0g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Restoration.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vd64UPKWUe0dFZ5z9mrFiWJycWh/spFCj//tnLJ5MO4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/RestorationUndo.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			YYubPpIEz5TDh6dK4kPQhRGZrTd+VZfhLoWtTwqpwhc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh-Hans.lproj/RestorationController.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4MaaXUBM4Cig/2QYC63QwY4qAWPRh1dkBwJU2Ikpi2s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/zh-Hans.lproj/UserNotificationsCoordinator.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tc0OvW46nBkB8BQMcgVrlkMnHvdXdqylrkKCGuDOwUo=
 			</data>
 			<key>optional</key>
 			<true/>

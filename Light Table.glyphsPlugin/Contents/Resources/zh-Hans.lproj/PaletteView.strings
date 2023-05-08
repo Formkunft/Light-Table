@@ -1,14 +1,14 @@
-/* [Tooltip] Button for creating a new Git commit [en: "New commit"] */
-//"8YD-ae-kp2.ibShadowedToolTip" = "";
+/* [Tooltip] Button for creating a new Git commit [source: "New commit"] */
+"8YD-ae-kp2.ibShadowedToolTip" = "新的承诺"; // MACHINE-TRANSLATED
 
-/* [Tooltip] Button for a menu with multiple actions [en: "Actions"] */
-//"9OB-7K-Klr.ibShadowedToolTip" = "";
+/* [Tooltip] Button for a menu with multiple actions [source: "Actions"] */
+"9OB-7K-Klr.ibShadowedToolTip" = "行动"; // MACHINE-TRANSLATED
 
-/* [Tooltip] Button to show controls for filtering a list [en: "Filter versions"] */
-//"BEP-Vk-cIz.ibShadowedToolTip" = "";
+/* [Tooltip] Button to show controls for filtering a list [source: "Filter versions"] */
+"BEP-Vk-cIz.ibShadowedToolTip" = "过滤器版本"; // MACHINE-TRANSLATED
 
-/* [Tooltip] Button for starting a text search [en: "Search commit messages"] */
-//"VOo-Bl-cug.ibShadowedToolTip" = "";
+/* [Tooltip] Button for starting a text search [source: "Search commit messages"] */
+"VOo-Bl-cug.ibShadowedToolTip" = "搜索提交信息"; // MACHINE-TRANSLATED
 
-/* [Tooltip] Button for scrolling a list to the selected list item [en: "Scroll to selected version"] */
-//"yqa-k3-YOY.ibShadowedToolTip" = "";
+/* [Tooltip] Button for scrolling a list to the selected list item [source: "Scroll to selected version"] */
+"yqa-k3-YOY.ibShadowedToolTip" = "滚动到选定的版本"; // MACHINE-TRANSLATED
