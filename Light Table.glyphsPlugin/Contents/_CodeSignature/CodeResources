@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
 		<data>
-		7gDLGOP28fXEybAebwPP81CtUQs=
+		HCaxsR/nlTZ8Ts2K1ZW0CNOxWNk=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<data>
-		feoGTwkSXzF2RL/OJ8xNhwuATlI=
+		CSDwytL9TzBzLfCGgvinHmFuTKw=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		uDQaVdXkdtvrnAti7UvSZYcUjG0=
+		46bMiXUTXgyAe00SRq3lGQ4xzTo=
 		</data>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
 		<data>
@@ -42,39 +42,39 @@
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
-		Qh+FrbFdfJxQM2K6rM4HStkv3SQ=
+		+/RcQkdW7QsmReYV1GZ4DcTWBc8=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		lGKLK8sBeLXo0HVzfEbSnyI5sBs=
+		d6HANFSiys7fEHamnTdghR0U4gU=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		e+PQALGW21AfoVPeHxPJ3YA50y0=
+		xOhshq9gAlWxrE0DmRMaOWm7/gw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		8XpqHgdHIdGJTXEFXmwND8SNoqM=
+		XfkhiN3T4XBqz3qA70iE5fzjljw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		Lwg4ykNWSsdl+LGxlmXm8eG/mHM=
+		AvQ3GDIDy4D4tItmkAHMlJBicTc=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		GHaAvS2ci95VmHa0rX/+GTpmvk0=
+		wQQ/ZGcHG26I04+LkruZJv9OnAw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<data>
-		pIeK2isbjlzO6LQLReMOfN9t5aM=
+		vQg8b3oLnAKDqsjgkgAY76v7Zes=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		YX3oNabQFZ/CX7W8Y4F3m4qdf7g=
+		EIGuVSAWOy4f5zF/kEYjf9n/kk4=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		W/D00vJraZ8EcFFxC0OBY+1bkxk=
+		apnuKecGaY/HkCTrMAqR7+ASvqg=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
-		qO8A0+LSph73Tn2s8b94xPJRy7E=
+		zEYgl4LEt+bSEyrr7HNuMRYFavw=
 		</data>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Resources/DashboardWindow.storyboardc/DashboardWindow.nib</key>
 		<data>
-		Mq1FUA6hhsqyF56z7i6Hv9HgnjA=
+		LWtFj7mwEnTNeum5iKnJR5ODwbw=
 		</data>
 		<key>Resources/DashboardWindow.storyboardc/Info.plist</key>
 		<data>
-		uijbtzH6epRP1j+E3Bc03N8ukAw=
+		+Z6tZ3taZjSJdbtGbI3N+cWua4U=
 		</data>
 		<key>Resources/DashboardWindow.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Resources/DashboardWindow.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
 		<data>
-		KBQLnqDWQTKpFKzEHf6TfUuRV3g=
+		0J7B0WIBMjxkqz/noNubFqNj0XY=
 		</data>
 		<key>Resources/Executables/git/COPYING</key>
 		<data>
@@ -362,7 +362,7 @@
 		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		prbSctYS8o7KmHyZN/SOUpM8U8A=
+		EYLNTTY8ojq9JTI5C48H/MRheyw=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -908,7 +908,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C2bEcqqEm35px81JaX9zMn2O4i8=
+			97+16+gNIl+o97AauCiShK4Jl6c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -917,7 +917,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			abGOjDk6GULcTBfvbVqnOgF5+Ec=
+			NrGDUEBTdLeLyjzp5g6XZXY711I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -926,7 +926,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7MykCbortIe4LOv4xsXcVZ6V/oI=
+			EYCMrqTEGnddLS3s4aovsf279YI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -953,7 +953,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uXBvCeUVeuEhdIm0REk8vxOR98E=
+			ZoG4D1utxEjBnfKttbs4MWuTGN0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -962,7 +962,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5KFk+hDt12v5F8so5p32urL2+84=
+			52y7gpG0tpeYSJSjJjBe+sLtIl4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -971,7 +971,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QJNCapxwPeuZWC9lQjnDvbKK5xE=
+			LRmecxHq4C7De8WA0/boGxn97oU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -980,7 +980,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			34yKqFM4z4ujtDxuRLrguahORek=
+			w8ypnYCvXpu1XA9LdtJ260kScK0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1007,7 +1007,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EcvB4YWLUqXmTchNWtZdVlNLFU8=
+			u36webFtQyivuiBhAiiRmzxjWII=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1016,7 +1016,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U9I5XvaGBivv3VL4GIcF2IfjsLM=
+			DuE8Tv0epBJHzabwZtIwiDeu26M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1034,7 +1034,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sV3NbZS2f885wPV8IEm8w0DsRR8=
+			apcQWnWxpDVDKPSyRhFNKMVbzzE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1052,7 +1052,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ya9amLdEjMQ64r1vY8XzFX/K/eo=
+			g3oRXug7VbBIwssOq53Wd5S388Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1079,7 +1079,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i9Tf5efsBXSHL+ekeYqZIzodmV8=
+			bPJ5obsvIyEHqwX49RLCkbrAcFg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1100,14 +1100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubX0SgreQeVLLdLiMYCBPKk/OZbmZyRlgQvU1PrmXj0=
+			yOfHyhF/44hJ5mocfwEmjNyXIkF5HIqWDTjK76Tj8uI=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FLgyyx6vjcLHWCVnyi8fPNmXRtpaDiTghhtRl+qKmM0=
+			+d2Tu2TADM3DGDUTsNt5b3NYK7GmHdqls52SR9yZx+Y=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
@@ -1149,7 +1149,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aoDXeyDMzYGwzEPCZhvXceFeEJQbgXrBR1TLQxM/87w=
+			E2jB9u6Yz3yKqDjH1h0gMAroUrtknMrp8bfIOP6ayII=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
@@ -1163,63 +1163,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZLQgvOFgHoM1Wq+f658/JNxArZj8VgLZ8p09atHOOw=
+			RjOmnyDi7aT4k4EgvlbgiVVxlrAATVx4sen7hbfsIzM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oe8AxFgLDlf8p1HWRZr1ycYR8IBUkuNZCJiJ7rOoD7E=
+			I/T6DQjsIARnHfpH+kqI2XA4OCn+QDk8YYemdUCu6Kg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EkwkYuZrxz9a21Q1Tlce43DEr24iFoYN3v3290YgJ9Q=
+			7K5oRRb+eWdLBGxWb0Rz+wr+mx0zS3Uu7alHw0ozvsM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iP5BQhI9GFWYvyAVZe+em3y6CYaQihrOK9QGF9jDrrM=
+			Tjb7SuGFyW7j0iRxUpF2Y75u9iiHQPKNVdOvl0vz4h0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H4grhUVpwFQxXnNUDw2tm6+EmQp3Vd3dIZW8NLKsJao=
+			9z1EhDPpkuN3ILBckhBP2jqBiVmdbQ/HrPvYWH+/4DA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AODCIYzCQjdOJMq6FVmEQ1AUsH15gDPLxYig9wd5n9Y=
+			8k02U03VqWK/28d213Mg413AhLxnVcpFUBsLiPmjgpA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V8mlIzsZFzaE/99QUL7vE8cR2vc6O+oOZfl212QiUgU=
+			1efNqQ2yIMSbvuTkZGzvUWVCNV5CeF9zIYljScVaIz8=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ICe9Sa77gyKHe9hWtS2UBFZ+Qym19/MEYAJk80AL56Q=
+			LKkfsLIVSkCf0QvDJkdJ0cK13NwbCC7dpMtKbPse7l4=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gVcxrPWoU5Jlti62BTI59C42kDoqK8d1TJAL+Bvx0TA=
+			br2H759rE4+ivQWT9VelSH6HLZApe+ZajLOj0fGwQVU=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -1233,7 +1233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FPfYyXvRjVFgzeC/U2JbBCCRKyI87z0FEy+9y9XGo0s=
+			WHRP1J51SwY1JqJsoXBZeK8YvXRX7S+gMAu7LpfiSP8=
 			</data>
 		</dict>
 		<key>Resources/ComparisonToolHighlightTemplate.pdf</key>
@@ -1254,14 +1254,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZICj3gnLVrlLZLdmM0S1fgN/j834DRx5ipEnlm2yRhY=
+			6H5mZ/Df9PCsxwUyFlYO6pIENfX2Ltom6zkws2j3A/A=
 			</data>
 		</dict>
 		<key>Resources/DashboardWindow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rp7glaoJTQHgMkJ2QTboSdzGJ9/zYIyCm3E9FvxGPVk=
+			N29Ha0e0UsmSlSm8PctKep73XcAwN60scXXfOAbupMU=
 			</data>
 		</dict>
 		<key>Resources/DashboardWindow.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
@@ -1275,7 +1275,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mlEX6dSZnhf+OVA89u4FulbQ9C3BVIkYugGc6TWffOg=
+			hhBB4idIxCnRcpFD4czHqilg+9w6yCC73EbC58+8mXU=
 			</data>
 		</dict>
 		<key>Resources/Executables/git/COPYING</key>
@@ -2438,7 +2438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMkE8NY0abBvfxIRA4kIaxVIU/CKcBV4Dno9oqcsTB4=
+			ZUAgeiWDbKP3vlrYiZfRoY6N5sirjM36rcgEn9zLVMw=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
@@ -2985,7 +2985,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kq1V3sz8F/fKo6yB4E6oujEWR/WrR6euY82YSvDg7YY=
+			RX+xVIoD6T5JNfld+R5CR82leFbPQanEtcfPjs0UDTY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2994,7 +2994,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hRiW5UGAv+IFQAqhMVSvmb3lVH3OwSXLIhbM3UB5EwA=
+			mpgKXrEKeJCnjEodmmY9mVYiTA05W1H4dLAh7xO9Xec=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3003,7 +3003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kEGEl967LU+GYbqz3wkaQDpI+Plhs3b56cVNlFfPHl8=
+			sZoIWeMUpTFKUsO8snlKuB60IquuQMg1QfRiWQKkxuk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3030,7 +3030,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETykpgo8FsXBMbpj2BTr6JjhPaUJxhk1Utx7yKWwRno=
+			9QlOXUq++J02d+z99sY79BPop5sXoRycgE91h9Ys9sA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3039,7 +3039,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SISG77aCmsadjhFxjHUaKMw2CfIigR9GwiV++8oOfY=
+			i6aSOi1AiXdC4n6asxqoRX8k4LjdXI8PyGCKxmnBLxE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3048,7 +3048,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYlqGtKpz2njH6HCANFIx8KZja/4Uq0jf9nDm0uqao8=
+			IxYm0S0KGnMBmJI2BkZN25zgQbI9aJvBDgGr3VQilYA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3057,7 +3057,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s+Rn7RAua+LN+fbekTPDPCjXIZABxlidB9PJ/hoRCHI=
+			kIdsVlSptQiQfulH93wObeahIfPmq4zh3dn/VIpnBT0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3084,7 +3084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAVuI8cRPlXVMGBGpDl91WOeSdtyy76RM7Eoj95Oimg=
+			O6UnZeMjYzSuVO9sQn0K8LiDadSC0tmDi8tRPVcND1A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3093,7 +3093,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkbrLOFMqqJNBL30ThknpMgpvpXR62C/zmDineg/d3o=
+			sIouvVwbwJlDJCZK4JF5is8pfPPQ8NAZrKAy5SDGkoo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3111,7 +3111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IzlfU694RjMnc0LtSc7BLIjndscpdmjLSnRJFEx9cUE=
+			NWIeyaR+YexIMJEWqnsLZ67BwBWbgl/75tBBbto9bFQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3129,7 +3129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cByv2/81bXl5sVsBNxxEo2AmzIpuN4e5WtfbxbZIp4Y=
+			N1ObfPiyuSWrtecj7HtFamZAaGO8QOYeYVqVA50Jfys=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3156,7 +3156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vd64UPKWUe0dFZ5z9mrFiWJycWh/spFCj//tnLJ5MO4=
+			Fu0L5vm5x7EYuclZhsOpgNVG+6afy1f9eEuzuQuRgCA=
 			</data>
 			<key>optional</key>
 			<true/>

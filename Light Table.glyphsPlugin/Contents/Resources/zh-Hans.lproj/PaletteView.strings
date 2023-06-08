@@ -1,14 +1,14 @@
 /* [Tooltip] Button for creating a new Git commit [source: "New commit"] */
-"8YD-ae-kp2.ibShadowedToolTip" = "新的承诺"; // MACHINE-TRANSLATED
+"8YD-ae-kp2.ibShadowedToolTip" = "新提交";
 
 /* [Tooltip] Button for a menu with multiple actions [source: "Actions"] */
-"9OB-7K-Klr.ibShadowedToolTip" = "行动"; // MACHINE-TRANSLATED
+"9OB-7K-Klr.ibShadowedToolTip" = "操作";
 
 /* [Tooltip] Button to show controls for filtering a list [source: "Filter versions"] */
-"BEP-Vk-cIz.ibShadowedToolTip" = "过滤器版本"; // MACHINE-TRANSLATED
+"BEP-Vk-cIz.ibShadowedToolTip" = "筛选器版本";
 
 /* [Tooltip] Button for starting a text search [source: "Search commit messages"] */
-"VOo-Bl-cug.ibShadowedToolTip" = "搜索提交信息"; // MACHINE-TRANSLATED
+"VOo-Bl-cug.ibShadowedToolTip" = "搜索提交信息";
 
 /* [Tooltip] Button for scrolling a list to the selected list item [source: "Scroll to selected version"] */
-"yqa-k3-YOY.ibShadowedToolTip" = "滚动到选定的版本"; // MACHINE-TRANSLATED
+"yqa-k3-YOY.ibShadowedToolTip" = "回滚到选定的版本";
