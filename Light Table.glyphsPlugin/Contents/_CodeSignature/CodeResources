@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
 		<data>
-		F6CEHZvyS35YLfdPESZ277nLRXA=
+		mAG8WboqRvM8sq/qggU4w3pNZ5A=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<data>
-		NbGLrUgd+JCyRX0cF0vS1mOpqwA=
+		hXbUNYP/98KVbkeWkia2UCHsZv4=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		ABHF/6yNLTx737Hr1zsTdtH2eDc=
+		2D4n/UN+K4YCTgmVvCIMp5Q8BcI=
 		</data>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
 		<data>
@@ -26,27 +26,27 @@
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
-		MNgOaA+WH0VrlcGcASMhhErjz2A=
+		kqB9kSKmpx3WpjIDEas8AczS/hE=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		2giA8LEOvk3cnLyeBHz6WkVTjg8=
+		ZzBYLxSCfTnCbSSpe8kuHbKUdC4=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		ZTmX6Kgp/fTUFLOZZ+Ct5OKJNik=
+		As3zT5A5LpQYwK4ctl/i5q32bFY=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		fdtiPgKueAn94Hj9TybnSZXIkFg=
+		aoXpzJCj/e6QTG7h3NrbMHedC8E=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		YHNWtISRwCC72+8Oa6830MXR6rI=
+		h0z19b7Hm1ynv6v0dwj9gJDRzhw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		vrEhiUtnMdXDu9FQqif1rX+cQQI=
+		KPsS+t/5CmDfkzSBcbG7BAk7NSM=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		tBS/i7c7AKSN1gUuhiNPMCDhblc=
+		HQyjlHLvsRNXC0sEPNylF0N6o60=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		LDN8V21U0eG2Nzps5VqygrnNUkc=
+		ticvBoJDSYqGyuXpc762z75eCDQ=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Resources/Dashboard.storyboardc/Dashboard.nib</key>
 		<data>
-		VsG+15kjyadRbtlM1U1TKJQeoec=
+		8fy56D7Swk7BOiFSvsVgOm7hYxg=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<data>
-		5bwHLDmoZOHy1Of9IEuFTDfyeos=
+		+QCG1Qo8COxX4brr6z8kzP+lDMI=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Resources/Dashboard.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
 		<data>
-		afNVYtFKBtgDDlgCiuOzYLJLeZs=
+		rUrmK3WcCb3YLjPzPW2eKyEv29I=
 		</data>
 		<key>Resources/Executables/git/COPYING</key>
 		<data>
@@ -342,7 +342,7 @@
 		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		FdwC11Z6QpkYLADOpCtO4KFhkig=
+		iP0DNe1EM6cPmWLf3FGHcAgR+cY=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -429,7 +429,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			512LhlqTVl+13EB4NCUxpMosxBg=
+			0gdDTOo8TXwBbm29NVXK7WryZmw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -488,20 +488,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PlistDiffValue.strings</key>
+		<key>Resources/de.lproj/PlistDiffCell.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QoCWqFZdrk2PAUya+c3KIT/cVMY=
+			3qWJo8UrQr1ixxaYfJvSMMgorZY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PlistDiffValue.stringsdict</key>
+		<key>Resources/de.lproj/PlistDiffCell.stringsdict</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iiCY4JuQ1/x1N/DzIuiRn0wQb0c=
+			k/0drkgEjS7ShMPUiLVnaOqNbAc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -537,7 +537,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RgCB9R7imNpZDlyIzKrbYqYuFw4=
+			qr8otHFZhgKwouUmOlF7JuOfOgI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -555,7 +555,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bBrm19FR9T+OHksof5W12RltsFc=
+			MQIr00QaEDc9uoOM7n4NK3zHSXQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -668,11 +668,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/PlistDiffValue.stringsdict</key>
+		<key>Resources/en.lproj/PlistDiffCell.stringsdict</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QQe5IWxb9E95kHfeceI8kgFqHY4=
+			PSOI1c7o3iMBytioueiArG2jI4o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -699,7 +699,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			biPNSGPZeztfO55YxSzQZqKnJco=
+			vmWFPaekRhTs9ChBsT7TpbLiF3g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -879,7 +879,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CulQPlb3+yj89LdSxuedFGDepT4=
+			gkS8pUDLLtKyLiPJ1kQhUIrlCVw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -897,7 +897,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j2CEWDSskttvEC9IByc8qTwijWo=
+			kI0FHxx4mmh3bUCm9JBIYHDFEto=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1068,7 +1068,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4xJ1+6KmAH2fT5Pi+Agw0mpIAi4=
+			0qbmc5FFQdV0bGQAx2D9HMs2JQY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1098,14 +1098,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EX7k6PW7wnv4rHa4s7FoujNvOaTSDiziqHWlHr2kCOc=
+			W915WXBi2IVjWH194yxQ3N9+VDFEgpssKL9vZQ+e3wg=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FGQNKBPFxZ4DK+TG2Z3FF7KrHcaoLrJol4JC2hsCPKU=
+			DanIv79GtTTrH0271NDP19E/QEjaJyHthaERYmvyh9c=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
@@ -1119,7 +1119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s0YG2KjC99z0tGMZ7SWVtPJZqJrUDEIgNYwRKQtzv2U=
+			evB7YGtqvaI0HjrdznlU11xVWDOO/p8RI5f0+CZ4s+k=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
@@ -1133,42 +1133,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAyvQgv5YLg8cW6oX+RLTlHrjjQ9n+Lab1Uk2rFDZMw=
+			SyCdcp7r0VvPWac1Ykl3YnTLJBPoUlyNdHo/SrTTkfY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3PCHozcnPGLPbmQe/F7KIeh9DXtBObqokqBFIwJMRZo=
+			qUrwnWewTvlXTEDMoHNNKy4XCT6jtsz4jn9AxaKIefw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7EP3vUrHxeK0JzcDk5smg14yWhppy9qJot0dSPLBGMM=
+			uYuz84vLdf2/wsJ3KGV4atFHeooQznq3wvNgFGMWOFM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSZkLQyAWGBPT4I6Mu2s57c7w2O2fh4qdfc7xQnkvUw=
+			fxKdrJkoQJs9KJo0ylQ9XILVPT7hWn1lr6PAlKZP59w=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AfiXGNC3VAkEFdAEPOJ+M7RoQOOfHAV6qJW4r0BMzNQ=
+			htfvCOYtuOAN5OL6cdKm/elHDvgCxSEJzLmB4j7xFlY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DYUaY5hzuX8mf9rcLgBtJwtK+KDHsyo8KfY38T8nlvc=
+			ufy7Y8IylixcAJRNw8jS9bT31BhnMju6nd5vpfDLJ3Y=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
@@ -1182,14 +1182,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pJhjjdOEnbXQt6iRJBQLmyBEKbxUOHHfI2lQ1kcK/0=
+			hIhqUWDZBZ+LORy7tKc/6rW1dvIFiXeWbEw4RmzGoKY=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NrCCOSlsJHVmSmpugBBR9AdtaslQs+86OrqasbtjN5c=
+			V2VWrzOcul3mzQvPfRqmRw7KvXihBS+wXS/dOQ+EwlQ=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -1217,14 +1217,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a/iEU3q1lbXw0xYgPAp4GDFeY91yLU9lF57v0Skb/zE=
+			SQLsiIFsH+Qt/k3+aFR1hYmByHwxLkaWrRfRoy8lsBk=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2J7LTbr0czeaiqWHFnq15urr+l9ADvbkz6QsPLDniXU=
+			mPYgr7/uNA3UeShzlHEwx4AHtsniick9/V2Q7KXzGVQ=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
@@ -1238,7 +1238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eljF/I5WczSbeyyur8N+wGQY+k0YLWFvP3hfWnVJTxk=
+			JMxmoF2NttzOy4KkDc/5sL01EqbSOtcDYkIgboQIjx8=
 			</data>
 		</dict>
 		<key>Resources/Executables/git/COPYING</key>
@@ -2401,7 +2401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fCRmFHsnByy2GnEm77S4p5FJp+809ij56E8QNM7Fk0E=
+			kQpurRzI2B4Xku7ausNfKFSsyej8EidjyV5KlAPoMlI=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
@@ -2489,7 +2489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I9NcYI9W3UfnCbQzKifRYHg1UW/+kJit/8gWCxB/w9Y=
+			6JwNV7MmfK8N2WVscarB1d9ZgniNaZIfbYfaeySKqXI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2548,20 +2548,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PlistDiffValue.strings</key>
+		<key>Resources/de.lproj/PlistDiffCell.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJpyYpaRTovGuIP8jyu0YselzRFS7qjPIQYAU7wR/yE=
+			l53IA36LptYtpFtqCwf4nQqbif0XRKl82A18o7DrQ7s=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/de.lproj/PlistDiffValue.stringsdict</key>
+		<key>Resources/de.lproj/PlistDiffCell.stringsdict</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L6bVUH5Sae6thSqMM5o1TOSNzhyuLj5XRAlg/bmaqzE=
+			U+TGUvgao5pdzhrp4YX2dF8/KNW1BnM5s3ZwZQXE78U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2597,7 +2597,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G9LCM8Hzgg9iZNdOud12iv4YooURK26+YAEChqaxpDg=
+			cCR8LteOXZQmSDwxR7lxWWfEQX5BA+/+vS+cf73Vyzk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2615,7 +2615,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4IHO+RRhPpm8cIVK5DJsdbZX6Q7cl36PMUxtDZCDXW8=
+			ouGyjR51IEvgMLix57NQubvLTwzdYzy1WMS3P1Zfrx4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2728,11 +2728,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/en.lproj/PlistDiffValue.stringsdict</key>
+		<key>Resources/en.lproj/PlistDiffCell.stringsdict</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lbt35/TaeRXzDFXlKSr6S+1MQ6RP6o/CCX0RZA9RkbA=
+			2NQSnbB1LnI7mxtpWHWf4BafEHg/6ZHaSsO8URsxGXI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2759,7 +2759,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JYIfl7YDvo2cvbvCFYJW7LdDgoU9190DCcmd7hwJAVI=
+			lS8pNXkDq7oZUlN/0Dn0pHeWBye7D0lwmTIg6PNdlNQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2939,7 +2939,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KkLA2ecmrL2CrEUQJBcd3kiWKn62JOnNboz1Gempsyc=
+			rX4T3M4bJ7VDtPbqotwiJSyzvpjDHVcR+IkyawuKpPE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2957,7 +2957,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J2AWI895z+25AGBQjfXo0dWc+Swr4NkHGCk2b7zHwmg=
+			zdl9C5i3dqB8VWiA+Yz48GpzKysvoSBlGOc+rpW/u+Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3128,7 +3128,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZUnHPorv6gPLUOGdvW3eYueETHORANSIlSmuiGZnsk=
+			UsCcmLUr3oNjaRHleImHSXNu3H2/Fwymk+iFv2DtQdY=
 			</data>
 			<key>optional</key>
 			<true/>
