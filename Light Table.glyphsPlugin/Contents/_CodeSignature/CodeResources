@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
 		<data>
-		pWN/5jol2OApO6EeYwmSOW4HbWI=
+		vffeeCgstnDTa+vuoYakBYO7ex4=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<data>
-		8hb122NqhahKBAQVn7P2oqkHFoo=
+		GKEQdU2JwjZ4ruy99xvYawEVqi4=
 		</data>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		e1cwz6ErNPxEewksx7Akls93qQQ=
+		Nzk2nODO/W8M8oWicEMQVeM4SaE=
 		</data>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
 		<data>
@@ -26,27 +26,27 @@
 		</data>
 		<key>Resources/Base.lproj/PaletteView.nib</key>
 		<data>
-		ZIzMVHuEAovJlr1pzAl5FKk5IJQ=
+		r7Bob7YUEZHw+Rf5VH9pJyPTT1s=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		hsLoUUB3ZhHPWIg0t9TaqaBkiak=
+		fmTHMUdCDLBS2iUPHru0+NLpQgY=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		IvtjSUnWvsozvdxoSp6Tzq5zudc=
+		YE7ZnyV9RZP+Vp0soh1ZJoU92YY=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		J9tNjZGitA2ZOyk9Hz4oPDfKSlA=
+		o09qi78at/U4soBDS2ly6uRFpRw=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<data>
-		QWmI3kA+rUdyRnSp4e/pRu1jZZ4=
+		rv3XwHaURcJaDXs2I/SJhKvHC18=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<data>
-		iEh02KXrBoeTmK2hxBTSkkWBmCI=
+		bv0Ul9x9+wur6LWNc1SvaA/aUu0=
 		</data>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/ChangelogWindowController.nib</key>
 		<data>
-		yp9IM90naUFJIkyLqW3UWfmBTRU=
+		iuu00YmBmDAWtFW2fX8XLWxiz/s=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<data>
-		zDi34K6bbno+hbJ020PwojDv6QQ=
+		Q/4PKf3qLzAruWC6+NRXSYnFgJ8=
 		</data>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
@@ -66,19 +66,19 @@
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
-		IjC5+UHKnGq8O7DBv8oMYRHikrA=
+		nZ/VaRv/0iM6reiisWyGNqQTit4=
 		</data>
 		<key>Resources/ComponentsRestoration.nib</key>
 		<data>
-		zQMUNvLCJW7w1lVRWNmWGRNTaWQ=
+		rEIA+4f/DbdAzkldfee0Mnagyzw=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Dashboard.nib</key>
 		<data>
-		uWkfXidzHvbM1a3E6cJ0OJPe1XI=
+		6iUVzsC0tvoYKkCWQ/bXkn/KgUY=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<data>
-		gAca1SuT++oAPJHPj9mhn6UnwVg=
+		J7MsuFOZsBxEH1ynH8TckHtDe4U=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Resources/Dashboard.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
 		<data>
-		HDbOK3DqqeyyO6jf6NwIY+OrRI4=
+		f5v3yVKRBVHu8SInJej/LzuUZP8=
 		</data>
 		<key>Resources/Executables/git/COPYING</key>
 		<data>
@@ -342,7 +342,7 @@
 		</data>
 		<key>Resources/RestorationController.nib</key>
 		<data>
-		n854nuqp7lQAxlgB+1PateQhEpo=
+		bGj8zErDzkWmzEaXLsHyDxCTjhc=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -1098,14 +1098,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NmcNItFSFs8j156lczYxVc9For/pxBWMNx6L+VewSLE=
+			9twLrkH/+Wk2C5HtclljM7c2zWR4LAbqozO9SG4RfJA=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MroN/S3xi5HMeIN6LBZaVPVjhbknvP8XsJyeqMpk+4o=
+			f0I8kkwzIdzHHax1bI21srmx5k2VHk2hk+PxmgiO/BM=
 			</data>
 		</dict>
 		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
@@ -1119,7 +1119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0CBY3pwMhDpF0LB8Gw2x9HQEIJnuYAwFkov8Fi4crH8=
+			cPzpfDkoxg1/5MSV4xOT4NFQAbDAwVRiExbsrYHsWBU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/FontProoferOptions.nib</key>
@@ -1133,42 +1133,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X5AeXyhZuUUup9Zw1Zz6ghsamyl8LFKezzFLCYbUE/g=
+			xVsqPVaockC5wOQ/CAq1Xj4dukiKRtH3TR3pRFJ2/KM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tEE5sal8pvlTpkC6lBfj9mGfn7ZKl/Vnmjm19Me98GI=
+			Gw5LxQp49Luhg+Ptgu7PikqKXRrN10i9eFY3buziZi0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkgT3e1U1kUaLdBygC+rI4lfmjzyFkVfCg0ElMRywfo=
+			h0rB5UWZQLvUraVRSPV1SZioge5aHFNaZhpc3xs8P+w=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzsQ81syUEeLZY1gY4fKBxH1+j1Mk+nk9E5Rtw5tR68=
+			XkJUNys6y49II6mKaVv3z/aT6TFH+QF6OvjzBkbSSXw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BuXMKaSBY7aGzkxZ4lLtKTx0rFGI31lDoAjNQUN4CrI=
+			44gvcqrfYXANoBgOGuaXcCsXVYDWtdbtR2El5w4f0W8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kkje8xUmQuaeH6TvQvy5RThIJJAVC9CkdW0s6x8tZJQ=
+			XRR/c5eU45WXGtkhgtq7WqNlPsK2pGLsJ8bS5tdkEsM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PreferencesWindowController.storyboardc/iTS-pp-OE5-view-dNa-sr-ha0.nib</key>
@@ -1182,14 +1182,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uRxnNZhNV7yf6oaIqP54mpHawtEHNPE/MCEyvld+TV0=
+			AWGgtoQNRW2m/Z3IJlR7bPayidlXFUAbr3skuHFeDNM=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PICrCRy8rJIIyPRTqrjfFhKl7WgMLZSTZLyOnQ0GBiw=
+			jiExl5kJZ8OR1/qMKQeN3NvzRT3fkJXaB7gW5MZL7FE=
 			</data>
 		</dict>
 		<key>Resources/ChangelogWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
@@ -1203,28 +1203,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lQUREYnLPMsq4HsUjaGl7o2/RG/TJmYC3fa0/kpu1Ek=
+			bIpWFIBdUB2se8gUKrU71qx8xGumVu8CzTaeAmTBawU=
 			</data>
 		</dict>
 		<key>Resources/ComponentsRestoration.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UwzEYKm9PzwxTRNNQj0F3xa0SghN51V/pmrvrrxuxhE=
+			CuBc9v/suuRoeet46vpckzv0rB0Ss2ejUc/YWVByye0=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Dashboard.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n4xzxL36S6rkQ2z9Z6IxTBNAoxo/zWXSqJ/KzfpmsTE=
+			EkwaIKDUfhlES47Y4/ti5mlxqvGevJ0LrF3y4+BwXDs=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AhXR5sbuWyXn7YqtORmzO6XDFAcx/eSFSCk9qm31fZA=
+			R2c+DJ/0oSudPhsyYsDG5737wHvBnD6M59ktcFHGmkw=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Vxt-Lu-jiN-view-TaL-39-ekz.nib</key>
@@ -1238,7 +1238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ztl0dCNBYy7sQ/B0n7Oi0ZxRTioY0UpbSOg8z6qzW2c=
+			9/Q5lce38Po/XPKkA84sw/BnfEBYSEEDo8ypGo5ByB8=
 			</data>
 		</dict>
 		<key>Resources/Executables/git/COPYING</key>
@@ -2401,7 +2401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y0/+IZi4W6EZGGqMan23L1D2HgR0UyzX8pLgmhnC7T4=
+			6ih6J7Tw5DOx1493t/YsCcxh3CYA9vYxel75XOxf43M=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
