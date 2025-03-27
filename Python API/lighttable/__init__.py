@@ -129,7 +129,7 @@ Version.record = property(lambda self: self.pyobjc_instanceMethods.record())
 
 ## Restoration Info
 
-RestorationInfo.info_for = staticmethod(lambda element: element.lt_restoration_info)
+RestorationInfo.info_for = staticmethod(lambda element: element.lt_restoration_info())
 
 RestorationInfo.base_layer = property(
     lambda self: self.pyobjc_instanceMethods.baseLayer()
