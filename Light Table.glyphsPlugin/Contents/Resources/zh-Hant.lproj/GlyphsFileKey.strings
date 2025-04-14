@@ -47,7 +47,7 @@
 "bottomKerningGroup" = "字距調整群組：底部";
 
 // en: "Metrics Key: Bottom"
-"bottomMetricsKey" = "度量鍵值：底部";
+"bottomMetricsKey" = "度量鍵：底部";
 
 // Case as in upper case, lower case, small caps, etc.
 // en: "Case"
@@ -169,7 +169,7 @@
 "isItalic" = "是斜體";
 
 // en: "Keep Alternates Together"
-"keepAlternatesTogether" = "維持替代字不分開";
+"keepAlternatesTogether" = "將替代字顯示在基礎字旁邊";
 
 // en: "Keep Weight"
 "keepWeight" = "維持字重";
@@ -223,7 +223,7 @@
 "leftKerningGroup" = "字距調整群組：左側";
 
 // en: "Metrics Key: Left"
-"leftMetricsKey" = "度量鍵值：左側";
+"leftMetricsKey" = "度量鍵：左側";
 
 // en: "Length"
 "length" = "長度";
@@ -349,7 +349,7 @@
 "rightKerningGroup" = "字距調整群組：右側";
 
 // en: "Metrics Key: Right"
-"rightMetricsKey" = "度量鍵值：右側";
+"rightMetricsKey" = "度量鍵：右側";
 
 // en: "Scale"
 "scale" = "縮放";
@@ -395,7 +395,7 @@
 "topKerningGroup" = "字距調整群組：頂部";
 
 // en: "Metrics Key: Top"
-"topMetricsKey" = "度量鍵值：頂部";
+"topMetricsKey" = "度量鍵：頂部";
 
 // en: "Type"
 "type" = "類型";
@@ -422,7 +422,7 @@
 "vertWidth" = "垂直寬度";
 
 // en: "Metrics Key: Vertical Width"
-"vertWidthMetricsKey" = "度量鍵值：垂直寬度";
+"vertWidthMetricsKey" = "度量鍵：垂直寬度";
 
 // en: "Vertical Stems"
 "verticalStems" = "垂直字幹";
@@ -440,7 +440,7 @@
 "widthClass" = "寬度類別";
 
 // en: "Metrics Key: Width"
-"widthMetricsKey" = "度量鍵值：寬度";
+"widthMetricsKey" = "度量鍵：寬度";
 
 // en: "X"
 "x" = "X";

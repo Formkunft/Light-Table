@@ -1,6 +1,6 @@
 // A description of what status indicators are
 // en: "Indicator symbols are displayed for glyphs that have been added or modified since the latest document version."
-"status-indicators.description" = "狀態指示符號會顯示在自最新文件版本以來已新增或修改的字符上。";
+"status-indicators.description" = "狀態指示符號會顯示於最新版本後新增或修改的字符旁。";
 
 // Label introducing a list of examples
 // en: "Examples:"

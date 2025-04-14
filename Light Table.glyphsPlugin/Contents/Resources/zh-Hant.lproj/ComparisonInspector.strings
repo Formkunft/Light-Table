@@ -1,14 +1,14 @@
 // Tooltip for a button that cancels starting a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
 // en: "Don't align at offset"
-"alignment-offset.none.description" = "不依偏移對齊";
+"alignment-offset.none.description" = "不依基準偏移對齊";
 
 // Tooltip for a button that starts a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
 // en: "Align at offset…"
-"alignment-offset.start.description" = "依偏移對齊…";
+"alignment-offset.start.description" = "依基準偏移對齊…";
 
 // Tooltip for a button that stops a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
 // en: "Stop aligning at offset"
-"alignment-offset.stop.description" = "停止依偏移對齊";
+"alignment-offset.stop.description" = "停止依基準偏移對齊";
 
 // Tooltip for a button that aligns layers on the bottom edge for all layers if the Option key is pressed
 // en: "Align bottom edges for all layers (hold Option)"

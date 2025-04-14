@@ -24,7 +24,7 @@
 
 // Menu item for choosing an app from a submenu to open a file with (as in "Open file with app name")
 // en: "Open File With"
-"open-file-with-app" = "使用以下程式開啟檔案";
+"open-file-with-app" = "開啟方式";
 
 // Menu item for choosing an app to open a file with (as in "Open with other…")
 // en: "Other…"

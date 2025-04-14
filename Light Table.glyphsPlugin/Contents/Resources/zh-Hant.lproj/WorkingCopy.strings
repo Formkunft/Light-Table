@@ -12,11 +12,11 @@
 
 // A short placeholder text that invites the user to optionally describe the current changes to the project in more detail
 // en: "Optionally, add more details here"
-"commit-message.details.placeholder" = "可選擇在此處新增更多詳細說明";
+"commit-message.details.placeholder" = "選填：詳細說明";
 
 // A short placeholder text that invites the user to briefly describe the current changes to the project
 // en: "Short description of what changed"
-"commit-message.summary.placeholder" = "變更內容的簡短描述";
+"commit-message.summary.placeholder" = "變更摘要";
 
 // Title of a button that includes all changes in the next version
 // en: "Stage All"

@@ -8,11 +8,11 @@
 
 // Button that selects the next row above that is on the same indentation level as the currently selected row
 // en: "Select Next Entry on Same Level Above"
-"select-next-item-on-same-level-above.button" = "選擇上方同層級的下一個項目";
+"select-next-item-on-same-level-above.button" = "選擇上一個同層級項目";
 
 // Button that selects the next row below that is on the same indentation level as the currently selected row
 // en: "Select Next Entry on Same Level Below"
-"select-next-item-on-same-level-below.button" = "選擇下方同層級的下一個項目";
+"select-next-item-on-same-level-below.button" = "選擇下一個同層級項目";
 
 // Button that stages a file
 // en: "Stage"
@@ -40,7 +40,7 @@
 
 // Table column header for the key/label/name that describes a value in a key-value pair
 // en: "Key"
-"table.column.key.title" = "鍵值";
+"table.column.key.title" = "鍵";
 
 // Button that unstages a file
 // en: "Unstage"

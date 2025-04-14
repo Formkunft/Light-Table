@@ -7,8 +7,8 @@
 // Label for a open path
 // en: [plural=one]: "%lld node (open)"
 // en: [plural=other]: "%lld nodes (open)"
-"%lld nodes (open)[plural=zero]" = "%lld 個控制點（開放）";
-"%lld nodes (open)[plural=other]" = "%lld 個控制點（開放）";
+"%lld nodes (open)[plural=zero]" = "%lld 個控制點（開放路徑）";
+"%lld nodes (open)[plural=other]" = "%lld 個控制點（開放路徑）";
 
 // A placeholder text showing the number of unchanged values/entries/elements in a list.
 // en: [plural=one]: "%lld unchanged value"

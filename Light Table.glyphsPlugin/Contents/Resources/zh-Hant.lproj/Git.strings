@@ -64,7 +64,7 @@
 
 // Text explaining the concept of a Git repository folder
 // en: "**Choose which folder should become a Git repository from the list on the left.** Typically, the Git repository is the folder of your project. Files inside the repository folder are tracked for changes by Git, including files in nested folders."
-"initialize-repository.description.choose-repository-folder" = "**從左側列表中選擇哪個資料夾應該成為 Git 儲存庫。** 通常，Git 儲存庫是您專案的資料夾。儲存庫資料夾內的檔案都會被 Git 追蹤變更，包括巢狀資料夾中的檔案。";
+"initialize-repository.description.choose-repository-folder" = "**從左側列表中選擇哪個資料夾應該成為 Git 儲存庫。** 通常，Git 儲存庫是您專案的資料夾。儲存庫資料夾內的檔案都會被 Git 追蹤變更，包括子資料夾中的檔案。";
 
 // Text explaining what happens after initializing a Git repository
 // en: "After the repository has been initialized, Light Table will create an initial version. From that moment forward, changes to files in the repository are tracked by Git."
