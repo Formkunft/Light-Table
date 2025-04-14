@@ -1,0 +1,91 @@
+// Heading for a section in the settings window about the display of the date and time of table entries
+// en: "Date & Time"
+"date-and-time.label" = "";
+
+// Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format
+// en: "Enforce 24-hour time"
+"entry-format.enforce-24-hour-time.toggle" = "";
+
+// Tooltip for a checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format
+// en: "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."
+"entry-format.enforce-24-hour-time.tooltip" = "";
+
+// Label introducing a set of formatting options for displaying entries in a table
+// en: "Entry format:"
+"entry-format.label" = "";
+
+// Checkbox: whether to show the date column in a table
+// en: "Show date"
+"entry-format.show-date.toggle" = "";
+
+// Checkbox: whether to show the time column in a table
+// en: "Show time"
+"entry-format.show-time.toggle" = "";
+
+// Label for a slider that controls the font size of the text in a table of entries
+// en: "Font size:"
+"font-size.label" = "";
+
+// Label for a slider that controls the width of a font from compressed (narrow characters) to expanded (wide characters)
+// en: "Font width:"
+"font-width.label" = "";
+
+// Title of the palette settings
+// en: "Palette"
+"general.title" = "";
+
+// Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence
+// en: "by day"
+"grouping.by-day.button.label" = "";
+
+// Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence
+// en: "by month"
+"grouping.by-month.button.label" = "";
+
+// Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence
+// en: "by week"
+"grouping.by-week.button.label" = "";
+
+// Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence
+// en: "by year"
+"grouping.by-year.button.label" = "";
+
+// Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, …
+// en: "Group entries"
+"grouping.toggle.label" = "";
+
+// Button that restores the default value
+// en: "Reset"
+"reset-button.tooltip" = "";
+
+// Label for pop-up menu with different row spacing options
+// en: "Row spacing:"
+"row-spacing.label" = "";
+
+// Menu item title: indicates a custom row spacing with a certain scaling factor (e.g. 1.75 or 2)
+// en: "Custom: %@×"
+"row-spacing.option.custom-value" = "";
+
+// normal amount of spacing between rows
+// en: "Normal"
+"row-spacing.option.normal" = "";
+
+// more spacing between rows
+// en: "Relaxed"
+"row-spacing.option.relaxed" = "";
+
+// less spacing between rows
+// en: "Tight"
+"row-spacing.option.tight" = "";
+
+// Heading for a section in the settings window. Translate like the “subject” of an email
+// en: "Subject"
+"subject.label" = "";
+
+// Checkbox: when selected, uses a fixed-width font (also known as: monospaced font, typewriter font, non-proportional font)
+// en: "Use fixed-width font"
+"subject.monospaced-font-toggle.label" = "";
+
+// Label for a checkbox to toggle whether the subject should be displayed on a single line or across multiple lines
+// en: "Display on a single line"
+"subject.single-line-toggle.label" = "";

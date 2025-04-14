@@ -1,0 +1,67 @@
+// Button that opens a new tab with a list of glyphs that have been added or modified
+// en: "Added and Modified Glyphs"
+"action.new-tab-with-changed-glyphs.added-modified.title" = "";
+
+// Button that opens a new tab with a list of glyphs that have been added
+// en: "Added Glyphs"
+"action.new-tab-with-changed-glyphs.added.title" = "";
+
+// Button that opens a new tab with a list of glyphs that have been modified
+// en: "Modified Glyphs"
+"action.new-tab-with-changed-glyphs.modified.title" = "";
+
+// Button that opens a new tab with a list of glyphs that have changed
+// en: "New Tab with Changed Glyphs"
+"action.new-tab-with-changed-glyphs.title" = "";
+
+// Button that opens a new tab with a list of layers that have been added or modified
+// en: "Added and Modified Layers"
+"action.new-tab-with-changed-layers.added-modified.title" = "";
+
+// Button that opens a new tab with a list of layers that have been added
+// en: "Added Layers"
+"action.new-tab-with-changed-layers.added.title" = "";
+
+// Button that opens a new tab with a list of layers that have been modified
+// en: "Modified Layers"
+"action.new-tab-with-changed-layers.modified.title" = "";
+
+// Button that opens a new tab with a list of glyph layers that have changed
+// en: "New Tab with Changed Layers"
+"action.new-tab-with-changed-layers.title" = "";
+
+// Menu item for comparing a file version to the current version in the app “Font Proofer”
+// en: "Compare in Font Proofer…"
+"compare-in-font-proofer" = "";
+
+// Menu item for copying a Git commit hash to the clipboard
+// en: "Copy Commit Hash “^[%@](voice: 'code')…”"
+"copy-commit-hash.with-display-hash" = "";
+
+// Heading for buttons related to a file from a version
+// en: "%@ from Version:"
+"file-from-version.heading.leading" = "";
+
+// Title of a notification that is shown when a font file version was saved
+// en: "Saved Version"
+"notification.did-save-version.title" = "";
+
+// Menu item for opening a file in new Glyphs window
+// en: "Open in New Window"
+"open-in-new-window.button" = "";
+
+// Button for saving the file of a selection version
+// en: "Save Version"
+"save-panel.file-from-commit.confirm-button" = "";
+
+// Title of the save panel for saving a font file from a specific version with a certain commit hash and date
+// en: "Save “%@” from commit %@ (%@)"
+"save-panel.file-from-commit.title" = "";
+
+// Menu item for saving a file to a location on disk
+// en: "Save to…"
+"save-to.button.continuation" = "";
+
+// Button that opens the window for the Git repository of the current font
+// en: "Show Repository"
+"show-repository.button" = "";

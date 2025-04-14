@@ -1,0 +1,63 @@
+// A qualifier that is appended to the title of an app name to mark the app as the default app for opening a file
+// en: " (Default)"
+"app-title.qualifier.default" = "";
+
+// A version number that is appended to the title of an app name
+// en: " (%@)"
+"app-title.qualifier.version" = "";
+
+// Title of a button that create a new version
+// en: "Create Version"
+"commit-button.commit.title" = "";
+
+// A short placeholder text that invites the user to optionally describe the current changes to the project in more detail
+// en: "Optionally, add more details here"
+"commit-message.details.placeholder" = "";
+
+// A short placeholder text that invites the user to briefly describe the current changes to the project
+// en: "Short description of what changed"
+"commit-message.summary.placeholder" = "";
+
+// Title of a button that includes all changes in the next version
+// en: "Stage All"
+"complete-staging-button.stage-all.title" = "";
+
+// Title of a button that excludes all changes from the next version
+// en: "Unstage All"
+"complete-staging-button.unstage-all.title" = "";
+
+// Placeholder text that is shown when a folder is selected
+// en: "Folder Contains Changes"
+"details.placeholder.folder-contains-changes" = "";
+
+// Placeholder text that is shown when a Glyphs Package (.glyphspackage) is selected
+// en: "Glyphs Package Contains Changes"
+"details.placeholder.glyphspackage-contains-changes" = "";
+
+// Placeholder text that is shown when a no file is selected in the files list
+// en: "No File Selected"
+"details.placeholder.no-file-selected" = "";
+
+// Placeholder text that is shown when the diff of a file is loading
+// en: "Comparing…"
+"details.placeholder.progress" = "";
+
+// Table column title for a list of files
+// en: "File"
+"file-list.columns.file.title" = "";
+
+// Table column title for a list of status information (staged/unstaged file)
+// en: "Status"
+"file-list.columns.status.title" = "";
+
+// Placeholder text that is shown when no files have changed since the latest version
+// en: "No Changes"
+"file-list.placeholder.no-changes" = "";
+
+// Placeholder text that is shown when no file matches the current file filter or search query
+// en: "No Matching Files"
+"file-list.placeholder.no-filter-match" = "";
+
+// Tooltip for a button that toggles whether only staged changes should be shown
+// en: "Show only staged changes"
+"filter.staging.x.tooltip" = "";

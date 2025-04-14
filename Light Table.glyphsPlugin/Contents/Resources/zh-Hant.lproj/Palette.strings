@@ -1,0 +1,159 @@
+// Label: heading of a section
+// en: "%@:"
+"%@:" = "";
+
+// Button: shows the about window
+// en: "About Light Table"
+"about-light-table.button" = "";
+
+// Tooltip for a button that opens a menu that allows performing actions on a version
+// en: "Actions"
+"actions.button.tooltip" = "";
+
+// Tooltip for a button that creates a new version of the document
+// en: "Create version"
+"create-version.button.tooltip" = "";
+
+// Label indicating an error
+// en: "Error"
+"error.heading" = "";
+
+// Tooltip for a button that opens a menu that allows filtering versions
+// en: "Filter versions"
+"filter-versions.button.tooltip" = "";
+
+// Text displaying the current progress of indexing (for example, “20/100” when 20% are complete)
+// en: "%1$lld/%2$lld"
+"filter.indexing.progress" = "";
+
+// Text displayed while indexing (processing data in the background to create a search index)
+// en: "Indexing…"
+"filter.indexing.title" = "";
+
+// Title for list of options that control which versions to show
+// en: "Show:"
+"filter.show-versions.header" = "";
+
+// Option that shows all versions
+// en: "All Document Versions"
+"filter.show-versions.option.document" = "";
+
+// Option that shows only versions that affect the active glyph
+// en: "Versions Affecting Active Glyph"
+"filter.show-versions.option.glyph" = "";
+
+// Option that shows only versions that affect the active layer
+// en: "Versions Affecting Active Layer"
+"filter.show-versions.option.layer" = "";
+
+// Error message shown when a file type is not supported for filtering a list of versions
+// en: "Filtering is not supported for “.%@” files"
+"filter.unsupported-file-type.title" = "";
+
+// Label: heading of a section
+// en: "Git:"
+"git.heading.leading" = "";
+
+// Label of a button that shows a full error report with log messages
+// en: "Show Error Report"
+"placeholder.error.button.title" = "";
+
+// Placeholder text shown when an error occurs
+// en: "Error"
+"placeholder.error.title" = "";
+
+// Placeholder text shown when a document is not saved as a file
+// en: "This document is not yet saved to a file."
+"placeholder.no-file.description" = "";
+
+// Placeholder text shown when a document is not saved as a file
+// en: "No File"
+"placeholder.no-file.title" = "";
+
+// Text indicating that a list of versions is empty because no version exists for the currently selected glyph.
+// en: "There are no versions for the selected glyph."
+"placeholder.no-filter-matches.glyph.description" = "";
+
+// Text indicating that a list of versions is empty because no version exists for the currently selected layer.
+// en: "There are no versions for the selected layer."
+"placeholder.no-filter-matches.layer.description" = "";
+
+// Label of a button that initializes a Git repository
+// en: "Set up Repository…"
+"placeholder.no-repository.button.title" = "";
+
+// Placeholder text shown when a document is not saved into a Git repository
+// en: "This file is not stored in a Git repository."
+"placeholder.no-repository.description" = "";
+
+// Placeholder text shown when a document is not saved into a Git repository
+// en: "No Repository"
+"placeholder.no-repository.title" = "";
+
+// Placeholder text shown when the list of versions is empty
+// en: "There are no versions of this document yet. Click the plus button to create a new version."
+"placeholder.no-versions.description" = "";
+
+// Placeholder text shown when the list of versions is empty
+// en: "No Versions"
+"placeholder.no-versions.title" = "";
+
+// Label: title of a list of branches
+// en: "Branches:"
+"reference-picker.branches.heading.continuation" = "";
+
+// Label: title of a control to pick a reference
+// en: "Reference"
+"reference-picker.heading" = "";
+
+// Label: title of a list of remote references
+// en: "Remotes:"
+"reference-picker.remotes.heading.continuation" = "";
+
+// Label: title of a list of tags
+// en: "Tags"
+"reference-picker.tags.heading" = "";
+
+// Label explaining that a document first needs to be saved to a file before it can be used with Git
+// en: "Save the document to a file to use Git"
+"save-document-to-file-to-use-git.message" = "";
+
+// Tooltip for a button that scrolls to the selected version in a list of versions
+// en: "Scroll to selected version"
+"scroll-to-selected-version.button.tooltip" = "";
+
+// Button: opens a window for setting up a version control system for the current document
+// en: "Set up Git Repository…"
+"set-up-git-repository.button" = "";
+
+// Button: opens the settings window
+// en: "Settings…"
+"settings.button.continuation" = "";
+
+// Tooltip for a button that opens a menu that allows setting options for the view
+// en: "View Options"
+"view-options.button.tooltip" = "";
+
+// Heading for menu items that show color labels
+// en: "Show Color Labels:"
+"view-options.heading.color-labels.title" = "";
+
+// Menu item that shows color labels for both glyphs and layers
+// en: "Glyph & Layer"
+"view-options.item.glyph-and-layer.title" = "";
+
+// Menu item that shows color labels for glyphs
+// en: "Glyph"
+"view-options.item.glyph.title" = "";
+
+// Menu item that shows color labels for layers
+// en: "Layer"
+"view-options.item.layer.title" = "";
+
+// Menu item that does not show any color labels
+// en: "None"
+"view-options.item.none.title" = "";
+
+// Button: shows the changelog window
+// en: "What’s New in Light Table"
+"what-is-new-in-light-table.button" = "";

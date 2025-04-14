@@ -1,0 +1,103 @@
+// Error message
+// en: "The font “%@” from the selected version could not be exported."
+"error.cannot-export-instance.title" = "";
+
+// Error message
+// en: "The instance “%@” could not be exported."
+"error.invalid-export-file-path.title" = "";
+
+// Error message regarding the Font Proofer application
+// en: "Verify that the Font Proofer companion plugin is installed."
+"error.missing-font-proofer-id.recovery-suggestion" = "";
+
+// Error message regarding the Font Proofer application
+// en: "The instance “%@” is missing a Font Proofer ID."
+"error.missing-font-proofer-id.title" = "";
+
+// Error message
+// en: "There is no instance in the font from the version."
+"error.no-instance.title" = "";
+
+// Short text that indicates that an export option is an icon set
+// en: "Icon"
+"export-styles.note.is-icon-set" = "";
+
+// Short text that indicates that an export option is a varianle font
+// en: "Variable"
+"export-styles.note.is-variable-font" = "";
+
+// Menu item to select all instances
+// en: "All Instances"
+"export-styles.option.all-instances" = "";
+
+// Menu item to select all active/exporting instances
+// en: "All Active Instances"
+"export-styles.option.all-instances.active" = "";
+
+// Menu item to select all masters
+// en: "All Masters"
+"export-styles.option.all-masters" = "";
+
+// Menu item for the current master
+// en: "Current Master"
+"export-styles.option.master.current" = "";
+
+// Heading for a list of instances (like the title of the Font Info tab for instances)
+// en: "Instances"
+"export-styles.section.instances.title" = "";
+
+// Heading for a list of masters
+// en: "Masters"
+"export-styles.section.masters.title" = "";
+
+// Default font proofer content; only using ASCII characters
+// en: "Hello World!"
+"export-text.option.default-text.ascii" = "";
+
+// Current text from Edit View
+// en: "Current Text"
+"export-text.option.edit-view" = "";
+
+// Name of a folder containing font files for a proof document
+// en: "%@ Proof Fonts"
+"proof-fonts-directory.name" = "";
+
+// The layout arrangement (split vertically or horizontally)
+// en: "Arrangement:"
+"proof-options.arrangement.label" = "";
+
+// An layout arrangement option where items are split vertically
+// en: "Columns"
+"proof-options.arrangement.option.columns.title" = "";
+
+// An layout arrangement option where items are split horizontally
+// en: "Rows"
+"proof-options.arrangement.option.rows.title" = "";
+
+// The text content of the Font Proofer document
+// en: "Content:"
+"proof-options.content.label" = "";
+
+// A checkbox to open the Font Proofer document in the Font Proofer application once the export is complete
+// en: "Open in Font Proofer"
+"proof-options.open-in-font-proofer.title" = "";
+
+// The font style (master or instance)
+// en: "Style:"
+"proof-options.style.label" = "";
+
+// Title of a Font Proofer document created by Light Table
+// en: "Light Table Comparison"
+"proof.title" = "";
+
+// Button for creating a .proof file
+// en: "Create Proof"
+"save-panel.confirm-button" = "";
+
+// Title of the save panel for saving a .proof file to be used in the application “Font Proofer”
+// en: "Create a new Font Proofer proof comparing the current version and the selected version."
+"save-panel.title" = "";
+
+// Short text describing an inactive (nonexporting) instance
+// en: "Inactive"
+"separator.title-and-subtitle" = "";

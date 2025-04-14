@@ -1,0 +1,43 @@
+// Title for a toggle in the settings window that allows users to align layers by default
+// en: "Align layers"
+"default-alignment.align-layers.toggle.title" = "";
+
+// Heading for a section in the settings window about how layers should be aligned by default
+// en: "Default Alignment"
+"default-alignment.heading" = "";
+
+// Checkbox: whether the comparison mode should apply to all layers or to just the current layer
+// en: "Compare all layers"
+"general.compare-all-layers.toggle.title" = "";
+
+// Title of the comparison tool/reporter settings
+// en: "Comparison"
+"general.title" = "";
+
+// Button that restores the default value
+// en: "Reset"
+"reset-button.tooltip" = "";
+
+// Heading for a section in the settings window about colors
+// en: "Theme"
+"theme.heading" = "";
+
+// Label for the color that fills the area that was added to a shape
+// en: "Added area:"
+"theme.options.added-area.label" = "";
+
+// Label for the color that fills the area that is shared by multiple shapes
+// en: "Common area:"
+"theme.options.common-area.label" = "";
+
+// Label for the color of the outline of the current shape
+// en: "Current outline:"
+"theme.options.current-outline.label" = "";
+
+// Label for the color that fills the area that was deleted from a shape
+// en: "Deleted area:"
+"theme.options.deleted-area.label" = "";
+
+// Label for the color of the outline of another (not the current) shape
+// en: "Other outline:"
+"theme.options.other-outline.label" = "";

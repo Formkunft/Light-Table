@@ -1,0 +1,115 @@
+// Description text in a dialog window
+// en: "Go to System Setting → Privacy & Security → Contacts to grant Glyphs access to your contacts."
+"access-prompt.description" = "";
+
+// Title of a dialog window
+// en: "Glyphs cannot access your contacts"
+"access-prompt.title" = "";
+
+// Label for a section in the settings window for configuring whether to load profile pictures from the Contacts app
+// en: "Contacts:"
+"access.contacts.label" = "";
+
+// Button title for allowing access to the Contacts app
+// en: "Allow Access to Contacts"
+"access.contacts.toggle.title" = "";
+
+// Explanation of the GitHub service
+// en: "If checked, Light Table sends email addresses to the service GitHub.com. If a user is registered at GitHub with a matching email address, Light Table can load and show their GitHub profile picture. GitHub is a subsidiary of Microsoft Corporation."
+"access.github.description" = "";
+
+// Link to the GitHub Privacy Statement webpage
+// en: "GitHub Privacy Statement"
+"access.github.info-link.title" = "";
+
+// Label for a section in the settings window for configuring whether to load profile pictures from GitHub.com
+// en: "GitHub:"
+"access.github.label" = "";
+
+// Button title for allowing access to GitHub.com
+// en: "Allow loading profile pictures from GitHub"
+"access.github.toggle.title" = "";
+
+// Explanation of the Gravatar service
+// en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."
+"access.gravatar.description" = "";
+
+// Link to the Gravatar Data Privacy webpage
+// en: "Gravatar Data Privacy"
+"access.gravatar.info-link.title" = "";
+
+// Label for a section in the settings window for configuring whether to load profile pictures from Gravatar.com
+// en: "Gravatar:"
+"access.gravatar.label" = "";
+
+// Button title for allowing access to Gravatar.com
+// en: "Allow loading profile pictures from Gravatar"
+"access.gravatar.toggle.title" = "";
+
+// Status message indicating that the user has denied access permissions
+// en: "Access denied"
+"access.status.access-denied" = "";
+
+// Status message indicating that the user has granted access permissions
+// en: "Access granted"
+"access.status.access-granted" = "";
+
+// Status message indicating that the user has not yet granted or denied access permissions
+// en: "Awaiting permission"
+"access.status.awaiting-permission" = "";
+
+// Status message indicating that the user account is restricted and can therefore not grant access permissions
+// en: "Restricted access"
+"access.status.restricted-access" = "";
+
+// Title of the profile pictures settings
+// en: "Profile Pictures"
+"general.title" = "";
+
+// Label for a menu containing different sizes in which images can appear
+// en: "Image Size:"
+"image-size.label" = "";
+
+// Menu item option: Images should be large
+// en: "Large"
+"image-size.option.large.title" = "";
+
+// Menu item option: Images should be medium
+// en: "Medium"
+"image-size.option.medium.title" = "";
+
+// Menu item option: Images should be small
+// en: "Small"
+"image-size.option.small.title" = "";
+
+// Label for a menu containing different styles in which images can appear
+// en: "Image style:"
+"image-style.label" = "";
+
+// Menu item option: Images should appear tinted by a specific color (color coded, color tinted)
+// en: "Color-coded"
+"image-style.option.color-coded.title" = "";
+
+// Tooltip for a menu item option
+// en: "Tints profile pictures with different colors for clearer differentiation of profiles"
+"image-style.option.color-coded.tooltip" = "";
+
+// Menu item option: Images should appear monochrome (grayscale)
+// en: "Monochrome"
+"image-style.option.monochrome.title" = "";
+
+// Menu item option: Images should appear normally
+// en: "Normal"
+"image-style.option.normal.title" = "";
+
+// Heading for a section in the settings window for configuring from where profile pictures are loaded
+// en: "Profile Picture Sources"
+"profile-picture.sources.heading" = "";
+
+// Checkbox: Whether to show profile pictures
+// en: "Show profile pictures"
+"show-profile-pictures.general.toggle.title" = "";
+
+// Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist
+// en: "Only for multiple collaborators"
+"show-profile-pictures.only-in-case-of-multiple-collaborators.toggle.title" = "";

@@ -1,0 +1,11 @@
+// Short word describing the center alignment of an object to another object
+// en: "center"
+"center" = "";
+
+// Short word describing the leading edge (the left edge for left-to-right layout, right edge for right-to-left layout, and top edge for top-to-bottom layout)
+// en: "leading"
+"leading" = "";
+
+// Short word describing the trailing edge (the right edge for left-to-right layout, left edge for right-to-left layout, and bottom edge for top-to-bottom layout)
+// en: "trailing"
+"trailing" = "";

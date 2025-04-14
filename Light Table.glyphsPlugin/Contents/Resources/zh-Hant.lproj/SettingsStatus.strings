@@ -1,0 +1,27 @@
+// A description of what status indicators are
+// en: "Indicator symbols are displayed for glyphs that have been added or modified since the latest document version."
+"status-indicators.description" = "";
+
+// Label introducing a list of examples
+// en: "Examples:"
+"status-indicators.examples.label" = "";
+
+// Text used as a placeholder for a glyph that has been added since the latest version
+// en: "added glyph"
+"status-indicators.examples.option.added.title" = "";
+
+// Text used as a placeholder for a glyph that has been modified since the latest version
+// en: "modified glyph"
+"status-indicators.examples.option.modified.title" = "";
+
+// Label for a section of controls
+// en: "Status Indicators:"
+"status-indicators.label" = "";
+
+// Checkbox controlling whether to show status indicator symbols in Edit View
+// en: "Show in Edit View"
+"status-indicators.show-in-edit-view.toggle.title" = "";
+
+// Checkbox controlling whether to show status indicator symbols in Font View
+// en: "Show in Font View"
+"status-indicators.show-in-font-view.toggle.title" = "";

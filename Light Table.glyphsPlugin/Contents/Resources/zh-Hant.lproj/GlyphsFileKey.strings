@@ -1,0 +1,449 @@
+// en: "App Version"
+".appVersion" = "";
+
+// en: "Format Version"
+".formatVersion" = "";
+
+// en: "Alignment"
+"alignment" = "";
+
+// en: "Alpha"
+"alpha" = "";
+
+// en: "Anchor"
+"anchor" = "";
+
+// en: "Anchors"
+"anchors" = "";
+
+// en: "Angle"
+"angle" = "";
+
+// en: "Annotations"
+"annotations" = "";
+
+// en: "Associated Master ID"
+"associatedMasterId" = "";
+
+// en: "Attributes"
+"attr" = "";
+
+// en: "Automatic"
+"automatic" = "";
+
+// en: "Axes"
+"axes" = "";
+
+// en: "Axis Values"
+"axesValues" = "";
+
+// en: "Background"
+"background" = "";
+
+// en: "Background Image"
+"backgroundImage" = "";
+
+// en: "Kerning Group: Bottom"
+"bottomKerningGroup" = "";
+
+// en: "Metrics Key: Bottom"
+"bottomMetricsKey" = "";
+
+// Case as in upper case, lower case, small caps, etc.
+// en: "Case"
+"case" = "";
+
+// en: "Category"
+"category" = "";
+
+// en: "Classes"
+"classes" = "";
+
+// en: "Closed"
+"closed" = "";
+
+// en: "Code"
+"code" = "";
+
+// en: "Color"
+"color" = "";
+
+// en: "Crop"
+"crop" = "";
+
+// en: "Custom Parameters"
+"customParameters" = "";
+
+// en: "Date"
+"date" = "";
+
+// en: "Direction"
+"direction" = "";
+
+// en: "Disabled"
+"disabled" = "";
+
+// en: "Disable Automatic Alignment"
+"disablesAutomaticAlignment" = "";
+
+// en: "Disable Nice Names"
+"disablesNiceNames" = "";
+
+// en: "Display Strings"
+"displayStrings" = "";
+
+// Whether to export something or not
+// en: "Exports"
+"exports" = "";
+
+// en: "Family Name"
+"familyName" = "";
+
+// en: "Prefixes"
+"featurePrefixes" = "";
+
+// en: "Features"
+"features" = "";
+
+// en: "File"
+"file" = "";
+
+// en: "Filter"
+"filter" = "";
+
+// en: "Masters"
+"fontMaster" = "";
+
+// en: "Glyph"
+"glyph" = "";
+
+// en: "Glyph Order"
+"glyphOrder" = "";
+
+// en: "Glyph Name"
+"glyphname" = "";
+
+// en: "Glyphs"
+"glyphs" = "";
+
+// en: "Grid"
+"grid" = "";
+
+// en: "Grid Length"
+"gridLength" = "";
+
+// en: "Grid Subdivision"
+"gridSubDivision" = "";
+
+// en: "Guides"
+"guides" = "";
+
+// en: "Height"
+"height" = "";
+
+// en: "Hints"
+"hints" = "";
+
+// en: "Icon Name"
+"iconName" = "";
+
+// en: "ID"
+"id" = "";
+
+// en: "Image Path"
+"imagePath" = "";
+
+// en: "Image URL"
+"imageURL" = "";
+
+// en: "Instance Interpolations"
+"instanceInterpolations" = "";
+
+// en: "Instances"
+"instances" = "";
+
+// en: "Is Bold"
+"isBold" = "";
+
+// en: "Is Italic"
+"isItalic" = "";
+
+// en: "Keep Alternates Together"
+"keepAlternatesTogether" = "";
+
+// en: "Keep Weight"
+"keepWeight" = "";
+
+// en: "Kerning Group Bottom"
+"kernBottom" = "";
+
+// en: "Kerning Group Left"
+"kernLeft" = "";
+
+// en: "Kerning Group Right"
+"kernRight" = "";
+
+// en: "Kerning Group Top"
+"kernTop" = "";
+
+// en: "Kerning (LTR)"
+"kerningLTR" = "";
+
+// en: "Kerning (RTL)"
+"kerningRTL" = "";
+
+// en: "Kerning (Vertical)"
+"kerningVertical" = "";
+
+// en: "Keyboard Increment"
+"keyboardIncrement" = "";
+
+// en: "Keyboard Increment (Big)"
+"keyboardIncrementBig" = "";
+
+// en: "Keyboard Increment (Huge)"
+"keyboardIncrementHuge" = "";
+
+// en: "Labels"
+"labels" = "";
+
+// en: "Last Change"
+"lastChange" = "";
+
+// en: "Layer"
+"layer" = "";
+
+// en: "Layer ID"
+"layerId" = "";
+
+// en: "Layers"
+"layers" = "";
+
+// en: "Kerning Group: Left"
+"leftKerningGroup" = "";
+
+// en: "Metrics Key: Left"
+"leftMetricsKey" = "";
+
+// en: "Length"
+"length" = "";
+
+// en: "Link Style"
+"linkStyle" = "";
+
+// en: "Lock Angle"
+"lockAngle" = "";
+
+// en: "Locked"
+"locked" = "";
+
+// en: "Manual Interpolation"
+"manualInterpolation" = "";
+
+// en: "Master ID"
+"masterId" = "";
+
+// en: "Ascender"
+"metric.type.ascender" = "";
+
+// en: "Baseline"
+"metric.type.baseline" = "";
+
+// en: "Body Height"
+"metric.type.body-height" = "";
+
+// en: "Cap Height"
+"metric.type.cap-height" = "";
+
+// en: "Descender"
+"metric.type.descender" = "";
+
+// en: "Italic Angle"
+"metric.type.italic-angle" = "";
+
+// en: "Mid Height"
+"metric.type.mid-height" = "";
+
+// en: "Slant Height"
+"metric.type.slant-height" = "";
+
+// en: "x-Height"
+"metric.type.x-height" = "";
+
+// en: "Metric Bottom"
+"metricBottom" = "";
+
+// en: "Metric Left"
+"metricLeft" = "";
+
+// en: "Metric Right"
+"metricRight" = "";
+
+// en: "Metric Top"
+"metricTop" = "";
+
+// en: "Metric Values"
+"metricValues" = "";
+
+// en: "Vertical Origin"
+"metricVertOrigin" = "";
+
+// en: "Vertical Width"
+"metricVertWidth" = "";
+
+// en: "Width"
+"metricWidth" = "";
+
+// en: "Metrics"
+"metrics" = "";
+
+// en: "Name"
+"name" = "";
+
+// en: "Nodes"
+"nodes" = "";
+
+// en: "Note"
+"note" = "";
+
+// en: "Notes"
+"notes" = "";
+
+// en: "Number Values"
+"numberValues" = "";
+
+// en: "Numbers"
+"numbers" = "";
+
+// en: "Orientation"
+"orientation" = "";
+
+// en: "Origin"
+"origin" = "";
+
+// en: "Overshoot"
+"overshoot" = "";
+
+// en: "Part Selection"
+"partSelection" = "";
+
+// en: "Parts Settings"
+"partsSettings" = "";
+
+// en: "Piece Values"
+"piece" = "";
+
+// en: "Position"
+"pos" = "";
+
+// en: "Production"
+"production" = "";
+
+// en: "Properties"
+"properties" = "";
+
+// en: "Reference"
+"ref" = "";
+
+// en: "Kerning Group: Right"
+"rightKerningGroup" = "";
+
+// en: "Metrics Key: Right"
+"rightMetricsKey" = "";
+
+// en: "Scale"
+"scale" = "";
+
+// Script as in Latin, Cyrillic, Greek, etc.
+// en: "Script"
+"script" = "";
+
+// en: "Shapes"
+"shapes" = "";
+
+// en: "Show Measurement"
+"showMeasurement" = "";
+
+// en: "Size"
+"size" = "";
+
+// en: "Slant"
+"slant" = "";
+
+// en: "Sort Name"
+"sortName" = "";
+
+// en: "Sort Name Keep"
+"sortNameKeep" = "";
+
+// en: "Stem Values"
+"stemValues" = "";
+
+// en: "Stems"
+"stems" = "";
+
+// en: "Subcategory"
+"subCategory" = "";
+
+// en: "Tag"
+"tag" = "";
+
+// en: "Tags"
+"tags" = "";
+
+// en: "Kerning Group: Top"
+"topKerningGroup" = "";
+
+// en: "Metrics Key: Top"
+"topMetricsKey" = "";
+
+// en: "Type"
+"type" = "";
+
+// en: "Unicode"
+"unicode" = "";
+
+// en: "UPM"
+"unitsPerEm" = "";
+
+// en: "User Data"
+"userData" = "";
+
+// en: "Version Major"
+"versionMajor" = "";
+
+// en: "Version Minor"
+"versionMinor" = "";
+
+// en: "Vertical Origin"
+"vertOrigin" = "";
+
+// en: "Vertical Width"
+"vertWidth" = "";
+
+// en: "Metrics Key: Vertical Width"
+"vertWidthMetricsKey" = "";
+
+// en: "Vertical Stems"
+"verticalStems" = "";
+
+// en: "Visible"
+"visible" = "";
+
+// en: "Weight Class"
+"weightClass" = "";
+
+// en: "Width"
+"width" = "";
+
+// en: "Width Class"
+"widthClass" = "";
+
+// en: "Metrics Key: Width"
+"widthMetricsKey" = "";
+
+// en: "X"
+"x" = "";
+
+// en: "Y"
+"y" = "";

@@ -1,0 +1,39 @@
+// About window section about software license acknowledgements
+// en: "Acknowledgements"
+"acknowledgements" = "";
+
+// About window description about software license acknowledgements
+// en: "Portions of the Light Table software may utilize the following copyrighted material, the use of which is hereby acknowledged."
+"acknowledgements.description" = "";
+
+// Title of a document containing license acknowledgements
+// en: "License Acknowledgements"
+"acknowledgements.license" = "";
+
+// About window section about the development of the plugin
+// en: "Development"
+"development" = "";
+
+// About window section about the localizers of the plugin [including you!]
+// en: "Localization"
+"localization" = "";
+
+// Name of the Simplified Chinese language
+// en: "Chinese (simplified)"
+"localization.zh-Hans" = "簡體中文";
+
+// Name of the Traditional Chinese language
+// en: "Chinese, Traditional"
+"localization.zh-Hant" = "繁體中文";
+
+// About window section about the tests of the plugin
+// en: "Testing"
+"testing" = "";
+
+// The marketing version and the built version
+// en: "Version %1$@ (%2$lld)"
+"version" = "";
+
+// Title of a link to the Light Table website
+// en: "Light Table Website"
+"website.link.title" = "";
