@@ -47,11 +47,11 @@
 "error.error-message-prefix" = "Git 錯誤：";
 
 // Error message when the user tried to access a file that does not exist in the Git repository.
-// en: "File not found at "%@"."
+// en: "File not found at “%@”."
 "error.file-not-found" = "在「%@」找不到檔案。";
 
 // Error message when the user tried to open a Git repository that does not contain a working tree.
-// en: "Cannot find a Git working tree at "%@"."
+// en: "Cannot find a Git working tree at “%@”."
 "error.no-working-tree-at-path" = "在「%@」找不到 Git 工作目錄。";
 
 // Button to initialize a Git repository
@@ -59,7 +59,7 @@
 "initialize-repository.action.submit" = "初始化儲存庫";
 
 // Button to initialize a Git repository in a specific folder
-// en: "Initialize Repository in "%@""
+// en: "Initialize Repository in “%@”"
 "initialize-repository.action.submit-with-folder" = "在「%@」初始化儲存庫";
 
 // Text explaining the concept of a Git repository folder

@@ -1,9 +1,9 @@
 // Title of the open panel that is presented when the user wants to open a file with an app
-// en: "Choose an application to open the document "%@"."
+// en: "Choose an application to open the document “%@”."
 "choose-app-to-open-file.title" = "選擇應用程式來開啟文件「%@」。";
 
 // Button copies the full path of a file
-// en: "Copy "%@" as Pathname"
+// en: "Copy “%@” as Pathname"
 "copy-file-as-pathname" = "複製「%@」的路徑名稱";
 
 // Button that opens the Font Info window of the document

@@ -1,9 +1,9 @@
 // Error message
-// en: "The font "%@" from the selected version could not be exported."
+// en: "The font “%@” from the selected version could not be exported."
 "error.cannot-export-instance.title" = "無法匯出所選版本中的字型「%@」。";
 
 // Error message
-// en: "The instance "%@" could not be exported."
+// en: "The instance “%@” could not be exported."
 "error.invalid-export-file-path.title" = "無法匯出實體「%@」。";
 
 // Error message regarding the Font Proofer application
@@ -11,7 +11,7 @@
 "error.missing-font-proofer-id.recovery-suggestion" = "請確認已安裝 Font Proofer 配套外掛程式。";
 
 // Error message regarding the Font Proofer application
-// en: "The instance "%@" is missing a Font Proofer ID."
+// en: "The instance “%@” is missing a Font Proofer ID."
 "error.missing-font-proofer-id.title" = "實體「%@」缺少 Font Proofer ID。";
 
 // Error message

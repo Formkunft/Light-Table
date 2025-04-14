@@ -47,7 +47,7 @@
 "filter.show-versions.option.layer" = "影響目前圖層的版本";
 
 // Error message shown when a file type is not supported for filtering a list of versions
-// en: "Filtering is not supported for ".%@" files"
+// en: "Filtering is not supported for “.%@” files"
 "filter.unsupported-file-type.title" = "不支援對「.%@」檔案進行篩選";
 
 // Label: heading of a section

@@ -7,7 +7,7 @@
 "action.restore-glyph-as-alternative.title.generic" = "還原字符為替代字符";
 
 // Button that restores a glyph from a previous version and gives the restored glyph a specific name
-// en: "Restore Glyph as "^[%@](legibility: 'high')""
+// en: "Restore Glyph as “^[%@](legibility: 'high')”"
 "action.restore-glyph-as-alternative.title.specific" = "還原字符為「^[%@](legibility: 'high')」";
 
 // Label explaining how a glyph is restored from a previous file version
@@ -23,7 +23,7 @@
 "action.restore-glyph-as-replacement.title.specific" = "還原字符";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "Restores the layer "%@" from the selected version by replacing the current background. Any paths, anchors, and other elements on the current background will first be deleted."
+// en: "Restores the layer “%@” from the selected version by replacing the current background. Any paths, anchors, and other elements on the current background will first be deleted."
 "action.restore-layer-as-background.description.specific" = "透過替換目前背景來還原所選版本中的「%@」圖層。目前背景上的所有路徑、錨點和其他元素將首先被刪除。";
 
 // Action that restores a layer from a previous version and places it on the background of the current version
@@ -35,7 +35,7 @@
 "action.restore-layer-as-background.title.specific" = "還原圖層為背景";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "Restores the layer "%1$@" from the selected version as a backup layer "%2$@". The current layers are left unchanged."
+// en: "Restores the layer “%1$@” from the selected version as a backup layer “%2$@”. The current layers are left unchanged."
 "action.restore-layer-as-backup.description.specific" = "從所選版本還原「%1$@」圖層為備份圖層「%2$@」。目前圖層維持不變。";
 
 // Action that restores a layer from a previous version and marks the restored layer as a backup layer
@@ -47,7 +47,7 @@
 "action.restore-layer-as-backup.title.specific" = "還原圖層為備份圖層";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "First, creates a backup layer "%1$@" with the contents of the current layer. Then, replaces the current layer with the layer "%2$@" from the selected version."
+// en: "First, creates a backup layer “%1$@” with the contents of the current layer. Then, replaces the current layer with the layer “%2$@” from the selected version."
 "action.restore-layer-as-replacement.description.specific" = "首先，使用目前圖層的內容建立備份圖層「%1$@」。然後，用所選版本中的「%2$@」圖層替換目前圖層。";
 
 // Action that restores a layer from a previous file version
@@ -99,11 +99,11 @@
 "component-restoration.visualization.comparison.layer-title.restored" = "已還原圖層";
 
 // Title of a window for restoring a glyph
-// en: "Restore glyph "^[%@](legibility: 'high')""
+// en: "Restore glyph “^[%@](legibility: 'high')”"
 "component-restoration.window.1.title.glyph" = "還原字符「^[%@](legibility: 'high')」";
 
 // Title of a window for restoring a layer
-// en: "Restore layer "^[%@](legibility: 'high')""
+// en: "Restore layer “^[%@](legibility: 'high')”"
 "component-restoration.window.1.title.layer" = "還原圖層「^[%@](legibility: 'high')」";
 
 // Description of a dialog window about restoring a glyph that contains components
@@ -135,7 +135,7 @@
 "heading.glyph" = "字符「^[%@](legibility: 'high')」：";
 
 // Heading for buttons related to a file from a version
-// en: "Layer "%@":"
+// en: "Layer “%@”:"
 "heading.layer" = "圖層「%@」：";
 
 // Labels for a button that controls all components instead of just a single component

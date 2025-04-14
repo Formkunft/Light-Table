@@ -3,7 +3,7 @@
 "cannot-discard-edited-document.alert.description.multiple" = "放棄變更前請先儲存下列文件：\n\n%@";
 
 // Alert description explaining that changes in an unsaved document cannot be discarded
-// en: "Save the document "%@" before discarding changes."
+// en: "Save the document “%@” before discarding changes."
 "cannot-discard-edited-document.alert.description.single" = "放棄變更前請先儲存文件「%@」。";
 
 // Alert title explaining that changes in unsaved documents cannot be discarded

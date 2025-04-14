@@ -35,7 +35,7 @@
 "compare-in-font-proofer" = "在 Font Proofer 中比較…";
 
 // Menu item for copying a Git commit hash to the clipboard
-// en: "Copy Commit Hash "^[%@](voice: 'code')…""
+// en: "Copy Commit Hash “^[%@](voice: 'code')…”"
 "copy-commit-hash.with-display-hash" = "複製提交雜湊值「^[%@](voice: 'code')…」";
 
 // Heading for buttons related to a file from a version
@@ -55,7 +55,7 @@
 "save-panel.file-from-commit.confirm-button" = "儲存版本";
 
 // Title of the save panel for saving a font file from a specific version with a certain commit hash and date
-// en: "Save "%@" from commit %@ (%@)"
+// en: "Save “%@” from commit %@ (%@)"
 "save-panel.file-from-commit.title" = "儲存來自提交 %2$@ (%3$@) 的「%1$@」";
 
 // Menu item for saving a file to a location on disk
