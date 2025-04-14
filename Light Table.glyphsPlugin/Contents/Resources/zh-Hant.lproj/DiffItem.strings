@@ -38,10 +38,10 @@
 "color.blue" = "藍色";
 
 // en: "Brown"
-"color.brown" = "棕色";
+"color.brown" = "褐色";
 
 // en: "Cyan"
-"color.cyan" = "青色";
+"color.cyan" = "淺藍色";
 
 // en: "Dark Gray"
 "color.dark-gray" = "深灰色";
@@ -56,7 +56,7 @@
 "color.light-green" = "淺綠色";
 
 // en: "Orange"
-"color.orange" = "橙色";
+"color.orange" = "橘色";
 
 // en: "Pink"
 "color.pink" = "粉紅色";

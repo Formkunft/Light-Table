@@ -20,7 +20,7 @@
 "angle" = "角度";
 
 // en: "Annotations"
-"annotations" = "註解";
+"annotations" = "註記";
 
 // en: "Associated Master ID"
 "associatedMasterId" = "關聯主板 ID";
@@ -54,7 +54,7 @@
 "case" = "大小寫";
 
 // en: "Category"
-"category" = "類別";
+"category" = "類型";
 
 // en: "Classes"
 "classes" = "類別";
@@ -84,7 +84,7 @@
 "disabled" = "已停用";
 
 // en: "Disable Automatic Alignment"
-"disablesAutomaticAlignment" = "停用自動對齊";
+"disablesAutomaticAlignment" = "停用自動就定位";
 
 // en: "Disable Nice Names"
 "disablesNiceNames" = "停用標準字符名稱";
@@ -100,7 +100,7 @@
 "familyName" = "字型家族名稱";
 
 // en: "Prefixes"
-"featurePrefixes" = "前綴";
+"featurePrefixes" = "前置";
 
 // en: "Features"
 "features" = "特性";
@@ -127,13 +127,13 @@
 "glyphs" = "字符";
 
 // en: "Grid"
-"grid" = "網格";
+"grid" = "格線";
 
 // en: "Grid Length"
-"gridLength" = "網格長度";
+"gridLength" = "格線長度";
 
 // en: "Grid Subdivision"
-"gridSubDivision" = "網格細分";
+"gridSubDivision" = "格線細分";
 
 // en: "Guides"
 "guides" = "參考線";
@@ -169,10 +169,10 @@
 "isItalic" = "是斜體";
 
 // en: "Keep Alternates Together"
-"keepAlternatesTogether" = "保持替代字形在一起";
+"keepAlternatesTogether" = "維持替代字不分開";
 
 // en: "Keep Weight"
-"keepWeight" = "保持字重";
+"keepWeight" = "維持字重";
 
 // en: "Kerning Group Bottom"
 "kernBottom" = "字距調整群組底部";
@@ -196,13 +196,13 @@
 "kerningVertical" = "字距調整（垂直）";
 
 // en: "Keyboard Increment"
-"keyboardIncrement" = "鍵盤增量";
+"keyboardIncrement" = "鍵盤增減";
 
 // en: "Keyboard Increment (Big)"
-"keyboardIncrementBig" = "鍵盤增量（大）";
+"keyboardIncrementBig" = "鍵盤增減（大）";
 
 // en: "Keyboard Increment (Huge)"
-"keyboardIncrementHuge" = "鍵盤增量（巨大）";
+"keyboardIncrementHuge" = "鍵盤增減（巨大）";
 
 // en: "Labels"
 "labels" = "標籤";
@@ -250,19 +250,19 @@
 "metric.type.baseline" = "基線";
 
 // en: "Body Height"
-"metric.type.body-height" = "主體高度";
+"metric.type.body-height" = "字身高";
 
 // en: "Cap Height"
-"metric.type.cap-height" = "大寫高度";
+"metric.type.cap-height" = "大寫字高";
 
 // en: "Descender"
 "metric.type.descender" = "下伸部";
 
 // en: "Italic Angle"
-"metric.type.italic-angle" = "斜體角度";
+"metric.type.italic-angle" = "義大利體斜角";
 
 // en: "Mid Height"
-"metric.type.mid-height" = "中高度";
+"metric.type.mid-height" = "中間高度";
 
 // en: "Slant Height"
 "metric.type.slant-height" = "傾斜高度";
@@ -322,7 +322,7 @@
 "origin" = "原點";
 
 // en: "Overshoot"
-"overshoot" = "超出";
+"overshoot" = "出框微調整";
 
 // en: "Part Selection"
 "partSelection" = "部件選擇";
@@ -374,7 +374,7 @@
 "sortName" = "排序名稱";
 
 // en: "Sort Name Keep"
-"sortNameKeep" = "保持排序名稱";
+"sortNameKeep" = "維持排序名稱";
 
 // en: "Stem Values"
 "stemValues" = "字幹值";
