@@ -1,55 +1,55 @@
 // Alert description explaining that changes in unsaved documents cannot be discarded
 // en: "Save the following documents before discarding changes:\n\n%@"
-"cannot-discard-edited-document.alert.description.multiple" = "放棄變更前請先儲存下列文件：\n\n%@";
+"cannot-discard-edited-document.alert.description.multiple" = "";
 
 // Alert description explaining that changes in an unsaved document cannot be discarded
-// en: "Save the document "%@" before discarding changes."
-"cannot-discard-edited-document.alert.description.single" = "放棄變更前請先儲存文件「%@」。";
+// en: "Save the document “%@” before discarding changes."
+"cannot-discard-edited-document.alert.description.single" = "";
 
 // Alert title explaining that changes in unsaved documents cannot be discarded
 // en: "Cannot discard changes in unsaved documents"
-"cannot-discard-edited-document.alert.title" = "無法放棄未儲存文件中的變更";
+"cannot-discard-edited-document.alert.title" = "";
 
 // Alert description informing the user that the discard action cannot be undone
 // en: "Discarding these changes cannot be undone."
-"discard-change.alert.description.cannot-undo-all" = "放棄這些變更後將無法復原。";
+"discard-change.alert.description.cannot-undo-all" = "";
 
 // Alert description informing the user that the discard action cannot be undone
 // en: "Discarding this change cannot be undone."
-"discard-change.alert.description.cannot-undo-single" = "放棄此變更後將無法復原。";
+"discard-change.alert.description.cannot-undo-single" = "";
 
 // Alert description informing the user that the discard action cannot be undone for some changes
 // en: "Discarding cannot be undone for some of these changes."
-"discard-change.alert.description.cannot-undo-some" = "這些變更中的某些部分放棄後將無法復原。";
+"discard-change.alert.description.cannot-undo-some" = "";
 
 // Title of an alert window before discarding multiple changes
 // en: "Discard Changes"
-"discard-change.alert.title.multiple" = "放棄變更";
+"discard-change.alert.title.multiple" = "";
 
 // Title of an alert window before discarding a change
 // en: "Discard Change"
-"discard-change.alert.title.single" = "放棄變更";
+"discard-change.alert.title.single" = "";
 
 // Button discarding multiple changes
 // en: "Discard Changes"
-"discard-change.button.multiple" = "放棄變更";
+"discard-change.button.multiple" = "";
 
 // Button discarding multiple changes
 // en: "Discard Changes…"
-"discard-change.button.multiple.continuation" = "放棄變更…";
+"discard-change.button.multiple.continuation" = "";
 
 // Button discarding a change
 // en: "Discard Change"
-"discard-change.button.single" = "放棄變更";
+"discard-change.button.single" = "";
 
 // Button discarding a change
 // en: "Discard Change…"
-"discard-change.button.single.continuation" = "放棄變更…";
+"discard-change.button.single.continuation" = "";
 
 // Alert description explaining that some changes could not be discarded
 // en: "The following changes could not be discarded:"
-"failed-discarding-changes.alert.description" = "下列變更無法放棄：";
+"failed-discarding-changes.alert.description" = "";
 
 // Alert title explaining that some changes could not be discarded
 // en: "Some changes could not be discarded"
-"failed-discarding-changes.alert.title" = "某些變更無法放棄";
+"failed-discarding-changes.alert.title" = "";

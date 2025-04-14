@@ -1,43 +1,43 @@
 // Title for a toggle in the settings window that allows users to align layers by default
 // en: "Align layers"
-"default-alignment.align-layers.toggle.title" = "對齊圖層";
+"default-alignment.align-layers.toggle.title" = "";
 
 // Heading for a section in the settings window about how layers should be aligned by default
 // en: "Default Alignment"
-"default-alignment.heading" = "預設對齊方式";
+"default-alignment.heading" = "";
 
 // Checkbox: whether the comparison mode should apply to all layers or to just the current layer
 // en: "Compare all layers"
-"general.compare-all-layers.toggle.title" = "比較所有圖層";
+"general.compare-all-layers.toggle.title" = "";
 
 // Title of the comparison tool/reporter settings
 // en: "Comparison"
-"general.title" = "比較";
+"general.title" = "";
 
 // Button that restores the default value
 // en: "Reset"
-"reset-button.tooltip" = "重設";
+"reset-button.tooltip" = "";
 
 // Heading for a section in the settings window about colors
 // en: "Theme"
-"theme.heading" = "主題";
+"theme.heading" = "";
 
 // Label for the color that fills the area that was added to a shape
 // en: "Added area:"
-"theme.options.added-area.label" = "已新增區域：";
+"theme.options.added-area.label" = "";
 
 // Label for the color that fills the area that is shared by multiple shapes
 // en: "Common area:"
-"theme.options.common-area.label" = "共用區域：";
+"theme.options.common-area.label" = "";
 
 // Label for the color of the outline of the current shape
 // en: "Current outline:"
-"theme.options.current-outline.label" = "目前外框：";
+"theme.options.current-outline.label" = "";
 
 // Label for the color that fills the area that was deleted from a shape
 // en: "Deleted area:"
-"theme.options.deleted-area.label" = "已刪除區域：";
+"theme.options.deleted-area.label" = "";
 
 // Label for the color of the outline of another (not the current) shape
 // en: "Other outline:"
-"theme.options.other-outline.label" = "其他外框：";
+"theme.options.other-outline.label" = "";

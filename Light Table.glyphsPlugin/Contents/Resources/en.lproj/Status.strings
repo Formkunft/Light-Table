@@ -1,7 +1,7 @@
 // Describes that a glyph has been added since the latest version (the HEAD commit)
 // en: "This glyph has been added to the font since the latest version"
-"inspector-status-indicator.added-glyph.description" = "此字符是在最新版本之後新增到字型中的";
+"inspector-status-indicator.added-glyph.description" = "";
 
 // Describes that a glyph has been modified since the latest version (the HEAD commit)
 // en: "This glyph has been modified since the latest version"
-"inspector-status-indicator.modified-glyph.description" = "此字符在最新版本之後已被修改";
+"inspector-status-indicator.modified-glyph.description" = "";

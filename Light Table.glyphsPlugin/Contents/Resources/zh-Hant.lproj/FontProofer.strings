@@ -1,103 +1,103 @@
 // Error message
-// en: "The font “%@” from the selected version could not be exported."
-"error.cannot-export-instance.title" = "";
+// en: "The font "%@" from the selected version could not be exported."
+"error.cannot-export-instance.title" = "無法匯出所選版本中的字型「%@」。";
 
 // Error message
-// en: "The instance “%@” could not be exported."
-"error.invalid-export-file-path.title" = "";
+// en: "The instance "%@" could not be exported."
+"error.invalid-export-file-path.title" = "無法匯出實體「%@」。";
 
 // Error message regarding the Font Proofer application
 // en: "Verify that the Font Proofer companion plugin is installed."
-"error.missing-font-proofer-id.recovery-suggestion" = "";
+"error.missing-font-proofer-id.recovery-suggestion" = "請確認已安裝 Font Proofer 配套外掛程式。";
 
 // Error message regarding the Font Proofer application
-// en: "The instance “%@” is missing a Font Proofer ID."
-"error.missing-font-proofer-id.title" = "";
+// en: "The instance "%@" is missing a Font Proofer ID."
+"error.missing-font-proofer-id.title" = "實體「%@」缺少 Font Proofer ID。";
 
 // Error message
 // en: "There is no instance in the font from the version."
-"error.no-instance.title" = "";
+"error.no-instance.title" = "該版本的字型中沒有任何實體。";
 
 // Short text that indicates that an export option is an icon set
 // en: "Icon"
-"export-styles.note.is-icon-set" = "";
+"export-styles.note.is-icon-set" = "圖示";
 
 // Short text that indicates that an export option is a varianle font
 // en: "Variable"
-"export-styles.note.is-variable-font" = "";
+"export-styles.note.is-variable-font" = "可變字型";
 
 // Menu item to select all instances
 // en: "All Instances"
-"export-styles.option.all-instances" = "";
+"export-styles.option.all-instances" = "所有實體";
 
 // Menu item to select all active/exporting instances
 // en: "All Active Instances"
-"export-styles.option.all-instances.active" = "";
+"export-styles.option.all-instances.active" = "所有啟用的實體";
 
 // Menu item to select all masters
 // en: "All Masters"
-"export-styles.option.all-masters" = "";
+"export-styles.option.all-masters" = "所有主板";
 
 // Menu item for the current master
 // en: "Current Master"
-"export-styles.option.master.current" = "";
+"export-styles.option.master.current" = "目前主板";
 
 // Heading for a list of instances (like the title of the Font Info tab for instances)
 // en: "Instances"
-"export-styles.section.instances.title" = "";
+"export-styles.section.instances.title" = "實體";
 
 // Heading for a list of masters
 // en: "Masters"
-"export-styles.section.masters.title" = "";
+"export-styles.section.masters.title" = "主板";
 
 // Default font proofer content; only using ASCII characters
 // en: "Hello World!"
-"export-text.option.default-text.ascii" = "";
+"export-text.option.default-text.ascii" = "Hello World!";
 
 // Current text from Edit View
 // en: "Current Text"
-"export-text.option.edit-view" = "";
+"export-text.option.edit-view" = "目前文字";
 
 // Name of a folder containing font files for a proof document
 // en: "%@ Proof Fonts"
-"proof-fonts-directory.name" = "";
+"proof-fonts-directory.name" = "%@ 校樣字型";
 
 // The layout arrangement (split vertically or horizontally)
 // en: "Arrangement:"
-"proof-options.arrangement.label" = "";
+"proof-options.arrangement.label" = "排列方式：";
 
 // An layout arrangement option where items are split vertically
 // en: "Columns"
-"proof-options.arrangement.option.columns.title" = "";
+"proof-options.arrangement.option.columns.title" = "欄";
 
 // An layout arrangement option where items are split horizontally
 // en: "Rows"
-"proof-options.arrangement.option.rows.title" = "";
+"proof-options.arrangement.option.rows.title" = "列";
 
 // The text content of the Font Proofer document
 // en: "Content:"
-"proof-options.content.label" = "";
+"proof-options.content.label" = "內容：";
 
 // A checkbox to open the Font Proofer document in the Font Proofer application once the export is complete
 // en: "Open in Font Proofer"
-"proof-options.open-in-font-proofer.title" = "";
+"proof-options.open-in-font-proofer.title" = "在 Font Proofer 中開啟";
 
 // The font style (master or instance)
 // en: "Style:"
-"proof-options.style.label" = "";
+"proof-options.style.label" = "風格：";
 
 // Title of a Font Proofer document created by Light Table
 // en: "Light Table Comparison"
-"proof.title" = "";
+"proof.title" = "Light Table 比較";
 
 // Button for creating a .proof file
 // en: "Create Proof"
-"save-panel.confirm-button" = "";
+"save-panel.confirm-button" = "建立校樣";
 
-// Title of the save panel for saving a .proof file to be used in the application “Font Proofer”
-// en: "Create a new Font Proofer proof comparing the current version and the selected version."
-"save-panel.title" = "";
+// Title of the save panel for saving a .proof file to be used in the application "Font Proofer"
+// en: "Create a new Font Proofer proof comparing the current version and the selected version."
+"save-panel.title" = "建立新的 Font Proofer 校樣文件，比較目前版本和所選版本。";
 
 // Short text describing an inactive (nonexporting) instance
 // en: "Inactive"
-"separator.title-and-subtitle" = "";
+"separator.title-and-subtitle" = "未啟用";

@@ -1,47 +1,47 @@
 // Button that collapses (fold in) the rows of all diff entries that are directly nested inside of the selected diff entry
 // en: "Collapse Entries"
-"collapse-child-items.button" = "收合項目";
+"collapse-child-items.button" = "";
 
 // Button that expands (fold out) the rows of all diff entries that are directly nested inside of the selected diff entry
 // en: "Expand Entries"
-"expand-child-items.button" = "展開項目";
+"expand-child-items.button" = "";
 
 // Button that selects the next row above that is on the same indentation level as the currently selected row
 // en: "Select Next Entry on Same Level Above"
-"select-next-item-on-same-level-above.button" = "選擇上方同層級的下一個項目";
+"select-next-item-on-same-level-above.button" = "";
 
 // Button that selects the next row below that is on the same indentation level as the currently selected row
 // en: "Select Next Entry on Same Level Below"
-"select-next-item-on-same-level-below.button" = "選擇下方同層級的下一個項目";
+"select-next-item-on-same-level-below.button" = "";
 
 // Button that stages a file
 // en: "Stage"
-"stage.button" = "暫存";
+"stage.button" = "";
 
 // Table column header for a file that was added
 // en: "Added"
-"table.column.added.title" = "已新增";
+"table.column.added.title" = "";
 
 // Table column header for the values of a file after a change
 // en: "After"
-"table.column.after.title" = "變更後";
+"table.column.after.title" = "";
 
 // Table column header for the values of a file before and after a change
 // en: "Before/After"
-"table.column.before-and-after.title" = "變更前/後";
+"table.column.before-and-after.title" = "";
 
 // Table column header for the values of a file before a change
 // en: "Before"
-"table.column.before.title" = "變更前";
+"table.column.before.title" = "";
 
 // Table column header for a file that was deleted
 // en: "Deleted"
-"table.column.deleted.title" = "已刪除";
+"table.column.deleted.title" = "";
 
 // Table column header for the key/label/name that describes a value in a key-value pair
 // en: "Key"
-"table.column.key.title" = "鍵值";
+"table.column.key.title" = "";
 
 // Button that unstages a file
 // en: "Unstage"
-"unstage.button" = "取消暫存";
+"unstage.button" = "";

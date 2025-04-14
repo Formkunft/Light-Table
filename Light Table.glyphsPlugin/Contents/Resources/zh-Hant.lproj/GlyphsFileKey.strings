@@ -1,449 +1,449 @@
 // en: "App Version"
-".appVersion" = "";
+".appVersion" = "應用程式版本";
 
 // en: "Format Version"
-".formatVersion" = "";
+".formatVersion" = "格式版本";
 
 // en: "Alignment"
-"alignment" = "";
+"alignment" = "對齊";
 
 // en: "Alpha"
-"alpha" = "";
+"alpha" = "透明度";
 
 // en: "Anchor"
-"anchor" = "";
+"anchor" = "錨點";
 
 // en: "Anchors"
-"anchors" = "";
+"anchors" = "錨點";
 
 // en: "Angle"
-"angle" = "";
+"angle" = "角度";
 
 // en: "Annotations"
-"annotations" = "";
+"annotations" = "註解";
 
 // en: "Associated Master ID"
-"associatedMasterId" = "";
+"associatedMasterId" = "關聯主板 ID";
 
 // en: "Attributes"
-"attr" = "";
+"attr" = "屬性";
 
 // en: "Automatic"
-"automatic" = "";
+"automatic" = "自動";
 
 // en: "Axes"
-"axes" = "";
+"axes" = "軸";
 
 // en: "Axis Values"
-"axesValues" = "";
+"axesValues" = "軸值";
 
 // en: "Background"
-"background" = "";
+"background" = "背景";
 
 // en: "Background Image"
-"backgroundImage" = "";
+"backgroundImage" = "背景圖片";
 
 // en: "Kerning Group: Bottom"
-"bottomKerningGroup" = "";
+"bottomKerningGroup" = "字距調整群組：底部";
 
 // en: "Metrics Key: Bottom"
-"bottomMetricsKey" = "";
+"bottomMetricsKey" = "度量鍵值：底部";
 
 // Case as in upper case, lower case, small caps, etc.
 // en: "Case"
-"case" = "";
+"case" = "大小寫";
 
 // en: "Category"
-"category" = "";
+"category" = "類別";
 
 // en: "Classes"
-"classes" = "";
+"classes" = "類別";
 
 // en: "Closed"
-"closed" = "";
+"closed" = "已關閉";
 
 // en: "Code"
-"code" = "";
+"code" = "程式碼";
 
 // en: "Color"
-"color" = "";
+"color" = "顏色";
 
 // en: "Crop"
-"crop" = "";
+"crop" = "裁切";
 
 // en: "Custom Parameters"
-"customParameters" = "";
+"customParameters" = "自訂參數";
 
 // en: "Date"
-"date" = "";
+"date" = "日期";
 
 // en: "Direction"
-"direction" = "";
+"direction" = "方向";
 
 // en: "Disabled"
-"disabled" = "";
+"disabled" = "已停用";
 
 // en: "Disable Automatic Alignment"
-"disablesAutomaticAlignment" = "";
+"disablesAutomaticAlignment" = "停用自動對齊";
 
 // en: "Disable Nice Names"
-"disablesNiceNames" = "";
+"disablesNiceNames" = "停用標準字符名稱";
 
 // en: "Display Strings"
-"displayStrings" = "";
+"displayStrings" = "顯示字串";
 
 // Whether to export something or not
 // en: "Exports"
-"exports" = "";
+"exports" = "匯出";
 
 // en: "Family Name"
-"familyName" = "";
+"familyName" = "字型家族名稱";
 
 // en: "Prefixes"
-"featurePrefixes" = "";
+"featurePrefixes" = "前綴";
 
 // en: "Features"
-"features" = "";
+"features" = "特性";
 
 // en: "File"
-"file" = "";
+"file" = "檔案";
 
 // en: "Filter"
-"filter" = "";
+"filter" = "濾鏡";
 
 // en: "Masters"
-"fontMaster" = "";
+"fontMaster" = "主板";
 
 // en: "Glyph"
-"glyph" = "";
+"glyph" = "字符";
 
 // en: "Glyph Order"
-"glyphOrder" = "";
+"glyphOrder" = "字符順序";
 
 // en: "Glyph Name"
-"glyphname" = "";
+"glyphname" = "字符名稱";
 
 // en: "Glyphs"
-"glyphs" = "";
+"glyphs" = "字符";
 
 // en: "Grid"
-"grid" = "";
+"grid" = "網格";
 
 // en: "Grid Length"
-"gridLength" = "";
+"gridLength" = "網格長度";
 
 // en: "Grid Subdivision"
-"gridSubDivision" = "";
+"gridSubDivision" = "網格細分";
 
 // en: "Guides"
-"guides" = "";
+"guides" = "參考線";
 
 // en: "Height"
-"height" = "";
+"height" = "高度";
 
 // en: "Hints"
-"hints" = "";
+"hints" = "調適";
 
 // en: "Icon Name"
-"iconName" = "";
+"iconName" = "圖示名稱";
 
 // en: "ID"
-"id" = "";
+"id" = "ID";
 
 // en: "Image Path"
-"imagePath" = "";
+"imagePath" = "圖片路徑";
 
 // en: "Image URL"
-"imageURL" = "";
+"imageURL" = "圖片 URL";
 
 // en: "Instance Interpolations"
-"instanceInterpolations" = "";
+"instanceInterpolations" = "實體內插";
 
 // en: "Instances"
-"instances" = "";
+"instances" = "實體";
 
 // en: "Is Bold"
-"isBold" = "";
+"isBold" = "是粗體";
 
 // en: "Is Italic"
-"isItalic" = "";
+"isItalic" = "是斜體";
 
 // en: "Keep Alternates Together"
-"keepAlternatesTogether" = "";
+"keepAlternatesTogether" = "保持替代字形在一起";
 
 // en: "Keep Weight"
-"keepWeight" = "";
+"keepWeight" = "保持字重";
 
 // en: "Kerning Group Bottom"
-"kernBottom" = "";
+"kernBottom" = "字距調整群組底部";
 
 // en: "Kerning Group Left"
-"kernLeft" = "";
+"kernLeft" = "字距調整群組左側";
 
 // en: "Kerning Group Right"
-"kernRight" = "";
+"kernRight" = "字距調整群組右側";
 
 // en: "Kerning Group Top"
-"kernTop" = "";
+"kernTop" = "字距調整群組頂部";
 
 // en: "Kerning (LTR)"
-"kerningLTR" = "";
+"kerningLTR" = "字距調整（從左至右）";
 
 // en: "Kerning (RTL)"
-"kerningRTL" = "";
+"kerningRTL" = "字距調整（從右至左）";
 
 // en: "Kerning (Vertical)"
-"kerningVertical" = "";
+"kerningVertical" = "字距調整（垂直）";
 
 // en: "Keyboard Increment"
-"keyboardIncrement" = "";
+"keyboardIncrement" = "鍵盤增量";
 
 // en: "Keyboard Increment (Big)"
-"keyboardIncrementBig" = "";
+"keyboardIncrementBig" = "鍵盤增量（大）";
 
 // en: "Keyboard Increment (Huge)"
-"keyboardIncrementHuge" = "";
+"keyboardIncrementHuge" = "鍵盤增量（巨大）";
 
 // en: "Labels"
-"labels" = "";
+"labels" = "標籤";
 
 // en: "Last Change"
-"lastChange" = "";
+"lastChange" = "最後變更";
 
 // en: "Layer"
-"layer" = "";
+"layer" = "圖層";
 
 // en: "Layer ID"
-"layerId" = "";
+"layerId" = "圖層 ID";
 
 // en: "Layers"
-"layers" = "";
+"layers" = "圖層";
 
 // en: "Kerning Group: Left"
-"leftKerningGroup" = "";
+"leftKerningGroup" = "字距調整群組：左側";
 
 // en: "Metrics Key: Left"
-"leftMetricsKey" = "";
+"leftMetricsKey" = "度量鍵值：左側";
 
 // en: "Length"
-"length" = "";
+"length" = "長度";
 
 // en: "Link Style"
-"linkStyle" = "";
+"linkStyle" = "連結樣式";
 
 // en: "Lock Angle"
-"lockAngle" = "";
+"lockAngle" = "鎖定角度";
 
 // en: "Locked"
-"locked" = "";
+"locked" = "已鎖定";
 
 // en: "Manual Interpolation"
-"manualInterpolation" = "";
+"manualInterpolation" = "手動內插";
 
 // en: "Master ID"
-"masterId" = "";
+"masterId" = "主板 ID";
 
 // en: "Ascender"
-"metric.type.ascender" = "";
+"metric.type.ascender" = "上伸部";
 
 // en: "Baseline"
-"metric.type.baseline" = "";
+"metric.type.baseline" = "基線";
 
 // en: "Body Height"
-"metric.type.body-height" = "";
+"metric.type.body-height" = "主體高度";
 
 // en: "Cap Height"
-"metric.type.cap-height" = "";
+"metric.type.cap-height" = "大寫高度";
 
 // en: "Descender"
-"metric.type.descender" = "";
+"metric.type.descender" = "下伸部";
 
 // en: "Italic Angle"
-"metric.type.italic-angle" = "";
+"metric.type.italic-angle" = "斜體角度";
 
 // en: "Mid Height"
-"metric.type.mid-height" = "";
+"metric.type.mid-height" = "中高度";
 
 // en: "Slant Height"
-"metric.type.slant-height" = "";
+"metric.type.slant-height" = "傾斜高度";
 
 // en: "x-Height"
-"metric.type.x-height" = "";
+"metric.type.x-height" = "x 字高";
 
 // en: "Metric Bottom"
-"metricBottom" = "";
+"metricBottom" = "度量底部";
 
 // en: "Metric Left"
-"metricLeft" = "";
+"metricLeft" = "度量左側";
 
 // en: "Metric Right"
-"metricRight" = "";
+"metricRight" = "度量右側";
 
 // en: "Metric Top"
-"metricTop" = "";
+"metricTop" = "度量頂部";
 
 // en: "Metric Values"
-"metricValues" = "";
+"metricValues" = "度量值";
 
 // en: "Vertical Origin"
-"metricVertOrigin" = "";
+"metricVertOrigin" = "垂直原點";
 
 // en: "Vertical Width"
-"metricVertWidth" = "";
+"metricVertWidth" = "垂直寬度";
 
 // en: "Width"
-"metricWidth" = "";
+"metricWidth" = "寬度";
 
 // en: "Metrics"
-"metrics" = "";
+"metrics" = "度量";
 
 // en: "Name"
-"name" = "";
+"name" = "名稱";
 
 // en: "Nodes"
-"nodes" = "";
+"nodes" = "控制點";
 
 // en: "Note"
-"note" = "";
+"note" = "備註";
 
 // en: "Notes"
-"notes" = "";
+"notes" = "備註";
 
 // en: "Number Values"
-"numberValues" = "";
+"numberValues" = "數值";
 
 // en: "Numbers"
-"numbers" = "";
+"numbers" = "數字";
 
 // en: "Orientation"
-"orientation" = "";
+"orientation" = "方向";
 
 // en: "Origin"
-"origin" = "";
+"origin" = "原點";
 
 // en: "Overshoot"
-"overshoot" = "";
+"overshoot" = "超出";
 
 // en: "Part Selection"
-"partSelection" = "";
+"partSelection" = "部件選擇";
 
 // en: "Parts Settings"
-"partsSettings" = "";
+"partsSettings" = "部件設定";
 
 // en: "Piece Values"
-"piece" = "";
+"piece" = "組件值";
 
 // en: "Position"
-"pos" = "";
+"pos" = "位置";
 
 // en: "Production"
-"production" = "";
+"production" = "製作";
 
 // en: "Properties"
-"properties" = "";
+"properties" = "屬性";
 
 // en: "Reference"
-"ref" = "";
+"ref" = "參照";
 
 // en: "Kerning Group: Right"
-"rightKerningGroup" = "";
+"rightKerningGroup" = "字距調整群組：右側";
 
 // en: "Metrics Key: Right"
-"rightMetricsKey" = "";
+"rightMetricsKey" = "度量鍵值：右側";
 
 // en: "Scale"
-"scale" = "";
+"scale" = "縮放";
 
 // Script as in Latin, Cyrillic, Greek, etc.
 // en: "Script"
-"script" = "";
+"script" = "字符集";
 
 // en: "Shapes"
-"shapes" = "";
+"shapes" = "形狀";
 
 // en: "Show Measurement"
-"showMeasurement" = "";
+"showMeasurement" = "顯示度量";
 
 // en: "Size"
-"size" = "";
+"size" = "大小";
 
 // en: "Slant"
-"slant" = "";
+"slant" = "傾斜";
 
 // en: "Sort Name"
-"sortName" = "";
+"sortName" = "排序名稱";
 
 // en: "Sort Name Keep"
-"sortNameKeep" = "";
+"sortNameKeep" = "保持排序名稱";
 
 // en: "Stem Values"
-"stemValues" = "";
+"stemValues" = "字幹值";
 
 // en: "Stems"
-"stems" = "";
+"stems" = "字幹";
 
 // en: "Subcategory"
-"subCategory" = "";
+"subCategory" = "子類別";
 
 // en: "Tag"
-"tag" = "";
+"tag" = "標籤";
 
 // en: "Tags"
-"tags" = "";
+"tags" = "標籤";
 
 // en: "Kerning Group: Top"
-"topKerningGroup" = "";
+"topKerningGroup" = "字距調整群組：頂部";
 
 // en: "Metrics Key: Top"
-"topMetricsKey" = "";
+"topMetricsKey" = "度量鍵值：頂部";
 
 // en: "Type"
-"type" = "";
+"type" = "類型";
 
 // en: "Unicode"
-"unicode" = "";
+"unicode" = "Unicode";
 
 // en: "UPM"
-"unitsPerEm" = "";
+"unitsPerEm" = "每 Em 單位數";
 
 // en: "User Data"
-"userData" = "";
+"userData" = "使用者資料";
 
 // en: "Version Major"
-"versionMajor" = "";
+"versionMajor" = "主要版本";
 
 // en: "Version Minor"
-"versionMinor" = "";
+"versionMinor" = "次要版本";
 
 // en: "Vertical Origin"
-"vertOrigin" = "";
+"vertOrigin" = "垂直原點";
 
 // en: "Vertical Width"
-"vertWidth" = "";
+"vertWidth" = "垂直寬度";
 
 // en: "Metrics Key: Vertical Width"
-"vertWidthMetricsKey" = "";
+"vertWidthMetricsKey" = "度量鍵值：垂直寬度";
 
 // en: "Vertical Stems"
-"verticalStems" = "";
+"verticalStems" = "垂直字幹";
 
 // en: "Visible"
-"visible" = "";
+"visible" = "可見";
 
 // en: "Weight Class"
-"weightClass" = "";
+"weightClass" = "字重類別";
 
 // en: "Width"
-"width" = "";
+"width" = "寬度";
 
 // en: "Width Class"
-"widthClass" = "";
+"widthClass" = "寬度類別";
 
 // en: "Metrics Key: Width"
-"widthMetricsKey" = "";
+"widthMetricsKey" = "度量鍵值：寬度";
 
 // en: "X"
-"x" = "";
+"x" = "X";
 
 // en: "Y"
-"y" = "";
+"y" = "Y";

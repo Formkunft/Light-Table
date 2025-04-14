@@ -1,115 +1,115 @@
 // Description text in a dialog window
-// en: "Go to System Setting → Privacy & Security → Contacts to grant Glyphs access to your contacts."
-"access-prompt.description" = "";
+// en: "Go to System Setting → Privacy & Security → Contacts to grant Glyphs access to your contacts."
+"access-prompt.description" = "前往系統設定 → 隱私權與安全性 → 聯絡人，允許 Glyphs 存取您的聯絡人。";
 
 // Title of a dialog window
 // en: "Glyphs cannot access your contacts"
-"access-prompt.title" = "";
+"access-prompt.title" = "Glyphs 無法存取您的聯絡人";
 
 // Label for a section in the settings window for configuring whether to load profile pictures from the Contacts app
 // en: "Contacts:"
-"access.contacts.label" = "";
+"access.contacts.label" = "聯絡人：";
 
 // Button title for allowing access to the Contacts app
 // en: "Allow Access to Contacts"
-"access.contacts.toggle.title" = "";
+"access.contacts.toggle.title" = "允許存取聯絡人";
 
 // Explanation of the GitHub service
-// en: "If checked, Light Table sends email addresses to the service GitHub.com. If a user is registered at GitHub with a matching email address, Light Table can load and show their GitHub profile picture. GitHub is a subsidiary of Microsoft Corporation."
-"access.github.description" = "";
+// en: "If checked, Light Table sends email addresses to the service GitHub.com. If a user is registered at GitHub with a matching email address, Light Table can load and show their GitHub profile picture. GitHub is a subsidiary of Microsoft Corporation."
+"access.github.description" = "如果勾選，Light Table 會將電子郵件地址傳送到 GitHub.com 服務。若使用者在 GitHub 上註冊了相符的電子郵件地址，Light Table 可以載入並顯示其 GitHub 個人頭像。GitHub 是微軟公司的子公司。";
 
 // Link to the GitHub Privacy Statement webpage
 // en: "GitHub Privacy Statement"
-"access.github.info-link.title" = "";
+"access.github.info-link.title" = "GitHub 隱私權聲明";
 
 // Label for a section in the settings window for configuring whether to load profile pictures from GitHub.com
 // en: "GitHub:"
-"access.github.label" = "";
+"access.github.label" = "GitHub：";
 
 // Button title for allowing access to GitHub.com
 // en: "Allow loading profile pictures from GitHub"
-"access.github.toggle.title" = "";
+"access.github.toggle.title" = "允許從 GitHub 載入個人頭像";
 
 // Explanation of the Gravatar service
-// en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."
-"access.gravatar.description" = "";
+// en: "If checked, Light Table sends email addresses in a hashed from to the service Gravatar.com. If a user is registered at Gravatar with a matching email address, Light Table can load and show their Gravatar profile picture. Gravatar is a venture by Automattic Inc."
+"access.gravatar.description" = "如果勾選，Light Table 會以雜湊形式將電子郵件地址傳送到 Gravatar.com 服務。若使用者在 Gravatar 上註冊了相符的電子郵件地址，Light Table 可以載入並顯示其 Gravatar 個人頭像。Gravatar 是 Automattic Inc. 的事業部門。";
 
 // Link to the Gravatar Data Privacy webpage
 // en: "Gravatar Data Privacy"
-"access.gravatar.info-link.title" = "";
+"access.gravatar.info-link.title" = "Gravatar 資料隱私權";
 
 // Label for a section in the settings window for configuring whether to load profile pictures from Gravatar.com
 // en: "Gravatar:"
-"access.gravatar.label" = "";
+"access.gravatar.label" = "Gravatar：";
 
 // Button title for allowing access to Gravatar.com
 // en: "Allow loading profile pictures from Gravatar"
-"access.gravatar.toggle.title" = "";
+"access.gravatar.toggle.title" = "允許從 Gravatar 載入個人頭像";
 
 // Status message indicating that the user has denied access permissions
 // en: "Access denied"
-"access.status.access-denied" = "";
+"access.status.access-denied" = "存取已拒絕";
 
 // Status message indicating that the user has granted access permissions
 // en: "Access granted"
-"access.status.access-granted" = "";
+"access.status.access-granted" = "存取已允許";
 
 // Status message indicating that the user has not yet granted or denied access permissions
 // en: "Awaiting permission"
-"access.status.awaiting-permission" = "";
+"access.status.awaiting-permission" = "等待權限授予";
 
 // Status message indicating that the user account is restricted and can therefore not grant access permissions
 // en: "Restricted access"
-"access.status.restricted-access" = "";
+"access.status.restricted-access" = "受限的存取";
 
 // Title of the profile pictures settings
 // en: "Profile Pictures"
-"general.title" = "";
+"general.title" = "個人頭像";
 
 // Label for a menu containing different sizes in which images can appear
 // en: "Image Size:"
-"image-size.label" = "";
+"image-size.label" = "圖片大小：";
 
 // Menu item option: Images should be large
 // en: "Large"
-"image-size.option.large.title" = "";
+"image-size.option.large.title" = "大";
 
 // Menu item option: Images should be medium
 // en: "Medium"
-"image-size.option.medium.title" = "";
+"image-size.option.medium.title" = "中";
 
 // Menu item option: Images should be small
 // en: "Small"
-"image-size.option.small.title" = "";
+"image-size.option.small.title" = "小";
 
 // Label for a menu containing different styles in which images can appear
 // en: "Image style:"
-"image-style.label" = "";
+"image-style.label" = "圖片樣式：";
 
 // Menu item option: Images should appear tinted by a specific color (color coded, color tinted)
 // en: "Color-coded"
-"image-style.option.color-coded.title" = "";
+"image-style.option.color-coded.title" = "顏色編碼";
 
 // Tooltip for a menu item option
 // en: "Tints profile pictures with different colors for clearer differentiation of profiles"
-"image-style.option.color-coded.tooltip" = "";
+"image-style.option.color-coded.tooltip" = "以不同顏色調整個人頭像，以便更清楚區分不同的個人檔案";
 
 // Menu item option: Images should appear monochrome (grayscale)
 // en: "Monochrome"
-"image-style.option.monochrome.title" = "";
+"image-style.option.monochrome.title" = "單色";
 
 // Menu item option: Images should appear normally
 // en: "Normal"
-"image-style.option.normal.title" = "";
+"image-style.option.normal.title" = "正常";
 
 // Heading for a section in the settings window for configuring from where profile pictures are loaded
 // en: "Profile Picture Sources"
-"profile-picture.sources.heading" = "";
+"profile-picture.sources.heading" = "個人頭像來源";
 
 // Checkbox: Whether to show profile pictures
 // en: "Show profile pictures"
-"show-profile-pictures.general.toggle.title" = "";
+"show-profile-pictures.general.toggle.title" = "顯示個人頭像";
 
 // Checkbox: Whether to show profile pictures only if multiple different collaborations on a project exist
 // en: "Only for multiple collaborators"
-"show-profile-pictures.only-in-case-of-multiple-collaborators.toggle.title" = "";
+"show-profile-pictures.only-in-case-of-multiple-collaborators.toggle.title" = "僅針對多位協作者";

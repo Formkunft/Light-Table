@@ -1,35 +1,35 @@
 // Title of the open panel that is presented when the user wants to open a file with an app
-// en: "Choose an application to open the document “%@”."
-"choose-app-to-open-file.title" = "";
+// en: "Choose an application to open the document "%@"."
+"choose-app-to-open-file.title" = "選擇應用程式來開啟文件「%@」。";
 
 // Button copies the full path of a file
-// en: "Copy “%@” as Pathname"
-"copy-file-as-pathname" = "";
+// en: "Copy "%@" as Pathname"
+"copy-file-as-pathname" = "複製「%@」的路徑名稱";
 
 // Button that opens the Font Info window of the document
 // en: "Open Font Info Window"
-"font-info.open-window" = "";
+"font-info.open-window" = "開啟字型資訊視窗";
 
 // Button that opens a glyph in a new tab of the window
 // en: "Open Glyph in New Tab"
-"glyph.open-in-new-tab" = "";
+"glyph.open-in-new-tab" = "在新分頁中開啟字符";
 
-// Button that opens a glyph in Font View (the “Font” tab)
+// Button that opens a glyph in Font View (the "Font" tab)
 // en: "Show Glyph in Font View"
-"glyph.show-in-font-view" = "";
+"glyph.show-in-font-view" = "在字型面板中顯示字符";
 
 // Button that opens a file
 // en: "Open File"
-"open-file" = "";
+"open-file" = "開啟檔案";
 
-// Menu item for choosing an app from a submenu to open a file with (as in “Open file with app name”)
+// Menu item for choosing an app from a submenu to open a file with (as in "Open file with app name")
 // en: "Open File With"
-"open-file-with-app" = "";
+"open-file-with-app" = "使用以下程式開啟檔案";
 
-// Menu item for choosing an app to open a file with (as in “Open with other…”)
+// Menu item for choosing an app to open a file with (as in "Open with other…")
 // en: "Other…"
-"open-with-other-app" = "";
+"open-with-other-app" = "其他…";
 
 // Button that shows a file in the Finder
 // en: "Show in Finder"
-"show-in-finder" = "";
+"show-in-finder" = "在 Finder 中顯示";

@@ -1,36 +1,36 @@
 // A title separated from a subtitle
 // en: "%@ – %@"
-"%@ – %@" = "";
+"%@ – %@" = "%@ – %@";
 
 // Name of the product
 // en: "Light Table"
-"Light Table" = "";
+"Light Table" = "Light Table";
 
 // en: "Cancel"
-"button.cancel" = "";
+"button.cancel" = "取消";
 
 // Done button for a dialog window
 // en: "Done"
-"button.done" = "";
+"button.done" = "完成";
 
 // Label: placeholder text which is shown while loading data
 // en: "Loading…"
-"loading.continuation" = "";
+"loading.continuation" = "載入中…";
 
 // Multiple different things are selected
 // en: "Multiple Selection"
-"multiple-selection" = "";
+"multiple-selection" = "多重選擇";
 
 // en: "Reset"
-"reset-button.tooltip" = "";
+"reset-button.tooltip" = "重設";
 
 // en: "Reset"
-"reset.tooltip" = "";
+"reset.tooltip" = "重設";
 
 // A subtitle separated from a previous title
 // en: " — %@"
-"separator.subtitle" = "";
+"separator.subtitle" = " — %@";
 
 // A quoted word or phrase
-// en: "“%@”"
-"string.quoted" = "";
+// en: ""%@""
+"string.quoted" = "「%@」";

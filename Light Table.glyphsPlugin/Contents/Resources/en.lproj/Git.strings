@@ -1,79 +1,79 @@
 // The hint text of the email address field
 // en: "The email address is optional."
-"configuration.email-address.hint" = "電子郵件地址為選填。";
+"configuration.email-address.hint" = "";
 
 // The label of the email address field
 // en: "Email address:"
-"configuration.email-address.label" = "電子郵件地址：";
+"configuration.email-address.label" = "";
 
 // Title of the Git settings
 // en: "Git"
-"configuration.general.title" = "Git";
+"configuration.general.title" = "";
 
 // The details text of the global (system-wide) user configuration
 // en: "You can choose any name and email address you want; is not used to create an account or to log into an existing account."
-"configuration.prompt-global.details" = "您可以選擇任何您想要的名稱和電子郵件地址；這不會用於建立帳戶或登入現有帳戶。";
+"configuration.prompt-global.details" = "";
 
 // The title of the global (system-wide) user configuration
 // en: "Global Configuration"
-"configuration.prompt-global.title" = "全域設定";
+"configuration.prompt-global.title" = "";
 
 // The details text of the user configuration window
 // en: "You can choose any name and email address you want; is not used to create an account or to log into an existing account. You can change these values at any time."
-"configuration.prompt.details" = "您可以選擇任何您想要的名稱和電子郵件地址；這不會用於建立帳戶或登入現有帳戶。您可以隨時更改這些值。";
+"configuration.prompt.details" = "";
 
 // The introduction text of the user configuration window.
 // en: "Git stores a user name and email address alongside each version. This is helpful when collaborating with others."
-"configuration.prompt.introduction" = "Git 會在每個版本中儲存使用者名稱和電子郵件地址。這在與他人協作時很有幫助。";
+"configuration.prompt.introduction" = "";
 
 // The title of the user configuration window
 // en: "User Information"
-"configuration.prompt.title" = "使用者資訊";
+"configuration.prompt.title" = "";
 
 // The label of the user name field
 // en: "Name:"
-"configuration.user-name.label" = "姓名：";
+"configuration.user-name.label" = "";
 
 // Error message when the user tried to use a folder that is not a Git repository.
 // en: "Cannot open Git repository at path."
-"error.cannot-open-repository-at-path" = "無法在此路徑開啟 Git 儲存庫。";
+"error.cannot-open-repository-at-path" = "";
 
 // A generic error message shown when no Git repository is set up.
 // en: "Cannot perform Git operations when the document is not saved in a Git repository."
-"error.cannot-work-outside-repository" = "當文件未儲存在 Git 儲存庫中時，無法執行 Git 操作。";
+"error.cannot-work-outside-repository" = "";
 
 // Prefix for an Git error message.
 // en: "Git error:"
-"error.error-message-prefix" = "Git 錯誤：";
+"error.error-message-prefix" = "";
 
 // Error message when the user tried to access a file that does not exist in the Git repository.
-// en: "File not found at "%@"."
-"error.file-not-found" = "在「%@」找不到檔案。";
+// en: "File not found at “%@”."
+"error.file-not-found" = "";
 
 // Error message when the user tried to open a Git repository that does not contain a working tree.
-// en: "Cannot find a Git working tree at "%@"."
-"error.no-working-tree-at-path" = "在「%@」找不到 Git 工作目錄。";
+// en: "Cannot find a Git working tree at “%@”."
+"error.no-working-tree-at-path" = "";
 
 // Button to initialize a Git repository
 // en: "Initialize Repository"
-"initialize-repository.action.submit" = "初始化儲存庫";
+"initialize-repository.action.submit" = "";
 
 // Button to initialize a Git repository in a specific folder
-// en: "Initialize Repository in "%@""
-"initialize-repository.action.submit-with-folder" = "在「%@」初始化儲存庫";
+// en: "Initialize Repository in “%@”"
+"initialize-repository.action.submit-with-folder" = "";
 
 // Text explaining the concept of a Git repository folder
 // en: "**Choose which folder should become a Git repository from the list on the left.** Typically, the Git repository is the folder of your project. Files inside the repository folder are tracked for changes by Git, including files in nested folders."
-"initialize-repository.description.choose-repository-folder" = "**從左側列表中選擇哪個資料夾應該成為 Git 儲存庫。** 通常，Git 儲存庫是您專案的資料夾。儲存庫資料夾內的檔案都會被 Git 追蹤變更，包括巢狀資料夾中的檔案。";
+"initialize-repository.description.choose-repository-folder" = "";
 
 // Text explaining what happens after initializing a Git repository
 // en: "After the repository has been initialized, Light Table will create an initial version. From that moment forward, changes to files in the repository are tracked by Git."
-"initialize-repository.description.post-initialization" = "儲存庫初始化後，Light Table 將建立初始版本。從那時起，儲存庫中檔案的變更會被 Git 追蹤。";
+"initialize-repository.description.post-initialization" = "";
 
 // Title explaining that the Git software is the industry standard for managing versions of files.
 // en: "Git is the industry standard version control system."
-"initialize-repository.title.git-is-industry-standard" = "Git 是業界標準的版本控制系統。";
+"initialize-repository.title.git-is-industry-standard" = "";
 
-// Title explaining that Light Table is based on Git with placeholders ("<...>") that get replaced by images.
+// Title explaining that Light Table is based on Git with placeholders (“<...>”) that get replaced by images.
 // en: "<LIGHT_TABLE_LOGO> Light Table uses <GIT_LOGO> Git to keep track of file versions."
-"initialize-repository.title.light-table-uses-git" = "<LIGHT_TABLE_LOGO> Light Table 使用 <GIT_LOGO> Git 來追蹤檔案版本。";
+"initialize-repository.title.light-table-uses-git" = "";

@@ -1,120 +1,120 @@
 // Label for a closed path
 // en: [plural=one]: "%lld node"
 // en: [plural=other]: "%lld nodes"
-"%lld nodes[plural=zero]" = "%lld 個控制點";
-"%lld nodes[plural=other]" = "%lld 個控制點";
+"%lld nodes[plural=zero]" = "";
+"%lld nodes[plural=other]" = "";
 
 // Label for a open path
 // en: [plural=one]: "%lld node (open)"
 // en: [plural=other]: "%lld nodes (open)"
-"%lld nodes (open)[plural=zero]" = "%lld 個控制點（開放）";
-"%lld nodes (open)[plural=other]" = "%lld 個控制點（開放）";
+"%lld nodes (open)[plural=zero]" = "";
+"%lld nodes (open)[plural=other]" = "";
 
 // A placeholder text showing the number of unchanged values/entries/elements in a list.
 // en: [plural=one]: "%lld unchanged value"
 // en: [plural=other]: "%lld unchanged values"
-"%lld unchanged values[plural=zero]" = "%lld 個未變更的值";
-"%lld unchanged values[plural=other]" = "%lld 個未變更的值";
+"%lld unchanged values[plural=zero]" = "";
+"%lld unchanged values[plural=other]" = "";
 
 // A placeholder text showing the number of values/entries/elements in a list.
 // en: [plural=one]: "%lld value"
 // en: [plural=other]: "%lld values"
-"%lld values[plural=zero]" = "%lld 個值";
-"%lld values[plural=other]" = "%lld 個值";
+"%lld values[plural=zero]" = "";
+"%lld values[plural=other]" = "";
 
 // Boolean false or no value
 // en: "no"
-"boolean.false" = "否";
+"boolean.false" = "";
 
 // Boolean true or yes value
 // en: "yes"
-"boolean.true" = "是";
+"boolean.true" = "";
 
 // The red, green, blue, and alpha (opacity) components of a color label.
 // en: "%1$u, %2$u, %3$u, %4$u"
-"color-label.color-components.reg-green-blue-alpha" = "%1$u, %2$u, %3$u, %4$u";
+"color-label.color-components.reg-green-blue-alpha" = "";
 
 // en: "Blue"
-"color.blue" = "藍色";
+"color.blue" = "";
 
 // en: "Brown"
-"color.brown" = "棕色";
+"color.brown" = "";
 
 // en: "Cyan"
-"color.cyan" = "青色";
+"color.cyan" = "";
 
 // en: "Dark Gray"
-"color.dark-gray" = "深灰色";
+"color.dark-gray" = "";
 
 // en: "Dark Green"
-"color.dark-green" = "深綠色";
+"color.dark-green" = "";
 
 // en: "Light Gray"
-"color.light-gray" = "淺灰色";
+"color.light-gray" = "";
 
 // en: "Light Green"
-"color.light-green" = "淺綠色";
+"color.light-green" = "";
 
 // en: "Orange"
-"color.orange" = "橙色";
+"color.orange" = "";
 
 // en: "Pink"
-"color.pink" = "粉紅色";
+"color.pink" = "";
 
 // en: "Purple"
-"color.purple" = "紫色";
+"color.purple" = "";
 
 // en: "Red"
-"color.red" = "紅色";
+"color.red" = "";
 
 // en: "Yellow"
-"color.yellow" = "黃色";
+"color.yellow" = "";
 
 // The alignment of a component
 // en: "Automatic (Aligned)"
-"component.alignment.aligned" = "自動（已對齊）";
+"component.alignment.aligned" = "";
 
 // The alignment of a component
 // en: "Default"
-"component.alignment.default" = "預設";
+"component.alignment.default" = "";
 
 // The alignment of a component
 // en: "Disabled"
-"component.alignment.disable" = "已停用";
+"component.alignment.disable" = "";
 
 // The alignment of a component
 // en: "Automatic"
-"component.alignment.force" = "自動";
+"component.alignment.force" = "";
 
 // The alignment of a component
 // en: "Automatic (Horizontal)"
-"component.alignment.horizontal" = "自動（水平）";
+"component.alignment.horizontal" = "";
 
 // The alignment of a component
 // en: "None"
-"component.alignment.none" = "無";
+"component.alignment.none" = "";
 
 // The number of bytes of data
 // en: "%lld bytes"
-"data.byte-count" = "%lld 位元組";
+"data.byte-count" = "";
 
 // Short description about an item that moved from one index to another
 // en: "%1$@ → %2$@"
-"index.move" = "%1$@ → %2$@";
+"index.move" = "";
 
 // A range from a lower number to a upper number
 // en: "%1$@–%2$@"
-"index.range" = "%1$@–%2$@";
+"index.range" = "";
 
 // Tooltip for a moved entry
 // en: "This entry was moved from position %1$@ to position %2$@"
-"moved-item-tooltip" = "此項目已從位置 %1$@ 移動到位置 %2$@";
+"moved-item-tooltip" = "";
 
 // en: "Center"
-"orientation.center" = "中心";
+"orientation.center" = "";
 
 // en: "Left"
-"orientation.left" = "左側";
+"orientation.left" = "";
 
 // en: "Right"
-"orientation.right" = "右側";
+"orientation.right" = "";

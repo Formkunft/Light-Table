@@ -1,167 +1,167 @@
 // Label explaining how a glyph is restored from a previous file version
-// en: "Restores “^[%1$@](legibility: 'high')” from the selected version as “^[%2$@](legibility: 'high')” in the current font. The current “^[%3$@](legibility: 'high')” glyph is left unchanged."
-"action.restore-glyph-as-alternative.description.specific" = "";
+// en: "Restores "^[%1$@](legibility: 'high')" from the selected version as "^[%2$@](legibility: 'high')" in the current font. The current "^[%3$@](legibility: 'high')" glyph is left unchanged."
+"action.restore-glyph-as-alternative.description.specific" = "從所選版本還原「^[%1$@](legibility: 'high')」為目前字型中的「^[%2$@](legibility: 'high')」。目前的「^[%3$@](legibility: 'high')」字符保持不變。";
 
 // Action that restores a glyph from a previous version as an alternative glyph (with a name suffix like .001)
 // en: "Restore Glyph as Alternative"
-"action.restore-glyph-as-alternative.title.generic" = "";
+"action.restore-glyph-as-alternative.title.generic" = "還原字符為替代字符";
 
 // Button that restores a glyph from a previous version and gives the restored glyph a specific name
-// en: "Restore Glyph as “^[%@](legibility: 'high')”"
-"action.restore-glyph-as-alternative.title.specific" = "";
+// en: "Restore Glyph as "^[%@](legibility: 'high')""
+"action.restore-glyph-as-alternative.title.specific" = "還原字符為「^[%@](legibility: 'high')」";
 
 // Label explaining how a glyph is restored from a previous file version
-// en: "First, renames the current “^[%1$@](legibility: 'high')” glyph to “^[%2$@](legibility: 'high')”. Then, restores “^[%3$@](legibility: 'high')” from the selected version."
-"action.restore-glyph-as-replacement.description.specific" = "";
+// en: "First, renames the current "^[%1$@](legibility: 'high')" glyph to "^[%2$@](legibility: 'high')". Then, restores "^[%3$@](legibility: 'high')" from the selected version."
+"action.restore-glyph-as-replacement.description.specific" = "首先，將目前「^[%1$@](legibility: 'high')」字符重命名為「^[%2$@](legibility: 'high')」。然後，從所選版本還原「^[%3$@](legibility: 'high')」。";
 
 // Action that restores a glyph from a previous file version
 // en: "Restore Glyph"
-"action.restore-glyph-as-replacement.title.generic" = "";
+"action.restore-glyph-as-replacement.title.generic" = "還原字符";
 
 // Button that restores a glyph from a previous file version
 // en: "Restore Glyph"
-"action.restore-glyph-as-replacement.title.specific" = "";
+"action.restore-glyph-as-replacement.title.specific" = "還原字符";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "Restores the layer “%@” from the selected version by replacing the current background. Any paths, anchors, and other elements on the current background will first be deleted."
-"action.restore-layer-as-background.description.specific" = "";
+// en: "Restores the layer "%@" from the selected version by replacing the current background. Any paths, anchors, and other elements on the current background will first be deleted."
+"action.restore-layer-as-background.description.specific" = "透過替換目前背景來還原所選版本中的「%@」圖層。目前背景上的所有路徑、錨點和其他元素將首先被刪除。";
 
 // Action that restores a layer from a previous version and places it on the background of the current version
 // en: "Restore Layer as Background"
-"action.restore-layer-as-background.title.generic" = "";
+"action.restore-layer-as-background.title.generic" = "還原圖層為背景";
 
 // Button that restores a layer from a previous version and places it on the background of the current version
 // en: "Restore Layer as Background"
-"action.restore-layer-as-background.title.specific" = "";
+"action.restore-layer-as-background.title.specific" = "還原圖層為背景";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "Restores the layer “%1$@” from the selected version as a backup layer “%2$@”. The current layers are left unchanged."
-"action.restore-layer-as-backup.description.specific" = "";
+// en: "Restores the layer "%1$@" from the selected version as a backup layer "%2$@". The current layers are left unchanged."
+"action.restore-layer-as-backup.description.specific" = "從所選版本還原「%1$@」圖層為備份圖層「%2$@」。目前圖層保持不變。";
 
 // Action that restores a layer from a previous version and marks the restored layer as a backup layer
 // en: "Restore Layer as Backup Layer"
-"action.restore-layer-as-backup.title.generic" = "";
+"action.restore-layer-as-backup.title.generic" = "還原圖層為備份圖層";
 
 // Button that restores a layer from a previous version and marks the restored layer as a backup layer
 // en: "Restore Layer as Backup Layer"
-"action.restore-layer-as-backup.title.specific" = "";
+"action.restore-layer-as-backup.title.specific" = "還原圖層為備份圖層";
 
 // Label explaining how a layer is restored from a previous file version
-// en: "First, creates a backup layer “%1$@” with the contents of the current layer. Then, replaces the current layer with the layer “%2$@” from the selected version."
-"action.restore-layer-as-replacement.description.specific" = "";
+// en: "First, creates a backup layer "%1$@" with the contents of the current layer. Then, replaces the current layer with the layer "%2$@" from the selected version."
+"action.restore-layer-as-replacement.description.specific" = "首先，使用目前圖層的內容建立備份圖層「%1$@」。然後，用所選版本中的「%2$@」圖層替換目前圖層。";
 
 // Action that restores a layer from a previous file version
 // en: "Restore Layer"
-"action.restore-layer-as-replacement.title.generic" = "";
+"action.restore-layer-as-replacement.title.generic" = "還原圖層";
 
 // Button that restores a layer from a previous file version
 // en: "Restore Layer"
-"action.restore-layer-as-replacement.title.specific" = "";
+"action.restore-layer-as-replacement.title.specific" = "還原圖層";
 
 // Title of button that hides or shows details about the restoration process
 // en: "Restoration Details"
-"button.toggle-restoration-details.title" = "";
+"button.toggle-restoration-details.title" = "還原詳情";
 
 // A help text explaining what a menu item does
-// en: "Select ^[“Use current component glyph”](style: 'primary') to use the current version of the glyph referenced by the component. The visual appearance of the component may differ if the component glyph has changed between the two versions."
-"component-restoration-strategy.1.use-current-component-glyph.description" = "";
+// en: "Select ^["Use current component glyph"](style: 'primary') to use the current version of the glyph referenced by the component. The visual appearance of the component may differ if the component glyph has changed between the two versions."
+"component-restoration-strategy.1.use-current-component-glyph.description" = "選擇 ^[「使用目前組件字符」](style: 'primary') 來使用組件所引用字符的目前版本。如果組件字符在兩個版本之間發生了變化，組件的視覺外觀可能會有所不同。";
 
 // Menu item option to restore a component by referencing the current version of the component glyph
 // en: "Use current component glyph"
-"component-restoration-strategy.1.use-current-component-glyph.title" = "";
+"component-restoration-strategy.1.use-current-component-glyph.title" = "使用目前組件字符";
 
 // A help text explaining what a menu item does
-// en: "Select ^[“Restore component glyph”](style: 'primary') to restore the glyph referenced by the component (and also restore glyphs of nested component, if any) from the selected version. This maintains the visual appearance of the component."
-"component-restoration-strategy.2.restore-component-glyph.description" = "";
+// en: "Select ^["Restore component glyph"](style: 'primary') to restore the glyph referenced by the component (and also restore glyphs of nested component, if any) from the selected version. This maintains the visual appearance of the component."
+"component-restoration-strategy.2.restore-component-glyph.description" = "選擇 ^[「還原組件字符」](style: 'primary') 來從所選版本還原組件引用的字符（如果有嵌套組件，也會還原嵌套組件的字符）。這維持了組件的視覺外觀。";
 
 // Menu item option to restore a component by restoring its referenced glyph
 // en: "Restore component glyph"
-"component-restoration-strategy.2.restore-component-glyph.title" = "";
+"component-restoration-strategy.2.restore-component-glyph.title" = "還原組件字符";
 
 // A help text explaining what a menu item does
-// en: "Select ^[“Decompose and restore as paths”](style: 'primary') to maintain the visual appearance of the component without adding any additional glyphs."
-"component-restoration-strategy.3.decompose-as-paths.description" = "";
+// en: "Select ^["Decompose and restore as paths"](style: 'primary') to maintain the visual appearance of the component without adding any additional glyphs."
+"component-restoration-strategy.3.decompose-as-paths.description" = "選擇 ^[「分解並還原為路徑」](style: 'primary') 來維持組件的視覺外觀而不添加任何額外字符。";
 
 // Menu item option to restore a component by decomposing it into paths
 // en: "Decompose and restore as paths"
-"component-restoration-strategy.3.decompose-as-paths.title" = "";
+"component-restoration-strategy.3.decompose-as-paths.title" = "分解並還原為路徑";
 
 // A menu item indicated that there are multiple different restore strategies selected
 // en: "Multiple Selection"
-"component-restoration-strategy.mixed.title" = "";
+"component-restoration-strategy.mixed.title" = "多重選擇";
 
 // Short label of a glyph layer from a currently selected file version
 // en: "Layer in Selected Version"
-"component-restoration.visualization.comparison.layer-title.from-version" = "";
+"component-restoration.visualization.comparison.layer-title.from-version" = "所選版本中的圖層";
 
 // Short label of a glyph layer that was restored from a 
 // en: "Restored Layer"
-"component-restoration.visualization.comparison.layer-title.restored" = "";
+"component-restoration.visualization.comparison.layer-title.restored" = "已還原圖層";
 
 // Title of a window for restoring a glyph
-// en: "Restore glyph “^[%@](legibility: 'high')”"
-"component-restoration.window.1.title.glyph" = "";
+// en: "Restore glyph "^[%@](legibility: 'high')""
+"component-restoration.window.1.title.glyph" = "還原字符「^[%@](legibility: 'high')」";
 
 // Title of a window for restoring a layer
-// en: "Restore layer “^[%@](legibility: 'high')”"
-"component-restoration.window.1.title.layer" = "";
+// en: "Restore layer "^[%@](legibility: 'high')""
+"component-restoration.window.1.title.layer" = "還原圖層「^[%@](legibility: 'high')」";
 
 // Description of a dialog window about restoring a glyph that contains components
-// en: "The glyph “^[%@](legibility: 'high')” from the selected version contains components."
-"component-restoration.window.2.description.glyph" = "";
+// en: "The glyph "^[%@](legibility: 'high')" from the selected version contains components."
+"component-restoration.window.2.description.glyph" = "所選版本中的字符「^[%@](legibility: 'high')」包含組件。";
 
 // Description of a dialog window about restoring a layer that contains components
-// en: "The layer “^[%@](legibility: 'high')” from the selected version contains components."
-"component-restoration.window.2.description.layer" = "";
+// en: "The layer "^[%@](legibility: 'high')" from the selected version contains components."
+"component-restoration.window.2.description.layer" = "所選版本中的圖層「^[%@](legibility: 'high')」包含組件。";
 
 // Button for restoring a glyph from a different version into the current version
 // en: "Restore Glyph"
-"component-restoration.window.3.button.glyph" = "";
+"component-restoration.window.3.button.glyph" = "還原字符";
 
 // Button for restoring a layer from a different version into the current version
 // en: "Restore Layer"
-"component-restoration.window.3.button.layer" = "";
+"component-restoration.window.3.button.layer" = "還原圖層";
 
 // Heading for UI related to a glyph
 // en: "Glyph"
-"context.glyph.heading" = "";
+"context.glyph.heading" = "字符";
 
 // Heading for UI related to a layer
 // en: "Layer"
-"context.layer.heading" = "";
+"context.layer.heading" = "圖層";
 
 // Heading for buttons related to a file from a version
-// en: "Glyph “^[%@](legibility: 'high')”:"
-"heading.glyph" = "";
+// en: "Glyph "^[%@](legibility: 'high')":"
+"heading.glyph" = "字符「^[%@](legibility: 'high')」：";
 
 // Heading for buttons related to a file from a version
-// en: "Layer “%@”:"
-"heading.layer" = "";
+// en: "Layer "%@":"
+"heading.layer" = "圖層「%@」：";
 
 // Labels for a button that controls all components instead of just a single component
 // en: "All components:"
-"label.all-components.title" = "";
+"label.all-components.title" = "所有組件：";
 
 // The name of a background layer
 // en: "%@^[ (Background)](style: 'secondary')"
-"layer-name.background" = "";
+"layer-name.background" = "%@^[（背景）](style: 'secondary')";
 
 // Label for a layer that was restored at a certain date
 // en: "Restored (%@): %@: %@"
-"layer-name.restored.with-date.with-master-name" = "";
+"layer-name.restored.with-date.with-master-name" = "已還原（%@）：%@：%@";
 
 // The concept of restoring glyphs and layers from past versions
 // en: "Restoration"
-"restoration" = "";
+"restoration" = "還原";
 
 // Undo label
 // en: "Restore Layer"
-"undo.restore-layer" = "";
+"undo.restore-layer" = "還原圖層";
 
 // Undo label
 // en: "Restore Layer as Background"
-"undo.restore-layer-as-background" = "";
+"undo.restore-layer-as-background" = "還原圖層為背景";
 
 // Undo label
 // en: "Restore Layer as Backup Layer"
-"undo.restore-layer-as-backup-layer" = "";
+"undo.restore-layer-as-backup-layer" = "還原圖層為備份圖層";

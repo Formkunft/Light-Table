@@ -1,63 +1,63 @@
-// Tooltip for a button that cancels starting a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
-// en: "Don’t align at offset"
-"alignment-offset.none.description" = "";
+// Tooltip for a button that cancels starting a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
+// en: "Don't align at offset"
+"alignment-offset.none.description" = "不依偏移對齊";
 
-// Tooltip for a button that starts a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
+// Tooltip for a button that starts a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
 // en: "Align at offset…"
-"alignment-offset.start.description" = "";
+"alignment-offset.start.description" = "依偏移對齊…";
 
-// Tooltip for a button that stops a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
+// Tooltip for a button that stops a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of "offset", the term "measurement line" may be used for the translation)
 // en: "Stop aligning at offset"
-"alignment-offset.stop.description" = "";
+"alignment-offset.stop.description" = "停止依偏移對齊";
 
 // Tooltip for a button that aligns layers on the bottom edge for all layers if the Option key is pressed
 // en: "Align bottom edges for all layers (hold Option)"
-"alignment.bottom.description" = "";
+"alignment.bottom.description" = "對齊所有圖層的底部邊緣（按住 Option）";
 
 // Tooltip for a button that aligns layers on the bottom edge
 // en: "Align bottom edges"
-"alignment.bottom.title" = "";
+"alignment.bottom.title" = "對齊底部邊緣";
 
 // Tooltip for a button that aligns layers on the right edge for all layers if the Option key is pressed
 // en: "Align centers for all layers (hold Option)"
-"alignment.center.description" = "";
+"alignment.center.description" = "對齊所有圖層的中心（按住 Option）";
 
 // Tooltip for a button that aligns layers on the right edge
 // en: "Align centers"
-"alignment.center.title" = "";
+"alignment.center.title" = "對齊中心";
 
 // Tooltip for a button that aligns layers on the left edge for all layers if the Option key is pressed
 // en: "Align left edges for all layers (hold Option)"
-"alignment.left.description" = "";
+"alignment.left.description" = "對齊所有圖層的左側邊緣（按住 Option）";
 
 // Tooltip for a button that aligns layers on the left edge
 // en: "Align left edges"
-"alignment.left.title" = "";
+"alignment.left.title" = "對齊左側邊緣";
 
 // Tooltip for a button that disables layer alignment for all layers if the Option key is pressed
 // en: "No alignment for all layers (hold Option)"
-"alignment.none.description" = "";
+"alignment.none.description" = "所有圖層不對齊（按住 Option）";
 
 // Tooltip for a button that disables layer alignment
 // en: "No alignment"
-"alignment.none.title" = "";
+"alignment.none.title" = "不對齊";
 
 // Tooltip for a button that aligns layers on the right edge for all layers if the Option key is pressed
 // en: "Align right edges for all layers (hold Option)"
-"alignment.right.description" = "";
+"alignment.right.description" = "對齊所有圖層的右側邊緣（按住 Option）";
 
 // Tooltip for a button that aligns layers on the right edge
 // en: "Align right edges"
-"alignment.right.title" = "";
+"alignment.right.title" = "對齊右側邊緣";
 
 // Tooltip for a button that aligns layers on the top edge for all layers if the Option key is pressed
 // en: "Align top edges for all layers (hold Option)"
-"alignment.top.description" = "";
+"alignment.top.description" = "對齊所有圖層的頂部邊緣（按住 Option）";
 
 // Tooltip for a button that aligns layers on the top edge
 // en: "Align top edges"
-"alignment.top.title" = "";
+"alignment.top.title" = "對齊頂部邊緣";
 
 // Button that shows a menu with glyph and layer restore options
 // en: "Restore…"
-"restore.button.continuation" = "";
+"restore.button.continuation" = "還原…";

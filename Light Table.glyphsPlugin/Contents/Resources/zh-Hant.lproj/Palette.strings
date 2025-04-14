@@ -1,159 +1,159 @@
 // Label: heading of a section
 // en: "%@:"
-"%@:" = "";
+"%@:" = "%@：";
 
 // Button: shows the about window
 // en: "About Light Table"
-"about-light-table.button" = "";
+"about-light-table.button" = "關於 Light Table";
 
 // Tooltip for a button that opens a menu that allows performing actions on a version
 // en: "Actions"
-"actions.button.tooltip" = "";
+"actions.button.tooltip" = "動作";
 
 // Tooltip for a button that creates a new version of the document
 // en: "Create version"
-"create-version.button.tooltip" = "";
+"create-version.button.tooltip" = "建立版本";
 
 // Label indicating an error
 // en: "Error"
-"error.heading" = "";
+"error.heading" = "錯誤";
 
 // Tooltip for a button that opens a menu that allows filtering versions
 // en: "Filter versions"
-"filter-versions.button.tooltip" = "";
+"filter-versions.button.tooltip" = "篩選版本";
 
-// Text displaying the current progress of indexing (for example, “20/100” when 20% are complete)
+// Text displaying the current progress of indexing (for example, "20/100" when 20% are complete)
 // en: "%1$lld/%2$lld"
-"filter.indexing.progress" = "";
+"filter.indexing.progress" = "%1$lld/%2$lld";
 
 // Text displayed while indexing (processing data in the background to create a search index)
 // en: "Indexing…"
-"filter.indexing.title" = "";
+"filter.indexing.title" = "建立索引中…";
 
 // Title for list of options that control which versions to show
 // en: "Show:"
-"filter.show-versions.header" = "";
+"filter.show-versions.header" = "顯示：";
 
 // Option that shows all versions
 // en: "All Document Versions"
-"filter.show-versions.option.document" = "";
+"filter.show-versions.option.document" = "所有文件版本";
 
 // Option that shows only versions that affect the active glyph
 // en: "Versions Affecting Active Glyph"
-"filter.show-versions.option.glyph" = "";
+"filter.show-versions.option.glyph" = "影響目前字符的版本";
 
 // Option that shows only versions that affect the active layer
 // en: "Versions Affecting Active Layer"
-"filter.show-versions.option.layer" = "";
+"filter.show-versions.option.layer" = "影響目前圖層的版本";
 
 // Error message shown when a file type is not supported for filtering a list of versions
-// en: "Filtering is not supported for “.%@” files"
-"filter.unsupported-file-type.title" = "";
+// en: "Filtering is not supported for ".%@" files"
+"filter.unsupported-file-type.title" = "不支援對「.%@」檔案進行篩選";
 
 // Label: heading of a section
 // en: "Git:"
-"git.heading.leading" = "";
+"git.heading.leading" = "Git：";
 
 // Label of a button that shows a full error report with log messages
 // en: "Show Error Report"
-"placeholder.error.button.title" = "";
+"placeholder.error.button.title" = "顯示錯誤報告";
 
 // Placeholder text shown when an error occurs
 // en: "Error"
-"placeholder.error.title" = "";
+"placeholder.error.title" = "錯誤";
 
 // Placeholder text shown when a document is not saved as a file
 // en: "This document is not yet saved to a file."
-"placeholder.no-file.description" = "";
+"placeholder.no-file.description" = "此文件尚未儲存為檔案。";
 
 // Placeholder text shown when a document is not saved as a file
 // en: "No File"
-"placeholder.no-file.title" = "";
+"placeholder.no-file.title" = "無檔案";
 
 // Text indicating that a list of versions is empty because no version exists for the currently selected glyph.
 // en: "There are no versions for the selected glyph."
-"placeholder.no-filter-matches.glyph.description" = "";
+"placeholder.no-filter-matches.glyph.description" = "選取的字符沒有任何版本。";
 
 // Text indicating that a list of versions is empty because no version exists for the currently selected layer.
 // en: "There are no versions for the selected layer."
-"placeholder.no-filter-matches.layer.description" = "";
+"placeholder.no-filter-matches.layer.description" = "選取的圖層沒有任何版本。";
 
 // Label of a button that initializes a Git repository
 // en: "Set up Repository…"
-"placeholder.no-repository.button.title" = "";
+"placeholder.no-repository.button.title" = "設定儲存庫…";
 
 // Placeholder text shown when a document is not saved into a Git repository
 // en: "This file is not stored in a Git repository."
-"placeholder.no-repository.description" = "";
+"placeholder.no-repository.description" = "此檔案未儲存在 Git 儲存庫中。";
 
 // Placeholder text shown when a document is not saved into a Git repository
 // en: "No Repository"
-"placeholder.no-repository.title" = "";
+"placeholder.no-repository.title" = "無儲存庫";
 
 // Placeholder text shown when the list of versions is empty
 // en: "There are no versions of this document yet. Click the plus button to create a new version."
-"placeholder.no-versions.description" = "";
+"placeholder.no-versions.description" = "此文件尚無任何版本。點擊加號按鈕以建立新版本。";
 
 // Placeholder text shown when the list of versions is empty
 // en: "No Versions"
-"placeholder.no-versions.title" = "";
+"placeholder.no-versions.title" = "無版本";
 
 // Label: title of a list of branches
 // en: "Branches:"
-"reference-picker.branches.heading.continuation" = "";
+"reference-picker.branches.heading.continuation" = "分支：";
 
 // Label: title of a control to pick a reference
 // en: "Reference"
-"reference-picker.heading" = "";
+"reference-picker.heading" = "參照";
 
 // Label: title of a list of remote references
 // en: "Remotes:"
-"reference-picker.remotes.heading.continuation" = "";
+"reference-picker.remotes.heading.continuation" = "遠端：";
 
 // Label: title of a list of tags
 // en: "Tags"
-"reference-picker.tags.heading" = "";
+"reference-picker.tags.heading" = "標籤";
 
 // Label explaining that a document first needs to be saved to a file before it can be used with Git
 // en: "Save the document to a file to use Git"
-"save-document-to-file-to-use-git.message" = "";
+"save-document-to-file-to-use-git.message" = "儲存文件為檔案以使用 Git";
 
 // Tooltip for a button that scrolls to the selected version in a list of versions
 // en: "Scroll to selected version"
-"scroll-to-selected-version.button.tooltip" = "";
+"scroll-to-selected-version.button.tooltip" = "捲動至選取的版本";
 
 // Button: opens a window for setting up a version control system for the current document
 // en: "Set up Git Repository…"
-"set-up-git-repository.button" = "";
+"set-up-git-repository.button" = "設定 Git 儲存庫…";
 
 // Button: opens the settings window
 // en: "Settings…"
-"settings.button.continuation" = "";
+"settings.button.continuation" = "設定…";
 
 // Tooltip for a button that opens a menu that allows setting options for the view
 // en: "View Options"
-"view-options.button.tooltip" = "";
+"view-options.button.tooltip" = "檢視選項";
 
 // Heading for menu items that show color labels
 // en: "Show Color Labels:"
-"view-options.heading.color-labels.title" = "";
+"view-options.heading.color-labels.title" = "顯示顏色標籤：";
 
 // Menu item that shows color labels for both glyphs and layers
 // en: "Glyph & Layer"
-"view-options.item.glyph-and-layer.title" = "";
+"view-options.item.glyph-and-layer.title" = "字符和圖層";
 
 // Menu item that shows color labels for glyphs
 // en: "Glyph"
-"view-options.item.glyph.title" = "";
+"view-options.item.glyph.title" = "字符";
 
 // Menu item that shows color labels for layers
 // en: "Layer"
-"view-options.item.layer.title" = "";
+"view-options.item.layer.title" = "圖層";
 
 // Menu item that does not show any color labels
 // en: "None"
-"view-options.item.none.title" = "";
+"view-options.item.none.title" = "無";
 
 // Button: shows the changelog window
-// en: "What’s New in Light Table"
-"what-is-new-in-light-table.button" = "";
+// en: "What's New in Light Table"
+"what-is-new-in-light-table.button" = "Light Table 新功能";

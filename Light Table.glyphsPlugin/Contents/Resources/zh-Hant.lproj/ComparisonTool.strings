@@ -1,7 +1,7 @@
 // Tooltip: explains a closed lock icon that indicates the no modifications are possible for the locked glyph
 // en: "This glyph is locked; no changes are possible"
-"locked-glyph-message" = "";
+"locked-glyph-message" = "此字符已鎖定；無法進行修改";
 
 // Name of the comparison tool
 // en: "Light Table"
-"tool.name" = "";
+"tool.name" = "Light Table";

@@ -1,59 +1,59 @@
 // Heading of a section of items related to the Git repository
 // en: "Repository"
-"section.repository.title" = "儲存庫";
+"section.repository.title" = "";
 
 // The Git status for a file that has been added
 // en: "added"
-"status.added" = "已新增";
+"status.added" = "";
 
 // The Git status for a file whose type has been changed
 // en: "changed type"
-"status.changed-type" = "已變更類型";
+"status.changed-type" = "";
 
 // The Git status for a file that has been copied
 // en: "copied"
-"status.copied" = "已複製";
+"status.copied" = "";
 
 // The Git status for a file that has been deleted
 // en: "deleted"
-"status.deleted" = "已刪除";
+"status.deleted" = "";
 
 // The Git status for a file that is ignored (explicitly not part of the Git repository)
 // en: "ignored"
-"status.ignored" = "已忽略";
+"status.ignored" = "";
 
 // The Git status for a file that has been modified
 // en: "modified"
-"status.modified" = "已修改";
+"status.modified" = "";
 
 // The status of a piece of data before it was moved up or down in a list
 // en: "position before move"
-"status.move.source" = "移動前的位置";
+"status.move.source" = "";
 
 // The status of a piece of data after it was moved up or down in a list
 // en: "position after move"
-"status.move.target" = "移動後的位置";
+"status.move.target" = "";
 
 // The Git status for a file that has been renamed
 // en: "renamed"
-"status.renamed" = "已重新命名";
+"status.renamed" = "";
 
 // The Git status for a file whose status is unknown
 // en: "unknown"
-"status.unknown" = "未知";
+"status.unknown" = "";
 
 // The Git status for a file that is unmerged (not merged because of a conflict)
 // en: "unmerged"
-"status.unmerged" = "未合併";
+"status.unmerged" = "";
 
 // The Git status for a file that is untracked (not yet part of the Git repository)
 // en: "untracked"
-"status.untracked" = "未追蹤";
+"status.untracked" = "";
 
 // A short description of a view where changes are diffed, staged, and committed
 // en: "Create New Versions"
-"view.working-copy.subtitle" = "建立新版本";
+"view.working-copy.subtitle" = "";
 
 // Title of a view where changes are diffed, staged, and committed
 // en: "Working Copy"
-"view.working-copy.title" = "工作複本";
+"view.working-copy.title" = "";

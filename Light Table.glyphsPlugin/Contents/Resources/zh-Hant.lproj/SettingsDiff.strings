@@ -1,55 +1,55 @@
 // Title of the differences settings
 // en: "Diff"
-"general.title" = "";
+"general.title" = "差異";
 
 // Label for controlling the indentation
 // en: "Indentation:"
-"structured-diff.indentation.label" = "";
+"structured-diff.indentation.label" = "縮排：";
 
 // Label for controlling the space between rows
 // en: "Row Spacing:"
-"structured-diff.row-spacing.label" = "";
+"structured-diff.row-spacing.label" = "列間距：";
 
 // Normal spacing
 // en: "Normal"
-"structured-diff.row-spacing.option.normal.label" = "";
+"structured-diff.row-spacing.option.normal.label" = "正常";
 
 // Relaxed row spacing
 // en: "Relaxed"
-"structured-diff.row-spacing.option.relaxed.label" = "";
+"structured-diff.row-spacing.option.relaxed.label" = "寬鬆";
 
 // Very relaxed row spacing
 // en: "Very Relaxed"
-"structured-diff.row-spacing.option.relaxed.very.label" = "";
+"structured-diff.row-spacing.option.relaxed.very.label" = "非常寬鬆";
 
 // Tight row spacing
 // en: "Tight"
-"structured-diff.row-spacing.option.tight.label" = "";
+"structured-diff.row-spacing.option.tight.label" = "緊密";
 
 // Very tight row spacing
 // en: "Very Tight"
-"structured-diff.row-spacing.option.tight.very.label" = "";
+"structured-diff.row-spacing.option.tight.very.label" = "非常緊密";
 
 // Title of the Structured Diff settings
 // en: "Structured Diff"
-"structured-diff.title" = "";
+"structured-diff.title" = "結構化差異";
 
 // Label for controlling the indentation
 // en: "Value indentation:"
-"structured-diff.value-indentation.label" = "";
+"structured-diff.value-indentation.label" = "數值縮排：";
 
 // Equal indentation
 // en: "Equal"
-"structured-diff.value-indentation.option.equal.label" = "";
+"structured-diff.value-indentation.option.equal.label" = "相等";
 
 // Increased indentation
 // en: "Increased"
-"structured-diff.value-indentation.option.increased.label" = "";
+"structured-diff.value-indentation.option.increased.label" = "增加";
 
 // No indentation
 // en: "None"
-"structured-diff.value-indentation.option.none.label" = "";
+"structured-diff.value-indentation.option.none.label" = "無";
 
 // Reduced indentation
 // en: "Reduced"
-"structured-diff.value-indentation.option.reduced.label" = "";
+"structured-diff.value-indentation.option.reduced.label" = "減少";
